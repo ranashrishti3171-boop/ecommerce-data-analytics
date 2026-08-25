@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,City,Category,Sub_Category,Product_Name,Quantity,Price,Discount,Payment_Mode,Shipping_Cost,Profit,Revenue,Month,Year
+ORD100001,2025-01-16,10161,Vikram Shah,East,Kolkata,Home & Kitchen,Home Decor,Table Lamp,2,2278.0,5.0,Card,445.94,1198.51,4328.2,1,2025
+ORD100002,2025-10-29,10039,Pooja Patel,North,Chandigarh,Sports,Team Sports,Football,1,1497.34,5.0,Card,293.55,-76.13,1422.473,10,2025
+ORD100003,2025-03-06,10389,Nikhil Joshi,West,Pune,Electronics,Wearables,Smart Watch,1,3549.5,5.0,UPI,154.45,922.11,3372.0249999999996,3,2025
+ORD100004,2025-11-01,10399,Pooja Kumar,North,Delhi,Sports,Fitness,Yoga Mat,1,661.77,20.0,COD,138.77,-18.61,529.416,11,2025
+ORD100005,2025-11-29,10062,Ananya Sharma,West,Ahmedabad,Sports,Team Sports,Football,5,1466.36,0.0,Card,381.89,1964.67,7331.799999999999,11,2025
+ORD100006,2025-08-29,10218,Sneha Verma,West,Pune,Electronics,Laptop,Laptop,4,82179.26,15.0,Card,120.86,68404.96,279409.484,8,2025
+ORD100007,2025-06-27,10419,Pooja Kumar,East,Kolkata,Electronics,Laptop,Laptop,2,89835.11,20.0,Card,291.63,26379.1,143736.176,6,2025
+ORD100008,2025-04-15,10267,Rohan Mehta,North,Lucknow,Home & Kitchen,Kitchen Appliances,Air Fryer,1,5274.24,5.0,UPI,387.92,1469.93,5010.527999999999,4,2025
+ORD100009,2025-05-04,10226,Nikhil Verma,South,Bengaluru,Home & Kitchen,Home Furnishing,Bedsheet,1,1093.53,10.0,Card,64.04,253.61,984.177,5,2025
+ORD100010,2025-10-28,10040,Aditi Joshi,West,Mumbai,Sports,Cricket,Cricket Bat,2,4635.97,15.0,UPI,314.77,1520.83,7881.149,10,2025
+ORD100011,2025-02-28,10353,Vikram Malhotra,South,Chennai,Clothing,Men Clothing,Jacket,3,3979.27,15.0,Card,315.66,1908.2,10147.1385,2,2025
+ORD100012,2025-01-23,10031,Neha Singh,West,Ahmedabad,Sports,Fitness,Dumbbells,1,4279.79,0.0,Net Banking,30.47,976.96,4279.79,1,2025
+ORD100013,2025-06-04,10046,Aditya Gupta,West,Surat,Electronics,Audio,Bluetooth Speaker,5,5717.24,5.0,Card,256.79,4556.5,27156.889999999996,6,2025
+ORD100014,2025-11-15,10224,Priya Malhotra,North,Chandigarh,Electronics,Smartphone,Mobile Phone,1,22846.43,15.0,COD,102.98,3384.33,19419.4655,11,2025
+ORD100015,2025-04-30,10022,Isha Malhotra,West,Surat,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,6421.92,25.0,Net Banking,344.85,1322.49,4816.4400000000005,4,2025
+ORD100016,2025-03-20,10646,Aditya Verma,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,3,24817.74,0.0,UPI,226.79,9785.76,74453.22,3,2025
+ORD100017,2025-03-16,10157,Meera Shah,North,Delhi,Electronics,Audio,Bluetooth Speaker,1,2310.76,10.0,Card,144.77,131.36,2079.684,3,2025
+ORD100018,2025-09-19,10084,Vivaan Gupta,North,Lucknow,Home & Kitchen,Home Decor,Table Lamp,3,1496.14,5.0,UPI,334.26,459.2,4263.999,9,2025
+ORD100019,2025-07-27,10271,Vivaan Patel,North,Delhi,Home & Kitchen,Kitchen,Cookware Set,2,2468.83,0.0,UPI,94.54,1199.32,4937.66,7,2025
+ORD100020,2025-11-12,10536,Vikram Verma,East,Patna,Home & Kitchen,Kitchen,Cookware Set,5,2578.93,5.0,UPI,281.3,2439.41,12249.9175,11,2025
+ORD100021,2025-04-27,10501,Isha Kumar,South,Bengaluru,Electronics,Smartphone,Mobile Phone,2,29697.66,25.0,UPI,225.13,8821.43,44546.49,4,2025
+ORD100022,2025-08-05,10301,Priya Malhotra,South,Hyderabad,Home & Kitchen,Home Furnishing,Bedsheet,3,2081.72,0.0,Card,74.07,1906.07,6245.16,8,2025
+ORD100023,2025-12-19,10242,Rahul Sharma,West,Surat,Electronics,Wearables,Smart Watch,2,3334.73,5.0,UPI,63.0,1690.8,6335.987,12,2025
+ORD100024,2025-04-16,10143,Aarav Sharma,North,Jaipur,Electronics,Laptop,Laptop,1,49705.55,10.0,COD,43.27,6066.85,44734.995,4,2025
+ORD100025,2025-11-24,10264,Pooja Joshi,North,Lucknow,Electronics,Wearables,Smart Watch,2,10116.42,5.0,COD,63.65,2768.55,19221.198,11,2025
+ORD100026,2025-10-24,10127,Simran Gupta,East,Bhubaneswar,Beauty,Fragrance,Perfume,1,2203.54,10.0,Card,303.12,203.36,1983.186,10,2025
+ORD100027,2025-11-05,10631,Karan Joshi,East,Patna,Sports,Footwear,Running Shoes,2,3892.42,10.0,COD,125.95,721.49,7006.356000000001,11,2025
+ORD100028,2025-04-03,10035,Meera Shah,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,1,1973.6,15.0,UPI,433.53,22.54,1677.56,4,2025
+ORD100029,2025-01-20,10382,Meera Shah,West,Mumbai,Clothing,Men Clothing,Jacket,2,3401.55,10.0,Card,42.35,1654.68,6122.790000000001,1,2025
+ORD100030,2025-07-05,10371,Meera Verma,East,Patna,Sports,Cricket,Cricket Bat,4,2421.84,10.0,Card,337.91,2676.92,8718.624000000002,7,2025
+ORD100031,2025-11-30,10526,Priya Sharma,West,Surat,Home & Kitchen,Kitchen Appliances,Air Fryer,2,6184.7,0.0,Card,70.91,3326.9,12369.4,11,2025
+ORD100032,2025-12-11,10145,Arjun Gupta,East,Patna,Clothing,Men Clothing,Jeans,5,1516.27,10.0,UPI,354.86,2005.79,6823.215,12,2025
+ORD100033,2025-09-27,10630,Priya Joshi,West,Ahmedabad,Electronics,Laptop,Laptop,1,65194.99,10.0,UPI,218.76,13109.38,58675.491,9,2025
+ORD100034,2025-05-01,10284,Isha Mehta,West,Mumbai,Electronics,Wearables,Smart Watch,2,5888.95,10.0,COD,326.26,2471.58,10600.11,5,2025
+ORD100035,2025-05-10,10334,Priya Mehta,West,Pune,Electronics,Audio,Bluetooth Speaker,1,3233.01,0.0,Card,124.37,952.86,3233.01,5,2025
+ORD100036,2025-10-03,10490,Meera Malhotra,North,Delhi,Clothing,Men Clothing,Jacket,5,4877.92,0.0,Net Banking,298.43,3465.89,24389.6,10,2025
+ORD100037,2025-12-06,10294,Nikhil Singh,South,Hyderabad,Clothing,Men Clothing,Jacket,1,1964.5,0.0,Net Banking,337.82,325.75,1964.5,12,2025
+ORD100038,2025-03-27,10495,Sanya Singh,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,1,1890.94,25.0,UPI,37.36,411.53,1418.205,3,2025
+ORD100039,2025-10-29,10345,Karan Verma,West,Ahmedabad,Home & Kitchen,Kitchen,Cookware Set,4,4322.56,20.0,COD,310.13,2870.33,13832.192000000003,10,2025
+ORD100040,2025-06-18,10161,Vikram Shah,South,Chennai,Sports,Fitness,Yoga Mat,5,1478.16,0.0,UPI,75.83,1482.65,7390.8,6,2025
+ORD100041,2025-10-06,10594,Aditi Sharma,West,Surat,Home & Kitchen,Kitchen Appliances,Air Fryer,2,8815.92,0.0,Card,32.42,5179.69,17631.84,10,2025
+ORD100042,2025-11-01,10605,Rahul Shah,South,Hyderabad,Home & Kitchen,Home Furnishing,Bedsheet,2,1444.4,0.0,Card,100.75,514.36,2888.8,11,2025
+ORD100043,2025-10-31,10328,Vikram Patel,West,Mumbai,Clothing,Men Clothing,Jeans,3,2828.47,15.0,UPI,92.58,1660.64,7212.5985,10,2025
+ORD100044,2025-01-21,10364,Karan Malhotra,South,Kochi,Home & Kitchen,Kitchen Appliances,Air Fryer,1,3549.16,10.0,COD,132.26,311.65,3194.244,1,2025
+ORD100045,2025-02-21,10334,Priya Mehta,North,Delhi,Clothing,Women Clothing,Kurta,2,2373.29,10.0,Card,67.64,758.61,4271.9220000000005,2,2025
+ORD100046,2025-09-20,10350,Neha Gupta,South,Bengaluru,Clothing,Men Clothing,T-Shirt,2,599.58,10.0,COD,74.89,176.03,1079.2440000000001,9,2025
+ORD100047,2025-06-22,10172,Pooja Verma,South,Kochi,Clothing,Men Clothing,T-Shirt,2,1446.54,10.0,COD,401.37,433.66,2603.772,6,2025
+ORD100048,2025-06-19,10637,Ananya Patel,North,Chandigarh,Electronics,Smartphone,Mobile Phone,4,27542.38,0.0,COD,145.42,18155.97,110169.52,6,2025
+ORD100049,2025-08-30,10439,Isha Sharma,South,Chennai,Beauty,Fragrance,Perfume,1,1552.75,15.0,Card,254.85,185.45,1319.8374999999999,8,2025
+ORD100050,2025-03-19,10650,Pooja Shah,South,Hyderabad,Home & Kitchen,Home Furnishing,Bedsheet,2,711.06,0.0,UPI,280.76,9.75,1422.12,3,2025
+ORD100051,2025-10-07,10459,Pooja Sharma,South,Bengaluru,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,2968.49,10.0,Card,145.15,814.91,2671.641,10,2025
+ORD100052,2025-12-19,10648,Kavya Shah,North,Delhi,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4097.48,0.0,Card,58.4,645.99,4097.48,12,2025
+ORD100053,2025-10-27,10067,Nikhil Kumar,North,Delhi,Electronics,Laptop,Laptop,1,59985.09,10.0,Net Banking,307.97,12377.6,53986.581,10,2025
+ORD100054,2025-02-05,10442,Aditya Sharma,West,Pune,Clothing,Men Clothing,Jacket,5,3722.36,15.0,UPI,201.98,4071.02,15820.029999999999,2,2025
+ORD100055,2025-01-03,10648,Kavya Shah,West,Surat,Clothing,Men Clothing,Jacket,4,2321.25,5.0,UPI,446.84,779.07,8820.75,1,2025
+ORD100056,2025-08-19,10406,Vivaan Shah,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,3,4355.64,10.0,UPI,56.51,4052.65,11760.228000000003,8,2025
+ORD100057,2025-11-27,10449,Priya Joshi,North,Delhi,Clothing,Footwear,Sneakers,3,2974.75,20.0,COD,97.94,1155.51,7139.400000000001,11,2025
+ORD100058,2025-08-27,10012,Sneha Joshi,East,Ranchi,Beauty,Haircare,Shampoo,1,785.76,10.0,Card,253.64,-117.56,707.184,8,2025
+ORD100059,2025-06-12,10399,Pooja Kumar,North,Jaipur,Clothing,Men Clothing,T-Shirt,1,1164.45,5.0,Net Banking,299.21,-115.4,1106.2275,6,2025
+ORD100060,2025-12-02,10110,Kavya Joshi,North,Chandigarh,Clothing,Men Clothing,T-Shirt,3,592.32,0.0,Card,91.48,363.42,1776.96,12,2025
+ORD100061,2025-01-12,10173,Vivaan Mehta,North,Chandigarh,Clothing,Men Clothing,Jacket,5,3013.74,5.0,Card,214.59,4831.93,14315.264999999998,1,2025
+ORD100062,2025-05-31,10060,Isha Malhotra,East,Kolkata,Electronics,Laptop,Laptop,1,47760.73,15.0,Card,54.43,4871.35,40596.620500000005,5,2025
+ORD100063,2025-05-29,10099,Kavya Sharma,North,Lucknow,Electronics,Accessories,Wireless Earbuds,1,2352.45,0.0,Card,56.16,526.19,2352.45,5,2025
+ORD100064,2025-11-04,10221,Kavya Patel,West,Mumbai,Electronics,Wearables,Smart Watch,2,10556.15,10.0,COD,200.02,3789.07,19001.07,11,2025
+ORD100065,2025-05-13,10598,Arjun Gupta,South,Hyderabad,Clothing,Footwear,Sneakers,1,3547.85,5.0,UPI,139.12,475.4,3370.4575,5,2025
+ORD100066,2025-08-30,10213,Rahul Singh,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,2,1057.94,0.0,UPI,185.99,471.79,2115.88,8,2025
+ORD100067,2025-07-15,10510,Simran Joshi,East,Kolkata,Beauty,Haircare,Hair Dryer,3,1608.69,10.0,COD,287.91,391.9,4343.463,7,2025
+ORD100068,2025-01-17,10192,Aarav Verma,South,Chennai,Sports,Fitness,Yoga Mat,2,1725.68,15.0,UPI,147.33,257.86,2933.656,1,2025
+ORD100069,2025-03-20,10200,Meera Patel,South,Kochi,Clothing,Women Clothing,Kurta,4,1511.12,20.0,UPI,445.08,835.14,4835.584,3,2025
+ORD100070,2025-04-19,10385,Nikhil Mehta,North,Lucknow,Electronics,Accessories,Wireless Earbuds,3,1600.4,0.0,Card,192.79,1055.01,4801.200000000001,4,2025
+ORD100071,2025-02-20,10540,Ananya Gupta,West,Surat,Beauty,Fragrance,Perfume,1,1114.87,10.0,COD,141.32,234.5,1003.3829999999999,2,2025
+ORD100072,2025-02-18,10329,Meera Joshi,North,Lucknow,Sports,Fitness,Yoga Mat,1,838.93,0.0,Net Banking,230.87,-107.47,838.93,2,2025
+ORD100073,2025-09-26,10374,Pooja Joshi,South,Kochi,Electronics,Laptop,Laptop,2,78663.29,15.0,Card,83.8,38971.4,133727.593,9,2025
+ORD100074,2025-04-24,10124,Simran Sharma,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,4,2114.63,0.0,UPI,402.51,1391.45,8458.52,4,2025
+ORD100075,2025-01-18,10233,Arjun Malhotra,South,Kochi,Clothing,Men Clothing,T-Shirt,2,643.17,25.0,COD,264.28,57.03,964.7549999999999,1,2025
+ORD100076,2025-01-22,10345,Karan Verma,North,Lucknow,Home & Kitchen,Home Furnishing,Bedsheet,2,1983.1,0.0,Card,68.59,443.31,3966.2,1,2025
+ORD100077,2025-06-20,10278,Arjun Kumar,East,Patna,Beauty,Haircare,Hair Dryer,3,2858.56,10.0,UPI,93.66,2651.08,7718.112,6,2025
+ORD100078,2025-05-24,10186,Neha Gupta,East,Kolkata,Beauty,Haircare,Shampoo,3,967.54,20.0,UPI,111.46,239.75,2322.096,5,2025
+ORD100079,2025-04-22,10066,Aditi Mehta,East,Kolkata,Home & Kitchen,Home Furnishing,Bedsheet,3,1653.03,0.0,COD,44.83,878.1,4959.09,4,2025
+ORD100080,2025-08-31,10587,Rahul Joshi,North,Chandigarh,Beauty,Skincare,Face Cream,3,864.38,10.0,UPI,191.86,304.6,2333.826,8,2025
+ORD100081,2025-11-06,10469,Simran Sharma,West,Pune,Home & Kitchen,Home Decor,Table Lamp,2,705.79,10.0,UPI,363.56,88.48,1270.422,11,2025
+ORD100082,2025-07-05,10336,Aditya Verma,East,Ranchi,Clothing,Women Clothing,Kurta,2,1709.19,10.0,Card,368.1,585.16,3076.5420000000004,7,2025
+ORD100083,2025-06-01,10406,Vivaan Shah,West,Mumbai,Home & Kitchen,Home Furnishing,Bedsheet,1,2091.3,10.0,COD,247.25,252.56,1882.1700000000003,6,2025
+ORD100084,2025-11-15,10146,Vikram Sharma,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,5192.01,10.0,Net Banking,421.91,573.09,4672.809,11,2025
+ORD100085,2025-07-17,10399,Pooja Kumar,South,Kochi,Clothing,Women Clothing,Kurta,5,2045.0,10.0,Net Banking,115.23,2028.56,9202.5,7,2025
+ORD100086,2025-04-28,10254,Rahul Gupta,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,1,31988.13,5.0,Net Banking,138.9,8014.07,30388.7235,4,2025
+ORD100087,2025-03-15,10049,Isha Mehta,West,Mumbai,Clothing,Men Clothing,Jacket,4,3971.07,10.0,UPI,409.64,1642.65,14295.852,3,2025
+ORD100088,2025-07-07,10364,Karan Malhotra,West,Surat,Beauty,Skincare,Face Cream,1,1407.15,5.0,UPI,148.75,343.73,1336.7925,7,2025
+ORD100089,2025-04-30,10270,Karan Malhotra,North,Jaipur,Electronics,Wearables,Smart Watch,5,6026.47,5.0,COD,142.62,9571.26,28625.732500000002,4,2025
+ORD100090,2025-01-21,10441,Rohan Mehta,West,Ahmedabad,Electronics,Laptop,Laptop,2,63499.3,5.0,COD,39.17,24985.14,120648.67,1,2025
+ORD100091,2025-06-03,10426,Simran Sharma,West,Ahmedabad,Sports,Fitness,Dumbbells,1,2040.63,10.0,Net Banking,137.74,247.78,1836.5670000000002,6,2025
+ORD100092,2025-06-10,10384,Meera Shah,North,Lucknow,Clothing,Women Clothing,Kurta,1,1105.57,5.0,COD,265.71,-9.52,1050.2914999999998,6,2025
+ORD100093,2025-03-27,10423,Nikhil Patel,North,Chandigarh,Clothing,Women Clothing,Kurta,2,1803.22,0.0,COD,210.02,1028.25,3606.44,3,2025
+ORD100094,2025-05-05,10144,Rahul Gupta,East,Kolkata,Home & Kitchen,Kitchen Appliances,Air Fryer,3,5388.82,15.0,UPI,179.51,1547.85,13741.490999999998,5,2025
+ORD100095,2025-06-03,10532,Nikhil Verma,West,Mumbai,Electronics,Audio,Bluetooth Speaker,1,6491.86,10.0,UPI,398.69,485.36,5842.674,6,2025
+ORD100096,2025-03-07,10026,Pooja Gupta,West,Ahmedabad,Sports,Cricket,Cricket Bat,1,3890.8,20.0,Card,239.08,858.36,3112.6400000000003,3,2025
+ORD100097,2025-09-24,10307,Aarav Patel,East,Kolkata,Clothing,Women Clothing,Kurta,1,1641.99,5.0,COD,272.59,62.8,1559.8905,9,2025
+ORD100098,2025-11-12,10554,Simran Patel,West,Ahmedabad,Electronics,Laptop,Laptop,2,80696.76,5.0,COD,410.58,46813.91,153323.84399999998,11,2025
+ORD100099,2025-04-11,10619,Aditya Verma,West,Mumbai,Home & Kitchen,Home Decor,Table Lamp,2,1807.54,0.0,COD,367.51,531.37,3615.08,4,2025
+ORD100100,2025-06-07,10533,Aarav Gupta,West,Ahmedabad,Clothing,Footwear,Sneakers,2,2497.01,20.0,Card,98.14,1406.95,3995.2160000000003,6,2025
+ORD100101,2025-05-13,10382,Meera Shah,East,Kolkata,Electronics,Wearables,Smart Watch,5,5699.98,5.0,Net Banking,76.51,4864.89,27074.904999999995,5,2025
+ORD100102,2025-08-01,10457,Priya Gupta,West,Pune,Beauty,Skincare,Face Cream,1,1283.11,15.0,Card,132.62,249.8,1090.6435,8,2025
+ORD100103,2025-02-10,10546,Aditya Shah,North,Delhi,Electronics,Wearables,Smart Watch,3,4316.97,10.0,Card,272.44,1920.04,11655.819,2,2025
+ORD100104,2025-07-31,10289,Rohan Malhotra,West,Pune,Sports,Team Sports,Football,3,638.25,5.0,UPI,316.3,295.88,1819.0124999999998,7,2025
+ORD100105,2025-10-30,10516,Vikram Gupta,East,Kolkata,Beauty,Fragrance,Perfume,1,1480.46,0.0,UPI,304.33,-102.93,1480.46,10,2025
+ORD100106,2025-07-29,10207,Neha Kumar,West,Ahmedabad,Beauty,Skincare,Face Cream,2,1349.07,0.0,UPI,193.7,565.37,2698.14,7,2025
+ORD100107,2025-11-30,10542,Nikhil Verma,North,Delhi,Home & Kitchen,Home Furnishing,Bedsheet,2,634.2,5.0,UPI,435.82,-17.86,1204.98,11,2025
+ORD100108,2025-07-20,10275,Simran Sharma,West,Pune,Sports,Cricket,Cricket Bat,3,6894.43,10.0,Card,293.86,4201.73,18614.961000000003,7,2025
+ORD100109,2025-10-13,10465,Nikhil Kumar,East,Ranchi,Electronics,Audio,Bluetooth Speaker,1,5316.46,5.0,COD,61.18,1560.83,5050.637,10,2025
+ORD100110,2025-12-27,10514,Vivaan Mehta,West,Mumbai,Electronics,Wearables,Smart Watch,1,5733.86,25.0,Card,253.15,443.86,4300.3949999999995,12,2025
+ORD100111,2025-09-12,10469,Simran Sharma,South,Kochi,Home & Kitchen,Kitchen Appliances,Air Fryer,2,5140.0,0.0,Card,339.78,2162.76,10280.0,9,2025
+ORD100112,2025-10-28,10008,Vivaan Shah,North,Jaipur,Beauty,Skincare,Face Wash,2,249.32,20.0,Card,87.76,28.48,398.91200000000003,10,2025
+ORD100113,2025-10-03,10550,Aarav Shah,North,Chandigarh,Home & Kitchen,Home Furnishing,Bedsheet,3,1815.25,10.0,UPI,128.36,731.53,4901.175,10,2025
+ORD100114,2025-12-27,10347,Vivaan Singh,West,Surat,Sports,Cricket,Cricket Bat,2,4877.8,0.0,UPI,181.98,2326.69,9755.6,12,2025
+ORD100115,2025-04-03,10449,Priya Joshi,North,Lucknow,Electronics,Laptop,Laptop,2,73013.39,5.0,Card,229.2,31174.7,138725.441,4,2025
+ORD100116,2025-12-19,10404,Rahul Kumar,East,Kolkata,Electronics,Accessories,Wireless Earbuds,1,4249.83,10.0,Card,153.27,373.58,3824.847,12,2025
+ORD100117,2025-07-02,10571,Sneha Shah,South,Bengaluru,Electronics,Smartphone,Mobile Phone,3,31325.76,10.0,Net Banking,85.23,26013.47,84579.552,7,2025
+ORD100118,2025-09-25,10109,Priya Sharma,South,Kochi,Home & Kitchen,Home Decor,Table Lamp,2,1234.11,10.0,Net Banking,332.99,12.77,2221.3979999999997,9,2025
+ORD100119,2025-06-10,10324,Rohan Gupta,North,Chandigarh,Electronics,Smartphone,Mobile Phone,2,27964.43,0.0,Card,345.49,19874.92,55928.86,6,2025
+ORD100120,2025-07-21,10105,Simran Mehta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Air Fryer,1,7358.8,0.0,Card,413.58,1210.73,7358.8,7,2025
+ORD100121,2025-04-03,10514,Vivaan Mehta,West,Surat,Home & Kitchen,Home Decor,Table Lamp,1,1661.14,0.0,UPI,207.25,296.56,1661.14,4,2025
+ORD100122,2025-03-03,10213,Rahul Singh,East,Kolkata,Clothing,Footwear,Sneakers,2,3241.3,10.0,Card,385.15,781.44,5834.34,3,2025
+ORD100123,2025-01-30,10634,Pooja Malhotra,South,Hyderabad,Electronics,Smartphone,Mobile Phone,2,39556.27,15.0,COD,414.99,17603.07,67245.659,1,2025
+ORD100124,2025-04-10,10118,Rahul Mehta,South,Kochi,Electronics,Accessories,Wireless Earbuds,1,3198.09,10.0,UPI,301.21,759.03,2878.2810000000004,4,2025
+ORD100125,2025-05-06,10202,Meera Singh,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,2,2427.81,15.0,Card,383.52,562.21,4127.277,5,2025
+ORD100126,2025-11-21,10434,Neha Patel,East,Patna,Home & Kitchen,Home Decor,Table Lamp,1,2459.41,10.0,UPI,71.71,649.21,2213.469,11,2025
+ORD100127,2025-11-11,10262,Rahul Gupta,West,Ahmedabad,Electronics,Laptop,Laptop,1,66953.3,0.0,COD,185.57,18732.16,66953.3,11,2025
+ORD100128,2025-10-12,10201,Pooja Sharma,East,Bhubaneswar,Home & Kitchen,Kitchen,Cookware Set,1,5836.77,5.0,Card,172.96,1153.58,5544.931500000001,10,2025
+ORD100129,2025-12-09,10379,Aditya Singh,North,Delhi,Home & Kitchen,Home Decor,Table Lamp,2,1244.2,5.0,UPI,54.21,633.62,2363.98,12,2025
+ORD100130,2025-04-02,10499,Isha Kumar,South,Kochi,Beauty,Skincare,Face Cream,2,1499.66,0.0,COD,117.07,412.55,2999.32,4,2025
+ORD100131,2025-12-07,10165,Neha Mehta,West,Pune,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,6336.51,10.0,Net Banking,85.6,1202.2,5702.859,12,2025
+ORD100132,2025-05-29,10246,Simran Joshi,East,Bhubaneswar,Home & Kitchen,Kitchen,Cookware Set,3,4107.15,0.0,Card,226.05,4345.7,12321.449999999999,5,2025
+ORD100133,2025-07-02,10582,Rahul Kumar,West,Ahmedabad,Clothing,Men Clothing,Jacket,1,2500.24,0.0,COD,192.35,425.38,2500.24,7,2025
+ORD100134,2025-04-02,10082,Vikram Sharma,East,Bhubaneswar,Home & Kitchen,Home Decor,Table Lamp,3,2076.15,10.0,Net Banking,114.2,1856.68,5605.6050000000005,4,2025
+ORD100135,2025-03-04,10147,Sneha Patel,West,Mumbai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,4,4517.44,10.0,Card,419.08,5679.95,16262.784,3,2025
+ORD100136,2025-10-25,10566,Rahul Patel,East,Kolkata,Electronics,Accessories,Wireless Earbuds,2,3648.99,15.0,UPI,337.88,1166.85,6203.282999999999,10,2025
+ORD100137,2025-11-23,10113,Ananya Malhotra,West,Ahmedabad,Sports,Cricket,Cricket Bat,1,1456.14,5.0,Card,58.99,464.64,1383.333,11,2025
+ORD100138,2025-07-13,10547,Priya Kumar,West,Surat,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4295.95,10.0,UPI,318.71,1125.88,3866.355,7,2025
+ORD100139,2025-02-14,10290,Sneha Patel,South,Kochi,Electronics,Wearables,Smart Watch,4,7464.48,5.0,UPI,240.26,4678.97,28365.023999999998,2,2025
+ORD100140,2025-07-03,10013,Vikram Malhotra,West,Surat,Electronics,Laptop,Laptop,1,55457.29,5.0,COD,420.28,14050.72,52684.4255,7,2025
+ORD100141,2025-06-07,10233,Arjun Malhotra,West,Mumbai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,5,5215.72,5.0,Card,81.63,3608.52,24774.670000000002,6,2025
+ORD100142,2025-02-23,10456,Priya Mehta,East,Bhubaneswar,Clothing,Men Clothing,Jacket,1,3889.16,0.0,COD,375.46,289.47,3889.16,2,2025
+ORD100143,2025-09-21,10471,Arjun Kumar,East,Patna,Electronics,Accessories,Wireless Earbuds,1,3087.44,5.0,UPI,294.41,778.72,2933.0679999999998,9,2025
+ORD100144,2025-10-01,10154,Karan Joshi,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,1,37088.37,0.0,COD,31.6,11681.86,37088.37,10,2025
+ORD100145,2025-04-17,10577,Priya Verma,West,Mumbai,Sports,Fitness,Yoga Mat,1,1595.53,5.0,COD,404.59,0.43,1515.7534999999998,4,2025
+ORD100146,2025-07-05,10421,Rohan Gupta,West,Surat,Sports,Team Sports,Football,1,1234.02,20.0,COD,313.86,25.57,987.216,7,2025
+ORD100147,2025-12-30,10536,Vikram Verma,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,5542.49,20.0,UPI,229.67,723.96,4433.992,12,2025
+ORD100148,2025-12-21,10553,Meera Singh,West,Mumbai,Clothing,Men Clothing,Jacket,2,2231.09,5.0,UPI,51.99,712.88,4239.071,12,2025
+ORD100149,2025-05-17,10528,Aditi Mehta,South,Bengaluru,Clothing,Men Clothing,Jeans,2,1944.56,20.0,UPI,314.68,375.98,3111.2960000000003,5,2025
+ORD100150,2025-01-03,10274,Sanya Sharma,South,Kochi,Sports,Footwear,Running Shoes,1,4508.3,5.0,COD,113.67,522.53,4282.885,1,2025
+ORD100151,2025-02-23,10118,Rahul Mehta,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,3704.17,15.0,UPI,189.22,1651.36,6297.089,2,2025
+ORD100152,2025-04-21,10387,Meera Verma,North,Lucknow,Sports,Team Sports,Football,1,1677.89,5.0,COD,398.61,189.84,1593.9955,4,2025
+ORD100153,2025-04-14,10465,Nikhil Kumar,South,Bengaluru,Clothing,Men Clothing,Jacket,1,4499.95,10.0,UPI,190.68,961.08,4049.955,4,2025
+ORD100154,2025-02-24,10033,Sneha Verma,North,Jaipur,Electronics,Audio,Bluetooth Speaker,2,3958.19,5.0,UPI,155.92,1437.84,7520.561,2,2025
+ORD100155,2025-08-05,10225,Kavya Verma,West,Ahmedabad,Home & Kitchen,Home Furnishing,Bedsheet,1,993.48,0.0,COD,328.26,-192.87,993.48,8,2025
+ORD100156,2025-01-04,10218,Sneha Verma,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,4,5759.44,15.0,Net Banking,258.68,2280.73,19582.095999999998,1,2025
+ORD100157,2025-07-18,10492,Karan Joshi,North,Delhi,Electronics,Laptop,Laptop,1,73008.61,15.0,Card,91.72,10402.66,62057.3185,7,2025
+ORD100158,2025-11-17,10491,Aditi Shah,East,Patna,Electronics,Accessories,Wireless Earbuds,1,4686.45,5.0,Card,403.86,468.72,4452.1275,11,2025
+ORD100159,2025-09-05,10361,Arjun Shah,North,Delhi,Sports,Footwear,Running Shoes,1,5823.32,10.0,UPI,240.25,825.24,5240.988,9,2025
+ORD100160,2025-07-21,10590,Neha Kumar,North,Chandigarh,Sports,Cricket,Cricket Bat,1,3859.87,10.0,COD,232.16,277.13,3473.883,7,2025
+ORD100161,2025-01-11,10050,Isha Shah,East,Kolkata,Sports,Fitness,Dumbbells,1,3636.46,0.0,Card,239.26,758.09,3636.46,1,2025
+ORD100162,2025-03-30,10357,Vivaan Gupta,West,Pune,Home & Kitchen,Home Furnishing,Bedsheet,4,934.58,0.0,UPI,35.96,578.46,3738.32,3,2025
+ORD100163,2025-12-02,10245,Vikram Sharma,West,Mumbai,Sports,Team Sports,Football,5,1484.5,0.0,Card,331.7,2011.52,7422.5,12,2025
+ORD100164,2025-08-30,10600,Kavya Singh,East,Patna,Beauty,Skincare,Face Cream,3,898.67,0.0,UPI,179.95,195.31,2696.0099999999998,8,2025
+ORD100165,2025-02-24,10322,Rohan Sharma,North,Jaipur,Electronics,Laptop,Laptop,3,49292.97,5.0,UPI,231.97,28956.19,140484.9645,2,2025
+ORD100166,2025-05-09,10546,Aditya Shah,North,Delhi,Electronics,Accessories,Wireless Earbuds,1,4091.83,5.0,Card,346.79,202.12,3887.2385,5,2025
+ORD100167,2025-06-22,10274,Sanya Sharma,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,1,33230.0,5.0,Card,130.97,10292.5,31568.5,6,2025
+ORD100168,2025-04-15,10041,Pooja Sharma,West,Surat,Electronics,Accessories,Wireless Earbuds,1,4834.02,0.0,Card,124.45,1170.3,4834.02,4,2025
+ORD100169,2025-10-09,10588,Rohan Malhotra,West,Surat,Home & Kitchen,Home Furnishing,Bedsheet,3,873.25,5.0,Net Banking,385.26,301.03,2488.7625,10,2025
+ORD100170,2025-04-19,10628,Rahul Kumar,West,Ahmedabad,Clothing,Men Clothing,Jeans,2,1372.27,5.0,COD,116.97,825.57,2607.3129999999996,4,2025
+ORD100171,2025-10-07,10367,Neha Kumar,North,Jaipur,Beauty,Skincare,Face Wash,3,228.58,10.0,COD,178.09,-75.91,617.166,10,2025
+ORD100172,2025-12-31,10279,Nikhil Kumar,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,1,2337.04,15.0,UPI,204.96,280.03,1986.484,12,2025
+ORD100173,2025-07-31,10317,Kavya Patel,North,Chandigarh,Electronics,Audio,Bluetooth Speaker,1,1809.14,10.0,Net Banking,124.2,213.83,1628.226,7,2025
+ORD100174,2025-01-30,10306,Vikram Joshi,West,Mumbai,Beauty,Haircare,Shampoo,1,941.36,15.0,UPI,185.8,-69.38,800.156,1,2025
+ORD100175,2025-05-29,10310,Nikhil Patel,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,1,4160.28,5.0,COD,38.68,1186.74,3952.2659999999996,5,2025
+ORD100176,2025-09-30,10505,Aarav Kumar,East,Kolkata,Sports,Cricket,Cricket Bat,2,2920.05,10.0,COD,73.06,1222.03,5256.09,9,2025
+ORD100177,2025-09-28,10104,Aditya Gupta,East,Ranchi,Sports,Cricket,Cricket Bat,2,3877.95,20.0,Card,336.17,631.52,6204.72,9,2025
+ORD100178,2025-03-11,10141,Rohan Gupta,South,Hyderabad,Electronics,Smartphone,Mobile Phone,1,44420.19,15.0,COD,335.36,8494.57,37757.1615,3,2025
+ORD100179,2025-02-01,10100,Isha Kumar,West,Mumbai,Clothing,Men Clothing,Jeans,1,2813.14,0.0,COD,82.24,403.41,2813.14,2,2025
+ORD100180,2025-12-05,10315,Aarav Verma,East,Bhubaneswar,Clothing,Men Clothing,Jacket,2,3370.02,10.0,Card,159.71,1384.77,6066.036,12,2025
+ORD100181,2025-02-12,10592,Vivaan Joshi,North,Lucknow,Beauty,Fragrance,Perfume,3,1303.27,5.0,UPI,395.99,365.81,3714.3194999999996,2,2025
+ORD100182,2025-09-29,10626,Nikhil Shah,West,Ahmedabad,Clothing,Women Clothing,Kurta,5,1830.39,0.0,UPI,108.5,3322.14,9151.95,9,2025
+ORD100183,2025-01-05,10097,Rahul Singh,South,Bengaluru,Clothing,Men Clothing,T-Shirt,3,844.98,0.0,COD,150.02,528.03,2534.94,1,2025
+ORD100184,2025-05-21,10289,Rohan Malhotra,West,Mumbai,Electronics,Wearables,Smart Watch,3,9468.12,0.0,COD,359.81,5994.62,28404.36,5,2025
+ORD100185,2025-02-26,10361,Arjun Shah,West,Surat,Electronics,Laptop,Laptop,1,65255.24,25.0,UPI,260.07,5880.66,48941.43,2,2025
+ORD100186,2025-03-12,10204,Sanya Patel,East,Bhubaneswar,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,3424.0,5.0,UPI,150.73,529.9,3252.7999999999997,3,2025
+ORD100187,2025-08-18,10495,Sanya Singh,West,Ahmedabad,Home & Kitchen,Home Furnishing,Bedsheet,1,1417.71,10.0,Card,68.68,232.6,1275.939,8,2025
+ORD100188,2025-12-18,10073,Aarav Joshi,East,Bhubaneswar,Sports,Team Sports,Football,2,906.78,5.0,Card,393.76,-163.15,1722.8819999999998,12,2025
+ORD100189,2025-09-05,10560,Arjun Verma,North,Chandigarh,Home & Kitchen,Home Furnishing,Bedsheet,2,1932.17,10.0,Card,36.47,758.02,3477.9060000000004,9,2025
+ORD100190,2025-03-14,10420,Vikram Shah,South,Kochi,Sports,Cricket,Cricket Bat,3,2293.54,10.0,Net Banking,72.8,2266.98,6192.558,3,2025
+ORD100191,2025-09-28,10127,Simran Gupta,South,Hyderabad,Sports,Fitness,Dumbbells,3,3050.91,5.0,Net Banking,126.25,1941.55,8695.093499999999,9,2025
+ORD100192,2025-04-21,10151,Aditya Sharma,East,Bhubaneswar,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,2561.85,0.0,UPI,143.74,2282.08,7685.549999999999,4,2025
+ORD100193,2025-11-27,10161,Vikram Shah,North,Unknown,Clothing,Men Clothing,Jeans,2,1744.4,5.0,COD,190.98,643.21,3314.36,11,2025
+ORD100194,2025-08-26,10603,Vivaan Mehta,South,Kochi,Electronics,Laptop,Laptop,1,79683.41,5.0,UPI,365.88,21833.85,75699.2395,8,2025
+ORD100195,2025-07-06,10568,Vivaan Patel,West,Mumbai,Sports,Fitness,Yoga Mat,2,1319.32,0.0,COD,209.59,489.49,2638.64,7,2025
+ORD100196,2025-05-30,10063,Simran Singh,East,Kolkata,Beauty,Haircare,Shampoo,3,838.96,0.0,Card,201.21,447.95,2516.88,5,2025
+ORD100197,2025-04-12,10121,Sanya Gupta,North,Lucknow,Electronics,Accessories,Wireless Earbuds,1,1809.76,0.0,UPI,308.97,-36.13,1809.76,4,2025
+ORD100198,2025-05-09,10069,Aditi Joshi,West,Surat,Clothing,Men Clothing,Jacket,1,2374.85,10.0,Card,179.89,435.7,2137.365,5,2025
+ORD100199,2025-04-20,10548,Pooja Patel,West,Mumbai,Beauty,Haircare,Hair Dryer,1,2264.09,20.0,COD,73.08,430.25,1811.2720000000002,4,2025
+ORD100200,2025-09-18,10630,Priya Joshi,East,Patna,Clothing,Men Clothing,T-Shirt,2,1321.7,15.0,COD,214.47,282.67,2246.89,9,2025
+ORD100201,2025-04-22,10495,Sanya Singh,North,Delhi,Clothing,Men Clothing,Jacket,1,2078.5,0.0,COD,337.61,173.94,2078.5,4,2025
+ORD100202,2025-05-02,10416,Arjun Shah,North,Delhi,Clothing,Women Clothing,Kurta,1,889.62,0.0,Card,285.26,-3.95,889.62,5,2025
+ORD100203,2025-12-29,10584,Neha Singh,North,Chandigarh,Electronics,Wearables,Smart Watch,2,6449.86,5.0,Card,322.5,2097.1,12254.733999999999,12,2025
+ORD100204,2025-08-27,10093,Rohan Mehta,North,Chandigarh,Clothing,Footwear,Sneakers,1,4343.68,0.0,UPI,89.99,779.01,4343.68,8,2025
+ORD100205,2025-11-10,10007,Aditya Kumar,North,Delhi,Beauty,Fragrance,Perfume,2,2141.67,0.0,COD,59.0,1040.51,4283.34,11,2025
+ORD100206,2025-05-24,10380,Pooja Shah,East,Kolkata,Electronics,Laptop,Laptop,1,77554.96,10.0,COD,374.98,10844.25,69799.464,5,2025
+ORD100207,2025-05-27,10339,Vikram Mehta,East,Patna,Electronics,Audio,Bluetooth Speaker,3,7271.87,5.0,UPI,192.89,3352.72,20724.8295,5,2025
+ORD100208,2025-12-26,10185,Sanya Verma,West,Surat,Electronics,Wearables,Smart Watch,5,3132.36,10.0,UPI,187.7,2222.77,14095.62,12,2025
+ORD100209,2025-12-05,10323,Rahul Patel,South,Kochi,Sports,Cricket,Cricket Bat,1,5429.56,10.0,COD,187.28,1200.2,4886.604,12,2025
+ORD100210,2025-08-23,10414,Aditya Gupta,North,Jaipur,Home & Kitchen,Home Furnishing,Bedsheet,3,2200.42,5.0,Card,70.06,2143.95,6271.197,8,2025
+ORD100211,2025-12-23,10314,Aarav Kumar,North,Lucknow,Beauty,Haircare,Shampoo,2,615.18,10.0,COD,36.14,324.98,1107.3239999999998,12,2025
+ORD100212,2025-08-03,10220,Aarav Gupta,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,2,29695.4,15.0,COD,257.49,8973.2,50482.18,8,2025
+ORD100213,2025-08-25,10040,Aditi Joshi,South,Bengaluru,Home & Kitchen,Home Furnishing,Bedsheet,1,1407.22,20.0,Card,108.93,296.34,1125.776,8,2025
+ORD100214,2025-08-12,10318,Vikram Sharma,West,Surat,Clothing,Men Clothing,Jeans,2,2098.69,10.0,Card,344.26,870.21,3777.6420000000003,8,2025
+ORD100215,2025-09-26,10622,Sneha Gupta,East,Ranchi,Electronics,Laptop,Laptop,2,82069.53,0.0,COD,375.09,42301.73,164139.06,9,2025
+ORD100216,2025-07-23,10340,Pooja Patel,West,Surat,Electronics,Audio,Bluetooth Speaker,1,3146.83,5.0,UPI,204.4,241.03,2989.4885,7,2025
+ORD100217,2025-02-25,10217,Simran Shah,West,Surat,Electronics,Laptop,Laptop,1,68139.05,10.0,Card,310.04,21489.51,61325.145000000004,2,2025
+ORD100218,2025-05-20,10276,Ananya Joshi,West,Mumbai,Home & Kitchen,Home Furnishing,Bedsheet,1,2021.55,15.0,COD,449.0,96.07,1718.3174999999999,5,2025
+ORD100219,2025-07-06,10459,Pooja Sharma,North,Delhi,Clothing,Women Clothing,Kurta,3,1430.82,0.0,UPI,161.12,1452.45,4292.46,7,2025
+ORD100220,2025-09-13,10207,Neha Kumar,North,Lucknow,Home & Kitchen,Kitchen,Cookware Set,2,4166.26,10.0,COD,276.51,1440.47,7499.268000000001,9,2025
+ORD100221,2025-03-02,10074,Simran Joshi,West,Ahmedabad,Home & Kitchen,Kitchen Appliances,Air Fryer,1,4987.69,10.0,Net Banking,420.24,886.51,4488.920999999999,3,2025
+ORD100222,2025-09-03,10562,Pooja Patel,East,Patna,Clothing,Footwear,Sneakers,3,4803.42,10.0,UPI,221.0,2431.93,12969.234,9,2025
+ORD100223,2025-05-13,10277,Aditi Singh,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,1,3648.18,25.0,UPI,262.97,244.78,2736.1349999999998,5,2025
+ORD100224,2025-08-02,10406,Vivaan Shah,West,Mumbai,Electronics,Wearables,Smart Watch,2,6802.66,20.0,UPI,317.87,3747.5,10884.256000000001,8,2025
+ORD100225,2025-06-15,10222,Sneha Gupta,North,Jaipur,Beauty,Skincare,Face Cream,2,886.19,5.0,UPI,270.5,248.06,1683.761,6,2025
+ORD100226,2025-05-28,10150,Vikram Patel,West,Pune,Home & Kitchen,Kitchen,Cookware Set,1,3578.01,0.0,Card,400.01,138.27,3578.01,5,2025
+ORD100227,2025-06-04,10239,Aditya Singh,East,Patna,Clothing,Women Clothing,Kurta,3,1215.74,15.0,Net Banking,42.61,412.13,3100.137,6,2025
+ORD100228,2025-10-03,10366,Rahul Verma,East,Patna,Home & Kitchen,Home Decor,Table Lamp,1,1483.71,5.0,Card,404.6,18.86,1409.5245,10,2025
+ORD100229,2025-10-17,10570,Simran Malhotra,East,Bhubaneswar,Electronics,Wearables,Smart Watch,2,3024.61,20.0,UPI,214.15,958.1,4839.376,10,2025
+ORD100230,2025-12-26,10056,Aditya Patel,West,Mumbai,Sports,Footwear,Running Shoes,1,4448.44,0.0,UPI,377.18,890.38,4448.44,12,2025
+ORD100231,2025-01-04,10086,Vikram Shah,South,Bengaluru,Electronics,Audio,Bluetooth Speaker,1,3924.4,15.0,UPI,64.75,782.6,3335.74,1,2025
+ORD100232,2025-09-23,10192,Aarav Verma,South,Kochi,Home & Kitchen,Home Decor,Table Lamp,2,959.34,10.0,UPI,234.89,384.36,1726.8120000000001,9,2025
+ORD100233,2025-07-03,10181,Ananya Singh,South,Hyderabad,Clothing,Men Clothing,Jeans,1,1381.45,5.0,Card,446.54,-174.47,1312.3775,7,2025
+ORD100234,2025-02-09,10032,Karan Malhotra,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,1,1051.3,5.0,COD,236.88,17.17,998.7349999999999,2,2025
+ORD100235,2025-10-22,10439,Isha Sharma,West,Ahmedabad,Electronics,Laptop,Laptop,2,79310.11,0.0,UPI,429.61,52608.58,158620.22,10,2025
+ORD100236,2025-03-13,10551,Vivaan Gupta,East,Kolkata,Clothing,Men Clothing,Jacket,1,3815.84,0.0,Card,107.81,1065.76,3815.84,3,2025
+ORD100237,2025-07-19,10422,Vivaan Shah,North,Delhi,Clothing,Footwear,Sneakers,2,3358.91,15.0,UPI,424.34,418.27,5710.147,7,2025
+ORD100238,2025-12-11,10308,Simran Gupta,South,Hyderabad,Beauty,Haircare,Hair Dryer,1,1631.62,10.0,Card,277.35,-6.33,1468.4579999999999,12,2025
+ORD100239,2025-07-24,10500,Nikhil Shah,East,Bhubaneswar,Beauty,Skincare,Face Cream,1,618.44,10.0,UPI,153.46,23.74,556.5960000000001,7,2025
+ORD100240,2025-04-21,10474,Vivaan Malhotra,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,4,2978.66,5.0,COD,94.89,2772.31,11318.908,4,2025
+ORD100241,2025-08-09,10608,Nikhil Gupta,South,Bengaluru,Home & Kitchen,Home Decor,Table Lamp,2,1556.24,10.0,COD,49.09,544.45,2801.232,8,2025
+ORD100242,2025-02-22,10364,Karan Malhotra,North,Jaipur,Sports,Cricket,Cricket Bat,1,1402.49,10.0,Card,382.46,44.46,1262.241,2,2025
+ORD100243,2025-08-25,10481,Rahul Singh,North,Chandigarh,Electronics,Wearables,Smart Watch,1,8279.04,5.0,UPI,189.5,1160.34,7865.088000000001,8,2025
+ORD100244,2025-08-09,10481,Rahul Singh,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,6257.8,20.0,UPI,163.58,2617.12,15018.720000000001,8,2025
+ORD100245,2025-05-19,10371,Meera Verma,South,Kochi,Beauty,Fragrance,Perfume,1,1863.06,5.0,UPI,297.58,100.13,1769.907,5,2025
+ORD100246,2025-04-29,10550,Aarav Shah,East,Ranchi,Clothing,Men Clothing,Jeans,2,2012.66,5.0,Net Banking,172.7,827.44,3824.054,4,2025
+ORD100247,2025-03-24,10494,Kavya Singh,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,1,3227.88,0.0,Card,139.64,798.77,3227.88,3,2025
+ORD100248,2025-05-17,10492,Karan Joshi,West,Ahmedabad,Sports,Cricket,Cricket Bat,1,5318.77,5.0,UPI,218.49,501.84,5052.8315,5,2025
+ORD100249,2025-10-09,10073,Aarav Joshi,North,Lucknow,Clothing,Men Clothing,Jeans,2,1546.08,0.0,UPI,78.21,339.85,3092.16,10,2025
+ORD100250,2025-10-09,10556,Sanya Verma,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,2,7108.02,5.0,COD,153.93,3928.66,13505.238,10,2025
+ORD100251,2025-05-29,10378,Priya Sharma,North,Chandigarh,Electronics,Accessories,Wireless Earbuds,2,4357.61,0.0,COD,253.21,2406.1,8715.22,5,2025
+ORD100252,2025-04-23,10070,Rohan Singh,East,Bhubaneswar,Electronics,Smartphone,Mobile Phone,1,23883.54,0.0,Card,74.46,3580.08,23883.54,4,2025
+ORD100253,2025-12-11,10138,Aditya Sharma,East,Ranchi,Sports,Cricket,Cricket Bat,4,1679.86,5.0,COD,71.47,2228.67,6383.467999999999,12,2025
+ORD100254,2025-03-14,10197,Aditya Malhotra,South,Hyderabad,Sports,Fitness,Dumbbells,4,4134.0,10.0,Card,392.66,4399.53,14882.4,3,2025
+ORD100255,2025-08-08,10438,Aarav Patel,West,Mumbai,Home & Kitchen,Home Decor,Table Lamp,5,1167.41,25.0,Card,175.96,1430.29,4377.7875,8,2025
+ORD100256,2025-11-17,10111,Karan Mehta,North,Lucknow,Clothing,Footwear,Sneakers,1,4692.8,20.0,COD,62.1,490.04,3754.2400000000002,11,2025
+ORD100257,2025-05-21,10602,Priya Gupta,West,Pune,Beauty,Skincare,Face Wash,1,480.02,5.0,COD,122.92,5.2,456.01899999999995,5,2025
+ORD100258,2025-09-02,10415,Priya Patel,West,Pune,Beauty,Haircare,Hair Dryer,1,1041.89,10.0,UPI,206.72,2.91,937.7010000000001,9,2025
+ORD100259,2025-08-30,10448,Priya Kumar,West,Pune,Clothing,Women Clothing,Kurta,5,1711.94,10.0,UPI,205.42,2488.93,7703.7300000000005,8,2025
+ORD100260,2025-04-10,10337,Sneha Sharma,East,Patna,Electronics,Accessories,Wireless Earbuds,2,4772.7,0.0,UPI,214.03,1181.43,9545.4,4,2025
+ORD100261,2025-08-27,10128,Sanya Joshi,West,Ahmedabad,Clothing,Footwear,Sneakers,1,4136.58,0.0,Net Banking,95.64,1239.55,4136.58,8,2025
+ORD100262,2025-07-20,10159,Vivaan Malhotra,East,Bhubaneswar,Home & Kitchen,Home Furnishing,Bedsheet,1,2189.35,0.0,Card,189.44,462.3,2189.35,7,2025
+ORD100263,2025-08-09,10197,Aditya Malhotra,South,Chennai,Beauty,Haircare,Shampoo,1,699.51,20.0,Card,33.38,42.04,559.6080000000001,8,2025
+ORD100264,2025-09-28,10146,Vikram Sharma,North,Lucknow,Clothing,Men Clothing,Jeans,2,2028.19,5.0,Card,166.59,1258.42,3853.561,9,2025
+ORD100265,2025-12-03,10452,Nikhil Malhotra,South,Hyderabad,Home & Kitchen,Kitchen,Cookware Set,3,3252.39,10.0,COD,427.64,1995.56,8781.453,12,2025
+ORD100266,2025-11-12,10515,Karan Verma,West,Ahmedabad,Clothing,Men Clothing,Jeans,1,1919.3,5.0,UPI,113.2,548.52,1823.3349999999998,11,2025
+ORD100267,2025-09-05,10237,Rahul Joshi,West,Mumbai,Clothing,Men Clothing,T-Shirt,1,1233.01,20.0,UPI,195.1,154.03,986.408,9,2025
+ORD100268,2025-01-11,10099,Kavya Sharma,North,Chandigarh,Electronics,Laptop,Laptop,3,87671.32,5.0,UPI,147.55,76758.62,249863.26200000002,1,2025
+ORD100269,2025-08-31,10241,Ananya Shah,North,Chandigarh,Electronics,Accessories,Wireless Earbuds,1,1308.88,10.0,UPI,360.7,-6.92,1177.9920000000002,8,2025
+ORD100270,2025-11-11,10642,Ananya Gupta,North,Lucknow,Clothing,Men Clothing,Jacket,2,3481.25,15.0,UPI,245.54,1704.15,5918.125,11,2025
+ORD100271,2025-09-10,10063,Simran Singh,North,Delhi,Beauty,Skincare,Face Wash,1,355.63,0.0,UPI,111.16,19.3,355.63,9,2025
+ORD100272,2025-06-29,10071,Kavya Malhotra,East,Kolkata,Electronics,Laptop,Laptop,2,64894.82,5.0,Card,252.58,41428.36,123300.158,6,2025
+ORD100273,2025-05-28,10285,Aarav Gupta,East,Ranchi,Electronics,Wearables,Smart Watch,3,5792.31,5.0,UPI,101.94,2620.03,16508.0835,5,2025
+ORD100274,2025-11-14,10427,Simran Sharma,East,Patna,Home & Kitchen,Home Decor,Table Lamp,5,1320.67,5.0,UPI,81.29,2121.25,6273.1825,11,2025
+ORD100275,2025-01-09,10148,Rohan Gupta,East,Ranchi,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,2975.16,0.0,Card,254.76,1879.46,5950.32,1,2025
+ORD100276,2025-04-16,10649,Sneha Mehta,North,Lucknow,Electronics,Laptop,Laptop,2,50277.61,0.0,UPI,349.9,24603.74,100555.22,4,2025
+ORD100277,2025-05-18,10187,Vikram Shah,East,Patna,Clothing,Men Clothing,Jeans,2,1660.57,10.0,COD,114.64,295.0,2989.026,5,2025
+ORD100278,2025-11-23,10004,Nikhil Mehta,West,Mumbai,Electronics,Audio,Bluetooth Speaker,1,6873.96,0.0,COD,446.62,1639.92,6873.96,11,2025
+ORD100279,2025-01-19,10108,Ananya Verma,North,Chandigarh,Beauty,Haircare,Shampoo,1,1181.24,10.0,COD,166.22,50.78,1063.116,1,2025
+ORD100280,2025-07-01,10316,Pooja Sharma,East,Bhubaneswar,Beauty,Haircare,Shampoo,2,548.33,15.0,UPI,320.79,-23.12,932.1610000000001,7,2025
+ORD100281,2025-07-27,10246,Simran Joshi,East,Kolkata,Home & Kitchen,Home Decor,Table Lamp,1,919.61,10.0,UPI,448.7,-173.67,827.649,7,2025
+ORD100282,2025-01-10,10201,Pooja Sharma,East,Ranchi,Clothing,Men Clothing,Jacket,1,2405.07,0.0,Card,209.09,362.07,2405.07,1,2025
+ORD100283,2025-07-13,10078,Aarav Gupta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,6506.73,10.0,Card,240.12,1879.52,5856.057,7,2025
+ORD100284,2025-11-10,10128,Sanya Joshi,North,Chandigarh,Electronics,Laptop,Laptop,1,51447.67,10.0,UPI,250.7,8943.37,46302.903,11,2025
+ORD100285,2025-05-28,10164,Sanya Mehta,West,Mumbai,Clothing,Footwear,Sneakers,4,3042.46,0.0,UPI,121.51,2408.88,12169.84,5,2025
+ORD100286,2025-03-28,10337,Sneha Sharma,East,Bhubaneswar,Clothing,Men Clothing,Jacket,2,2699.56,0.0,UPI,379.24,383.21,5399.12,3,2025
+ORD100287,2025-12-01,10206,Aarav Patel,East,Kolkata,Sports,Team Sports,Football,4,517.72,5.0,Card,92.25,608.23,1967.336,12,2025
+ORD100288,2025-07-20,10645,Meera Shah,West,Mumbai,Sports,Team Sports,Football,2,1555.94,5.0,Card,445.31,504.58,2956.286,7,2025
+ORD100289,2025-12-10,10566,Rahul Patel,South,Bengaluru,Clothing,Women Clothing,Kurta,1,857.77,0.0,COD,224.8,29.78,857.77,12,2025
+ORD100290,2025-01-08,10326,Rahul Malhotra,East,Kolkata,Clothing,Footwear,Sneakers,1,2359.48,10.0,UPI,272.97,151.12,2123.532,1,2025
+ORD100291,2025-06-22,10102,Simran Singh,West,Mumbai,Beauty,Fragrance,Perfume,3,2955.85,15.0,UPI,236.66,1066.62,7537.4175,6,2025
+ORD100292,2025-01-26,10627,Vikram Mehta,North,Lucknow,Electronics,Laptop,Laptop,1,57503.03,15.0,Card,379.62,5797.38,48877.5755,1,2025
+ORD100293,2025-01-11,10042,Ananya Joshi,East,Patna,Electronics,Laptop,Laptop,1,67415.85,10.0,UPI,159.26,13216.63,60674.26500000001,1,2025
+ORD100294,2025-09-20,10376,Kavya Sharma,West,Surat,Home & Kitchen,Kitchen,Cookware Set,2,3757.96,0.0,COD,263.72,1891.53,7515.92,9,2025
+ORD100295,2025-03-30,10269,Neha Joshi,West,Pune,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,3863.58,25.0,Card,420.87,1354.36,8693.055,3,2025
+ORD100296,2025-01-28,10498,Neha Sharma,South,Kochi,Sports,Fitness,Dumbbells,2,2382.5,15.0,Card,62.22,1302.01,4050.25,1,2025
+ORD100297,2025-06-22,10093,Rohan Mehta,North,Lucknow,Sports,Footwear,Running Shoes,1,5509.75,5.0,Card,307.07,1080.38,5234.2625,6,2025
+ORD100298,2025-01-07,10490,Meera Malhotra,East,Bhubaneswar,Clothing,Men Clothing,T-Shirt,2,1450.02,0.0,Card,282.76,380.62,2900.04,1,2025
+ORD100299,2025-01-04,10188,Nikhil Malhotra,South,Kochi,Electronics,Wearables,Smart Watch,3,4483.89,0.0,Card,280.0,1782.18,13451.670000000002,1,2025
+ORD100300,2025-10-26,10635,Sanya Mehta,East,Kolkata,Electronics,Wearables,Smart Watch,2,11126.18,5.0,UPI,90.26,7110.45,21139.742,10,2025
+ORD100301,2025-05-12,10039,Pooja Patel,South,Kochi,Home & Kitchen,Kitchen Appliances,Air Fryer,1,5547.57,15.0,Net Banking,181.11,1234.4,4715.434499999999,5,2025
+ORD100302,2025-03-31,10599,Kavya Shah,North,Delhi,Electronics,Laptop,Laptop,1,77492.97,0.0,Card,246.84,17501.55,77492.97,3,2025
+ORD100303,2025-01-12,10229,Priya Malhotra,West,Mumbai,Sports,Cricket,Cricket Bat,4,1327.98,25.0,UPI,372.04,851.48,3983.94,1,2025
+ORD100304,2025-10-01,10172,Pooja Verma,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,2,2324.33,5.0,UPI,215.88,1406.76,4416.227,10,2025
+ORD100305,2025-04-03,10098,Vivaan Kumar,West,Surat,Electronics,Wearables,Smart Watch,1,4572.66,20.0,Card,217.06,1159.17,3658.128,4,2025
+ORD100306,2025-08-08,10224,Priya Malhotra,South,Hyderabad,Home & Kitchen,Kitchen,Cookware Set,1,3809.01,0.0,COD,376.44,290.85,3809.01,8,2025
+ORD100307,2025-12-05,10123,Aarav Shah,South,Hyderabad,Electronics,Laptop,Laptop,3,55987.27,10.0,Card,389.02,19621.08,151165.62900000002,12,2025
+ORD100308,2025-06-28,10175,Vikram Singh,West,Surat,Beauty,Skincare,Face Cream,1,385.39,10.0,Card,398.77,-317.28,346.851,6,2025
+ORD100309,2025-10-05,10425,Arjun Gupta,West,Mumbai,Sports,Cricket,Cricket Bat,2,4944.32,0.0,Net Banking,383.71,2611.37,9888.64,10,2025
+ORD100310,2025-11-30,10494,Kavya Singh,North,Lucknow,Sports,Footwear,Running Shoes,1,3304.19,25.0,Card,428.57,421.27,2478.1425,11,2025
+ORD100311,2025-11-15,10444,Meera Patel,South,Chennai,Electronics,Accessories,Wireless Earbuds,2,3638.91,5.0,Card,204.49,2379.65,6913.928999999999,11,2025
+ORD100312,2025-10-07,10518,Rohan Patel,South,Chennai,Sports,Team Sports,Football,1,1011.09,0.0,UPI,105.19,69.37,1011.09,10,2025
+ORD100313,2025-04-24,10495,Sanya Singh,East,Patna,Electronics,Wearables,Smart Watch,2,8650.85,15.0,UPI,318.66,1592.88,14706.445,4,2025
+ORD100314,2025-10-02,10440,Isha Shah,West,Surat,Clothing,Women Clothing,Kurta,1,2015.57,5.0,Card,379.7,-52.43,1914.7914999999998,10,2025
+ORD100315,2025-05-07,10610,Aditi Verma,West,Mumbai,Sports,Team Sports,Football,1,1213.16,5.0,Card,448.54,-51.11,1152.502,5,2025
+ORD100316,2025-08-02,10439,Isha Sharma,East,Ranchi,Sports,Footwear,Running Shoes,3,5609.58,25.0,UPI,179.28,2420.8,12621.554999999998,8,2025
+ORD100317,2025-05-26,10491,Aditi Shah,East,Patna,Home & Kitchen,Home Decor,Table Lamp,2,990.62,5.0,Card,269.52,342.89,1882.1779999999999,5,2025
+ORD100318,2025-12-06,10432,Aarav Kumar,West,Surat,Electronics,Laptop,Laptop,2,59875.25,15.0,Card,112.22,24986.08,101787.925,12,2025
+ORD100319,2025-04-02,10629,Sanya Kumar,North,Delhi,Electronics,Audio,Bluetooth Speaker,2,4984.99,5.0,UPI,238.42,2657.36,9471.481,4,2025
+ORD100320,2025-09-16,10168,Ananya Joshi,West,Mumbai,Clothing,Men Clothing,Jeans,1,1943.3,0.0,Card,261.22,271.41,1943.3,9,2025
+ORD100321,2025-05-06,10429,Meera Kumar,East,Bhubaneswar,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,6507.96,10.0,COD,210.46,1957.12,11714.328,5,2025
+ORD100322,2025-02-03,10439,Isha Sharma,West,Mumbai,Clothing,Men Clothing,T-Shirt,2,1053.45,10.0,UPI,379.25,253.89,1896.21,2,2025
+ORD100323,2025-03-29,10274,Sanya Sharma,West,Pune,Clothing,Men Clothing,Jacket,1,4341.53,0.0,Card,310.93,437.33,4341.53,3,2025
+ORD100324,2025-09-04,10069,Aditi Joshi,West,Surat,Clothing,Men Clothing,T-Shirt,2,1288.49,20.0,COD,37.96,350.98,2061.5840000000003,9,2025
+ORD100325,2025-09-24,10117,Sanya Patel,North,Delhi,Beauty,Skincare,Face Wash,1,282.88,15.0,Card,313.46,-237.04,240.44799999999998,9,2025
+ORD100326,2025-10-23,10615,Aarav Joshi,West,Surat,Clothing,Men Clothing,Jacket,3,1793.04,5.0,UPI,402.24,1338.5,5110.164,10,2025
+ORD100327,2025-05-10,10493,Aarav Shah,North,Lucknow,Clothing,Men Clothing,T-Shirt,5,871.0,10.0,COD,184.12,1155.26,3919.5,5,2025
+ORD100328,2025-11-14,10467,Ananya Gupta,North,Lucknow,Home & Kitchen,Home Furnishing,Bedsheet,3,2327.58,5.0,COD,406.74,654.69,6633.602999999999,11,2025
+ORD100329,2025-05-24,10305,Isha Singh,North,Chandigarh,Home & Kitchen,Home Furnishing,Bedsheet,2,807.13,0.0,UPI,369.71,-123.74,1614.26,5,2025
+ORD100330,2025-02-05,10546,Aditya Shah,South,Bengaluru,Beauty,Haircare,Shampoo,1,921.29,20.0,Card,169.28,14.87,737.032,2,2025
+ORD100331,2025-03-16,10284,Isha Mehta,East,Bhubaneswar,Electronics,Laptop,Laptop,3,51178.5,20.0,UPI,308.17,22356.8,122828.40000000001,3,2025
+ORD100332,2025-04-19,10327,Neha Gupta,West,Surat,Electronics,Accessories,Wireless Earbuds,2,4019.52,10.0,UPI,396.68,2035.03,7235.136,4,2025
+ORD100333,2025-02-10,10087,Vikram Sharma,North,Jaipur,Sports,Footwear,Running Shoes,3,4641.91,10.0,Card,272.69,3486.66,12533.157,2,2025
+ORD100334,2025-06-24,10372,Vikram Malhotra,East,Ranchi,Beauty,Fragrance,Perfume,1,3484.33,10.0,Card,182.45,292.29,3135.897,6,2025
+ORD100335,2025-03-20,10335,Vivaan Kumar,West,Ahmedabad,Home & Kitchen,Kitchen Appliances,Air Fryer,5,7914.56,10.0,UPI,134.49,4675.92,35615.520000000004,3,2025
+ORD100336,2025-08-10,10256,Simran Patel,South,Unknown,Sports,Fitness,Dumbbells,4,1886.07,0.0,UPI,251.58,2278.66,7544.28,8,2025
+ORD100337,2025-01-14,10550,Aarav Shah,North,Jaipur,Beauty,Haircare,Hair Dryer,5,1624.93,0.0,Card,280.05,1930.36,8124.650000000001,1,2025
+ORD100338,2025-05-02,10306,Vikram Joshi,South,Unknown,Beauty,Haircare,Hair Dryer,2,1343.4,5.0,UPI,420.95,110.45,2552.46,5,2025
+ORD100339,2025-05-28,10069,Aditi Joshi,West,Mumbai,Sports,Fitness,Dumbbells,1,2505.66,10.0,Card,392.07,403.06,2255.094,5,2025
+ORD100340,2025-06-06,10439,Isha Sharma,East,Bhubaneswar,Beauty,Haircare,Shampoo,1,360.84,10.0,Net Banking,210.83,-97.48,324.756,6,2025
+ORD100341,2025-06-10,10544,Karan Mehta,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,2,1620.29,0.0,Net Banking,127.75,1058.32,3240.58,6,2025
+ORD100342,2025-08-17,10113,Ananya Malhotra,North,Lucknow,Home & Kitchen,Kitchen Appliances,Air Fryer,2,8797.97,15.0,COD,312.07,5248.06,14956.548999999999,8,2025
+ORD100343,2025-09-20,10618,Ananya Gupta,East,Ranchi,Sports,Cricket,Cricket Bat,3,2641.91,10.0,Net Banking,390.16,2139.86,7133.157,9,2025
+ORD100344,2025-07-03,10298,Kavya Malhotra,West,Pune,Beauty,Skincare,Face Cream,3,704.8,15.0,UPI,159.28,410.98,1797.2399999999996,7,2025
+ORD100345,2025-03-03,10611,Isha Malhotra,North,Jaipur,Electronics,Smartphone,Mobile Phone,1,41649.43,20.0,Card,168.67,11567.53,33319.544,3,2025
+ORD100346,2025-10-21,10273,Nikhil Shah,West,Surat,Home & Kitchen,Kitchen Appliances,Air Fryer,1,4567.86,15.0,UPI,296.66,1053.74,3882.6809999999996,10,2025
+ORD100347,2025-07-17,10477,Rohan Singh,North,Jaipur,Beauty,Skincare,Face Wash,1,773.27,0.0,COD,100.9,21.26,773.27,7,2025
+ORD100348,2025-07-11,10586,Vivaan Sharma,North,Lucknow,Electronics,Wearables,Smart Watch,4,10286.44,0.0,UPI,149.36,9885.87,41145.76,7,2025
+ORD100349,2025-01-10,10002,Pooja Shah,South,Kochi,Beauty,Fragrance,Perfume,1,2231.04,15.0,Card,202.71,190.84,1896.384,1,2025
+ORD100350,2025-04-07,10045,Vikram Shah,North,Chandigarh,Electronics,Laptop,Laptop,1,57329.46,20.0,Net Banking,177.98,16736.23,45863.568,4,2025
+ORD100351,2025-02-24,10130,Karan Verma,North,Lucknow,Electronics,Audio,Bluetooth Speaker,3,4950.48,10.0,Card,230.83,2179.48,13366.295999999998,2,2025
+ORD100352,2025-01-03,10583,Karan Patel,East,Kolkata,Electronics,Smartphone,Mobile Phone,3,36807.16,20.0,COD,265.98,17881.52,88337.18400000001,1,2025
+ORD100353,2025-07-28,10126,Rohan Shah,West,Pune,Electronics,Laptop,Laptop,2,88548.43,10.0,Card,421.84,35839.85,159387.174,7,2025
+ORD100354,2025-07-06,10494,Kavya Singh,East,Bhubaneswar,Beauty,Skincare,Face Wash,3,308.1,0.0,COD,174.03,12.86,924.3000000000001,7,2025
+ORD100355,2025-01-25,10074,Simran Joshi,North,Jaipur,Home & Kitchen,Home Furnishing,Bedsheet,2,1057.53,5.0,UPI,91.81,516.06,2009.3069999999998,1,2025
+ORD100356,2025-05-17,10318,Vikram Sharma,North,Delhi,Beauty,Skincare,Face Wash,1,266.89,10.0,Card,330.17,-253.9,240.201,5,2025
+ORD100357,2025-02-11,10274,Sanya Sharma,South,Bengaluru,Home & Kitchen,Home Decor,Table Lamp,1,2349.68,5.0,UPI,349.13,302.46,2232.196,2,2025
+ORD100358,2025-09-22,10620,Rahul Gupta,West,Surat,Home & Kitchen,Home Furnishing,Bedsheet,1,1548.48,0.0,COD,66.59,325.61,1548.48,9,2025
+ORD100359,2025-06-30,10480,Pooja Shah,West,Pune,Sports,Cricket,Cricket Bat,1,6519.88,10.0,UPI,210.96,1542.54,5867.892,6,2025
+ORD100360,2025-12-22,10308,Simran Gupta,West,Mumbai,Beauty,Fragrance,Perfume,4,2794.27,15.0,COD,384.92,2249.44,9500.518,12,2025
+ORD100361,2025-06-06,10200,Meera Patel,North,Chandigarh,Electronics,Laptop,Laptop,2,72864.19,5.0,Card,122.03,48424.13,138441.961,6,2025
+ORD100362,2025-03-09,10575,Nikhil Sharma,East,Kolkata,Home & Kitchen,Home Decor,Table Lamp,2,2422.84,5.0,Card,407.14,713.73,4603.396,3,2025
+ORD100363,2025-05-29,10282,Aditya Verma,West,Surat,Home & Kitchen,Kitchen,Cookware Set,1,1803.96,0.0,Net Banking,131.79,242.6,1803.96,5,2025
+ORD100364,2025-07-02,10558,Ananya Sharma,West,Surat,Home & Kitchen,Kitchen,Cookware Set,3,5032.94,25.0,Card,173.49,2220.42,11324.115,7,2025
+ORD100365,2025-06-29,10524,Isha Sharma,North,Lucknow,Electronics,Laptop,Laptop,3,71879.06,5.0,Card,388.91,59346.67,204855.321,6,2025
+ORD100366,2025-01-11,10069,Aditi Joshi,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,1,4345.17,10.0,COD,80.02,1263.12,3910.6530000000002,1,2025
+ORD100367,2025-11-24,10267,Rohan Mehta,South,Chennai,Electronics,Audio,Bluetooth Speaker,4,6380.21,5.0,UPI,322.4,7674.84,24244.798,11,2025
+ORD100368,2025-12-20,10516,Vikram Gupta,North,Chandigarh,Electronics,Laptop,Laptop,1,72773.74,25.0,COD,417.49,9506.57,54580.30500000001,12,2025
+ORD100369,2025-05-20,10447,Aditya Sharma,East,Ranchi,Clothing,Women Clothing,Kurta,2,1651.58,5.0,Card,112.97,422.54,3138.0019999999995,5,2025
+ORD100370,2025-08-28,10526,Priya Sharma,North,Delhi,Clothing,Footwear,Sneakers,2,2962.37,10.0,UPI,421.8,325.32,5332.266,8,2025
+ORD100371,2025-03-27,10556,Sanya Verma,East,Kolkata,Home & Kitchen,Home Decor,Table Lamp,1,2356.96,0.0,Card,341.08,257.34,2356.96,3,2025
+ORD100372,2025-02-08,10057,Pooja Gupta,North,Lucknow,Clothing,Footwear,Sneakers,2,3602.43,0.0,UPI,381.74,1906.86,7204.86,2,2025
+ORD100373,2025-08-22,10544,Karan Mehta,North,Chandigarh,Beauty,Haircare,Shampoo,2,407.29,0.0,UPI,380.35,-95.8,814.58,8,2025
+ORD100374,2025-06-24,10530,Nikhil Sharma,North,Lucknow,Sports,Cricket,Cricket Bat,2,1431.55,5.0,Card,269.78,528.71,2719.9449999999997,6,2025
+ORD100375,2025-06-26,10343,Ananya Kumar,South,Bengaluru,Sports,Fitness,Dumbbells,5,4880.3,15.0,Card,324.36,6019.29,20741.274999999998,6,2025
+ORD100376,2025-09-08,10279,Nikhil Kumar,East,Kolkata,Electronics,Laptop,Laptop,1,59311.78,20.0,UPI,233.97,6535.72,47449.424,9,2025
+ORD100377,2025-03-31,10259,Ananya Patel,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,2,1588.99,15.0,Net Banking,342.24,310.03,2701.283,3,2025
+ORD100378,2025-03-29,10282,Aditya Verma,West,Surat,Electronics,Audio,Bluetooth Speaker,1,2018.33,15.0,COD,97.45,314.79,1715.5804999999998,3,2025
+ORD100379,2025-06-27,10366,Rahul Verma,North,Lucknow,Home & Kitchen,Home Decor,Table Lamp,3,1557.38,10.0,Card,155.16,758.89,4204.926,6,2025
+ORD100380,2025-01-26,10620,Rahul Gupta,North,Chandigarh,Clothing,Women Clothing,Kurta,4,2491.92,5.0,UPI,215.99,1296.35,9469.296,1,2025
+ORD100381,2025-03-09,10255,Sneha Joshi,North,Jaipur,Electronics,Audio,Bluetooth Speaker,3,6813.14,5.0,UPI,190.5,5664.43,19417.449,3,2025
+ORD100382,2025-11-08,10284,Isha Mehta,North,Delhi,Home & Kitchen,Kitchen,Cookware Set,1,5903.26,0.0,Card,235.01,760.3,5903.26,11,2025
+ORD100383,2025-02-25,10071,Kavya Malhotra,North,Chandigarh,Electronics,Smartphone,Mobile Phone,2,42938.95,25.0,UPI,128.95,19149.79,64408.424999999996,2,2025
+ORD100384,2025-12-17,10004,Nikhil Mehta,South,Chennai,Electronics,Wearables,Smart Watch,2,9317.92,25.0,UPI,366.77,3365.36,13976.880000000001,12,2025
+ORD100385,2025-04-15,10226,Nikhil Verma,West,Pune,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,4701.52,0.0,UPI,152.51,1160.9,9403.04,4,2025
+ORD100386,2025-09-08,10368,Rohan Sharma,North,Chandigarh,Clothing,Men Clothing,Jeans,1,2166.61,20.0,UPI,281.08,78.0,1733.2880000000002,9,2025
+ORD100387,2025-08-03,10199,Rahul Kumar,South,Bengaluru,Electronics,Wearables,Smart Watch,1,9071.34,10.0,UPI,184.67,839.54,8164.206,8,2025
+ORD100388,2025-03-21,10380,Pooja Shah,South,Chennai,Beauty,Skincare,Face Wash,2,630.42,5.0,Net Banking,153.88,153.21,1197.7979999999998,3,2025
+ORD100389,2025-05-04,10503,Aarav Patel,West,Mumbai,Electronics,Smartphone,Mobile Phone,1,32842.37,5.0,COD,115.68,5036.08,31200.251500000002,5,2025
+ORD100390,2025-02-06,10145,Arjun Gupta,East,Patna,Beauty,Haircare,Hair Dryer,3,1762.26,0.0,UPI,155.1,781.65,5286.78,2,2025
+ORD100391,2025-02-03,10580,Kavya Singh,East,Patna,Electronics,Audio,Bluetooth Speaker,3,1844.28,5.0,UPI,52.04,1330.02,5256.198,2,2025
+ORD100392,2025-07-12,10405,Simran Malhotra,South,Hyderabad,Sports,Team Sports,Football,3,866.37,0.0,UPI,39.18,425.11,2599.11,7,2025
+ORD100393,2025-05-27,10575,Nikhil Sharma,North,Jaipur,Clothing,Women Clothing,Kurta,3,718.92,15.0,COD,211.79,229.58,1833.2459999999996,5,2025
+ORD100394,2025-08-07,10071,Kavya Malhotra,East,Bhubaneswar,Clothing,Men Clothing,T-Shirt,2,1419.6,25.0,Card,220.19,434.68,2129.3999999999996,8,2025
+ORD100395,2025-01-19,10605,Rahul Shah,West,Surat,Clothing,Men Clothing,T-Shirt,1,1498.67,0.0,Card,64.68,444.6,1498.67,1,2025
+ORD100396,2025-06-21,10436,Aditi Shah,South,Chennai,Electronics,Wearables,Smart Watch,1,5380.59,25.0,Net Banking,170.65,763.87,4035.4425,6,2025
+ORD100397,2025-04-28,10211,Nikhil Malhotra,West,Mumbai,Home & Kitchen,Home Furnishing,Bedsheet,1,2425.42,10.0,UPI,138.21,435.92,2182.878,4,2025
+ORD100398,2025-09-03,10373,Aditi Joshi,West,Mumbai,Electronics,Laptop,Laptop,2,68999.56,5.0,UPI,440.53,20291.17,131099.164,9,2025
+ORD100399,2025-06-01,10307,Aarav Patel,East,Ranchi,Electronics,Wearables,Smart Watch,2,7394.09,25.0,Card,185.81,1802.17,11091.135,6,2025
+ORD100400,2025-09-28,10265,Neha Malhotra,North,Delhi,Sports,Footwear,Running Shoes,1,3210.54,10.0,COD,171.95,396.04,2889.486,9,2025
+ORD100401,2025-04-13,10096,Vikram Kumar,North,Delhi,Clothing,Women Clothing,Kurta,2,1501.93,25.0,Card,392.64,381.78,2252.895,4,2025
+ORD100402,2025-02-07,10402,Sneha Gupta,East,Ranchi,Clothing,Men Clothing,Jeans,1,2162.43,10.0,UPI,281.83,179.24,1946.187,2,2025
+ORD100403,2025-07-23,10409,Aarav Patel,East,Bhubaneswar,Sports,Footwear,Running Shoes,1,2526.7,5.0,UPI,126.73,719.0,2400.365,7,2025
+ORD100404,2025-05-20,10351,Vikram Patel,West,Mumbai,Clothing,Men Clothing,T-Shirt,4,1182.28,0.0,COD,245.91,592.87,4729.12,5,2025
+ORD100405,2025-11-14,10327,Neha Gupta,East,Ranchi,Sports,Footwear,Running Shoes,1,5369.78,5.0,Card,33.26,1252.55,5101.290999999999,11,2025
+ORD100406,2025-11-22,10078,Aarav Gupta,West,Ahmedabad,Electronics,Wearables,Smart Watch,3,6873.13,0.0,UPI,430.39,7015.41,20619.39,11,2025
+ORD100407,2025-11-18,10376,Kavya Sharma,North,Lucknow,Electronics,Audio,Bluetooth Speaker,1,3596.31,0.0,UPI,202.68,505.62,3596.31,11,2025
+ORD100408,2025-09-16,10152,Simran Patel,North,Jaipur,Electronics,Wearables,Smart Watch,2,5381.19,10.0,UPI,142.47,2449.73,9686.142,9,2025
+ORD100409,2025-09-30,10262,Rahul Gupta,North,Chandigarh,Beauty,Fragrance,Perfume,1,1543.69,10.0,Net Banking,356.64,89.72,1389.3210000000001,9,2025
+ORD100410,2025-11-19,10439,Isha Sharma,North,Jaipur,Beauty,Fragrance,Perfume,1,2228.24,10.0,Card,444.69,199.97,2005.416,11,2025
+ORD100411,2025-02-26,10353,Vikram Malhotra,East,Ranchi,Home & Kitchen,Kitchen Appliances,Air Fryer,3,7193.75,5.0,Card,170.19,4532.57,20502.1875,2,2025
+ORD100412,2025-03-08,10162,Aarav Joshi,West,Surat,Home & Kitchen,Kitchen,Cookware Set,1,2778.01,10.0,UPI,106.34,516.03,2500.2090000000003,3,2025
+ORD100413,2025-05-25,10551,Vivaan Gupta,South,Chennai,Clothing,Men Clothing,Jacket,2,2072.44,5.0,Card,156.76,418.4,3937.636,5,2025
+ORD100414,2025-06-14,10584,Neha Singh,East,Patna,Home & Kitchen,Home Decor,Table Lamp,3,1178.0,15.0,UPI,375.97,698.92,3003.9,6,2025
+ORD100415,2025-06-19,10591,Rohan Shah,West,Ahmedabad,Electronics,Laptop,Laptop,2,89957.23,0.0,UPI,275.71,45238.86,179914.46,6,2025
+ORD100416,2025-04-02,10375,Pooja Shah,East,Kolkata,Clothing,Women Clothing,Kurta,3,2190.73,10.0,UPI,77.21,2094.65,5914.9710000000005,4,2025
+ORD100417,2025-08-14,10550,Aarav Shah,South,Chennai,Sports,Team Sports,Football,5,1090.1,10.0,Card,421.59,347.91,4905.45,8,2025
+ORD100418,2025-01-29,10064,Rahul Mehta,North,Jaipur,Sports,Team Sports,Football,4,532.04,10.0,COD,381.28,-138.71,1915.3439999999998,1,2025
+ORD100419,2025-07-12,10123,Aarav Shah,West,Ahmedabad,Electronics,Laptop,Laptop,2,69263.6,5.0,COD,345.75,29530.92,131600.84,7,2025
+ORD100420,2025-03-10,10509,Isha Malhotra,North,Chandigarh,Beauty,Skincare,Face Cream,3,856.35,15.0,Net Banking,145.57,458.29,2183.6925,3,2025
+ORD100421,2025-08-06,10387,Meera Verma,West,Ahmedabad,Sports,Fitness,Yoga Mat,2,1360.9,10.0,UPI,162.58,688.5,2449.6200000000003,8,2025
+ORD100422,2025-12-17,10047,Aarav Patel,East,Kolkata,Electronics,Accessories,Wireless Earbuds,5,4935.65,10.0,COD,339.47,5207.13,22210.425,12,2025
+ORD100423,2025-09-21,10456,Priya Mehta,East,Bhubaneswar,Beauty,Fragrance,Perfume,2,2949.31,5.0,UPI,295.04,1797.96,5603.688999999999,9,2025
+ORD100424,2025-04-03,10249,Sneha Joshi,West,Surat,Beauty,Haircare,Shampoo,2,382.22,15.0,Card,108.37,106.74,649.774,4,2025
+ORD100425,2025-12-02,10093,Rohan Mehta,North,Chandigarh,Sports,Fitness,Yoga Mat,2,642.34,0.0,Net Banking,257.37,135.93,1284.68,12,2025
+ORD100426,2025-11-24,10220,Aarav Gupta,West,Mumbai,Electronics,Accessories,Wireless Earbuds,3,3765.88,0.0,UPI,82.97,3828.69,11297.64,11,2025
+ORD100427,2025-06-02,10426,Simran Sharma,East,Kolkata,Home & Kitchen,Kitchen Appliances,Air Fryer,1,8783.53,10.0,Card,358.21,1200.28,7905.177000000001,6,2025
+ORD100428,2025-01-24,10103,Nikhil Malhotra,West,Surat,Home & Kitchen,Kitchen,Cookware Set,1,4489.88,5.0,Net Banking,44.04,933.82,4265.3859999999995,1,2025
+ORD100429,2025-01-24,10449,Priya Joshi,North,Chandigarh,Beauty,Skincare,Face Cream,1,1210.77,0.0,Net Banking,91.58,139.5,1210.77,1,2025
+ORD100430,2025-03-09,10115,Simran Sharma,North,Lucknow,Home & Kitchen,Kitchen Appliances,Air Fryer,2,6135.57,25.0,UPI,153.82,2495.07,9203.355,3,2025
+ORD100431,2025-02-18,10007,Aditya Kumar,East,Patna,Clothing,Men Clothing,Jacket,4,1862.16,10.0,Net Banking,100.87,758.79,6703.776000000001,2,2025
+ORD100432,2025-07-07,10001,Ananya Singh,South,Unknown,Electronics,Audio,Bluetooth Speaker,1,3683.16,0.0,UPI,73.96,920.62,3683.16,7,2025
+ORD100433,2025-12-23,10109,Priya Sharma,West,Surat,Clothing,Women Clothing,Kurta,1,1000.33,20.0,COD,178.71,-11.07,800.2640000000001,12,2025
+ORD100434,2025-02-16,10615,Aarav Joshi,East,Kolkata,Electronics,Wearables,Smart Watch,1,2870.56,5.0,COD,269.19,176.89,2727.0319999999997,2,2025
+ORD100435,2025-12-25,10099,Kavya Sharma,West,Mumbai,Electronics,Accessories,Wireless Earbuds,1,4570.76,5.0,UPI,389.98,337.57,4342.222,12,2025
+ORD100436,2025-12-03,10389,Nikhil Joshi,South,Bengaluru,Clothing,Men Clothing,Jacket,1,3072.46,20.0,Net Banking,130.52,404.65,2457.9680000000003,12,2025
+ORD100437,2025-04-24,10029,Priya Singh,East,Bhubaneswar,Electronics,Smartphone,Mobile Phone,3,24943.11,10.0,UPI,187.63,14429.51,67346.397,4,2025
+ORD100438,2025-04-24,10270,Karan Malhotra,North,Lucknow,Sports,Team Sports,Football,2,639.69,0.0,Net Banking,143.24,70.27,1279.38,4,2025
+ORD100439,2025-02-21,10092,Sneha Malhotra,West,Pune,Electronics,Smartphone,Mobile Phone,4,31577.64,15.0,UPI,440.52,13438.22,107363.976,2,2025
+ORD100440,2025-01-29,10204,Sanya Patel,North,Chandigarh,Clothing,Men Clothing,Jeans,3,1756.63,0.0,UPI,442.18,697.6,5269.89,1,2025
+ORD100441,2025-05-10,10311,Pooja Joshi,South,Bengaluru,Sports,Team Sports,Football,1,573.61,0.0,Card,420.08,-276.19,573.61,5,2025
+ORD100442,2025-06-11,10383,Vivaan Malhotra,West,Pune,Electronics,Laptop,Laptop,2,48181.35,5.0,Card,448.41,23043.87,91544.56499999999,6,2025
+ORD100443,2025-01-11,10484,Arjun Singh,West,Mumbai,Clothing,Men Clothing,Jacket,2,2960.84,0.0,UPI,37.0,868.31,5921.68,1,2025
+ORD100444,2025-09-21,10542,Nikhil Verma,North,Chandigarh,Clothing,Footwear,Sneakers,4,5828.15,0.0,COD,309.02,6468.46,23312.6,9,2025
+ORD100445,2025-07-09,10027,Meera Sharma,North,Jaipur,Electronics,Laptop,Laptop,2,53983.3,15.0,COD,91.12,13832.98,91771.61,7,2025
+ORD100446,2025-03-13,10524,Isha Sharma,South,Kochi,Beauty,Haircare,Shampoo,1,865.23,15.0,Card,138.49,-24.81,735.4455,3,2025
+ORD100447,2025-10-13,10117,Sanya Patel,East,Patna,Electronics,Laptop,Laptop,4,76593.72,10.0,Card,84.88,83833.08,275737.392,10,2025
+ORD100448,2025-03-13,10425,Arjun Gupta,West,Pune,Clothing,Men Clothing,Jeans,2,1163.36,0.0,UPI,379.32,224.62,2326.72,3,2025
+ORD100449,2025-04-14,10455,Karan Shah,East,Ranchi,Home & Kitchen,Home Furnishing,Bedsheet,1,1783.61,5.0,COD,122.6,448.78,1694.4294999999997,4,2025
+ORD100450,2025-10-18,10034,Neha Singh,South,Bengaluru,Sports,Cricket,Cricket Bat,2,1688.44,25.0,Card,149.87,426.79,2532.66,10,2025
+ORD100451,2025-11-19,10133,Arjun Sharma,North,Jaipur,Clothing,Men Clothing,Jacket,1,4011.46,15.0,Card,288.09,216.41,3409.741,11,2025
+ORD100452,2025-12-22,10406,Vivaan Shah,North,Chandigarh,Electronics,Accessories,Wireless Earbuds,5,4242.04,15.0,Card,47.46,5834.08,18028.670000000002,12,2025
+ORD100453,2025-11-18,10215,Sanya Mehta,West,Surat,Beauty,Fragrance,Perfume,2,3441.41,0.0,UPI,361.83,1150.77,6882.82,11,2025
+ORD100454,2025-10-21,10393,Sneha Joshi,North,Jaipur,Home & Kitchen,Kitchen Appliances,Air Fryer,3,8771.08,5.0,Net Banking,200.71,4281.92,24997.577999999998,10,2025
+ORD100455,2025-09-01,10506,Nikhil Shah,East,Kolkata,Home & Kitchen,Home Furnishing,Bedsheet,1,2146.05,0.0,Card,436.65,296.35,2146.05,9,2025
+ORD100456,2025-04-04,10423,Nikhil Patel,West,Mumbai,Electronics,Smartphone,Mobile Phone,1,44537.22,10.0,Card,138.27,7784.05,40083.498,4,2025
+ORD100457,2025-06-29,10058,Aarav Patel,North,Chandigarh,Home & Kitchen,Home Decor,Table Lamp,2,1527.21,10.0,UPI,317.46,367.48,2748.978,6,2025
+ORD100458,2025-11-03,10513,Kavya Kumar,West,Pune,Clothing,Women Clothing,Kurta,3,1083.46,10.0,UPI,300.09,231.57,2925.342,11,2025
+ORD100459,2025-03-10,10468,Priya Malhotra,East,Patna,Electronics,Accessories,Wireless Earbuds,2,4063.21,0.0,Card,259.42,2639.57,8126.42,3,2025
+ORD100460,2025-09-11,10256,Simran Patel,South,Bengaluru,Electronics,Smartphone,Mobile Phone,1,41618.68,0.0,COD,72.49,8999.72,41618.68,9,2025
+ORD100461,2025-08-02,10325,Rahul Patel,South,Chennai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,5934.18,15.0,Card,205.51,1652.86,5044.053,8,2025
+ORD100462,2025-05-31,10541,Neha Malhotra,South,Hyderabad,Electronics,Laptop,Laptop,3,71159.45,0.0,UPI,229.31,60828.35,213478.34999999998,5,2025
+ORD100463,2025-03-18,10359,Sanya Kumar,South,Bengaluru,Clothing,Women Clothing,Kurta,3,1309.5,0.0,Card,276.92,261.36,3928.5,3,2025
+ORD100464,2025-04-11,10632,Sneha Malhotra,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,2,3318.28,25.0,COD,74.63,809.4,4977.42,4,2025
+ORD100465,2025-01-12,10016,Simran Joshi,North,Chandigarh,Clothing,Women Clothing,Kurta,1,1910.25,5.0,UPI,107.46,347.4,1814.7375,1,2025
+ORD100466,2025-11-13,10437,Vivaan Singh,South,Bengaluru,Electronics,Wearables,Smart Watch,1,7148.15,5.0,COD,427.03,534.27,6790.742499999999,11,2025
+ORD100467,2025-07-18,10182,Rohan Singh,East,Kolkata,Beauty,Haircare,Shampoo,1,950.42,5.0,Net Banking,83.19,218.0,902.8989999999999,7,2025
+ORD100468,2025-12-13,10502,Kavya Mehta,East,Ranchi,Electronics,Audio,Bluetooth Speaker,1,7524.37,10.0,UPI,325.01,1088.19,6771.933,12,2025
+ORD100469,2025-12-14,10053,Rahul Gupta,West,Surat,Home & Kitchen,Home Furnishing,Bedsheet,1,2498.98,15.0,COD,244.08,397.37,2124.133,12,2025
+ORD100470,2025-01-29,10463,Priya Shah,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,2,839.47,0.0,UPI,202.41,28.23,1678.94,1,2025
+ORD100471,2025-07-13,10504,Meera Singh,East,Bhubaneswar,Home & Kitchen,Kitchen,Cookware Set,1,5478.92,15.0,UPI,245.15,934.41,4657.082,7,2025
+ORD100472,2025-11-19,10460,Vikram Sharma,East,Patna,Electronics,Wearables,Smart Watch,1,3097.62,0.0,UPI,342.21,252.33,3097.62,11,2025
+ORD100473,2025-11-02,10480,Pooja Shah,North,Chandigarh,Clothing,Men Clothing,Jacket,3,4610.61,0.0,Card,115.98,3102.76,13831.829999999998,11,2025
+ORD100474,2025-12-03,10512,Simran Joshi,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,3,3145.37,10.0,Card,101.74,2688.9,8492.499000000002,12,2025
+ORD100475,2025-06-07,10428,Sneha Sharma,South,Hyderabad,Clothing,Men Clothing,Jacket,3,4258.12,5.0,UPI,91.16,2319.8,12135.642,6,2025
+ORD100476,2025-09-03,10214,Sanya Shah,East,Bhubaneswar,Sports,Team Sports,Football,1,1696.82,0.0,Net Banking,286.59,357.64,1696.82,9,2025
+ORD100477,2025-04-03,10116,Vivaan Sharma,West,Ahmedabad,Home & Kitchen,Home Furnishing,Bedsheet,4,1519.01,5.0,COD,316.35,543.28,5772.237999999999,4,2025
+ORD100478,2025-12-20,10305,Isha Singh,West,Surat,Clothing,Footwear,Sneakers,1,3339.51,5.0,UPI,365.35,256.85,3172.5345,12,2025
+ORD100479,2025-05-12,10486,Simran Malhotra,North,Chandigarh,Clothing,Footwear,Sneakers,1,3290.71,10.0,Card,31.66,707.85,2961.639,5,2025
+ORD100480,2025-09-20,10471,Arjun Kumar,South,Chennai,Beauty,Skincare,Face Cream,2,558.62,0.0,COD,240.12,63.84,1117.24,9,2025
+ORD100481,2025-04-18,10590,Neha Kumar,North,Delhi,Beauty,Skincare,Face Cream,2,1370.25,5.0,UPI,78.55,647.7,2603.475,4,2025
+ORD100482,2025-12-05,10394,Vikram Singh,North,Lucknow,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,3204.76,25.0,COD,240.37,659.75,7210.710000000001,12,2025
+ORD100483,2025-09-15,10222,Sneha Gupta,North,Lucknow,Sports,Team Sports,Football,4,585.31,10.0,Card,304.15,356.49,2107.116,9,2025
+ORD100484,2025-06-04,10480,Pooja Shah,South,Hyderabad,Beauty,Haircare,Hair Dryer,1,1959.87,5.0,UPI,73.05,375.25,1861.8764999999999,6,2025
+ORD100485,2025-11-06,10199,Rahul Kumar,North,Delhi,Electronics,Accessories,Wireless Earbuds,3,4548.75,5.0,UPI,334.31,3542.0,12963.9375,11,2025
+ORD100486,2025-10-29,10561,Vivaan Sharma,West,Surat,Electronics,Accessories,Wireless Earbuds,1,2883.88,5.0,UPI,250.9,214.06,2739.686,10,2025
+ORD100487,2025-10-16,10009,Sneha Kumar,South,Hyderabad,Clothing,Footwear,Sneakers,4,4838.85,10.0,Card,42.31,3777.75,17419.86,10,2025
+ORD100488,2025-08-21,10369,Rahul Joshi,East,Kolkata,Electronics,Laptop,Laptop,1,66000.74,0.0,UPI,331.22,15515.25,66000.74,8,2025
+ORD100489,2025-04-28,10056,Aditya Patel,East,Bhubaneswar,Electronics,Smartphone,Mobile Phone,2,25729.56,0.0,Card,303.41,8219.54,51459.12,4,2025
+ORD100490,2025-08-13,10440,Isha Shah,South,Kochi,Beauty,Haircare,Hair Dryer,1,3498.34,0.0,UPI,92.5,531.16,3498.34,8,2025
+ORD100491,2025-11-29,10354,Vikram Singh,South,Chennai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,2792.05,5.0,UPI,227.32,1160.33,5304.895,11,2025
+ORD100492,2025-06-19,10276,Ananya Joshi,East,Patna,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,4022.66,20.0,Net Banking,117.93,2261.88,6436.256,6,2025
+ORD100493,2025-11-06,10363,Aditya Gupta,West,Ahmedabad,Sports,Cricket,Cricket Bat,2,4274.3,0.0,UPI,223.04,1628.49,8548.6,11,2025
+ORD100494,2025-02-21,10598,Arjun Gupta,East,Kolkata,Electronics,Laptop,Laptop,3,76203.04,25.0,UPI,239.24,50224.3,171456.84,2,2025
+ORD100495,2025-04-24,10254,Rahul Gupta,South,Chennai,Clothing,Women Clothing,Kurta,3,807.57,20.0,UPI,162.13,316.32,1938.1680000000001,4,2025
+ORD100496,2025-03-20,10332,Aarav Sharma,West,Pune,Electronics,Wearables,Smart Watch,1,6535.54,5.0,Net Banking,350.01,1193.92,6208.763,3,2025
+ORD100497,2025-07-01,10230,Neha Malhotra,West,Ahmedabad,Electronics,Laptop,Laptop,1,77855.86,5.0,COD,237.02,24390.66,73963.067,7,2025
+ORD100498,2025-04-02,10501,Isha Kumar,West,Pune,Sports,Footwear,Running Shoes,2,4596.6,5.0,Net Banking,397.15,1314.06,8733.54,4,2025
+ORD100499,2025-02-08,10334,Priya Mehta,West,Surat,Home & Kitchen,Home Furnishing,Bedsheet,1,2498.99,10.0,Card,151.03,350.47,2249.091,2,2025
+ORD100500,2025-07-31,10643,Karan Malhotra,North,Chandigarh,Clothing,Men Clothing,T-Shirt,1,691.75,10.0,Net Banking,142.58,-37.35,622.575,7,2025
+ORD100501,2025-08-16,10177,Pooja Kumar,North,Lucknow,Clothing,Women Clothing,Kurta,3,1095.43,5.0,COD,259.77,399.01,3121.9755,8,2025
+ORD100502,2025-02-09,10213,Rahul Singh,West,Mumbai,Electronics,Wearables,Smart Watch,2,7083.68,10.0,UPI,111.83,3104.57,12750.624000000002,2,2025
+ORD100503,2025-08-25,10396,Aditya Joshi,West,Surat,Beauty,Skincare,Face Wash,1,446.49,0.0,Net Banking,84.87,41.63,446.49,8,2025
+ORD100504,2025-11-23,10094,Arjun Mehta,North,Jaipur,Clothing,Footwear,Sneakers,1,3792.7,0.0,UPI,369.2,311.27,3792.7,11,2025
+ORD100505,2025-03-21,10344,Vivaan Kumar,West,Ahmedabad,Clothing,Footwear,Sneakers,3,1927.92,0.0,COD,294.83,779.32,5783.76,3,2025
+ORD100506,2025-07-13,10029,Priya Singh,North,Delhi,Electronics,Wearables,Smart Watch,4,8923.49,20.0,COD,338.89,9917.99,28555.168,7,2025
+ORD100507,2025-01-26,10573,Meera Mehta,South,Bengaluru,Home & Kitchen,Home Furnishing,Bedsheet,1,1075.68,10.0,COD,223.18,-8.08,968.1120000000001,1,2025
+ORD100508,2025-10-13,10604,Pooja Shah,North,Delhi,Home & Kitchen,Home Decor,Table Lamp,2,855.01,10.0,Card,90.66,317.28,1539.018,10,2025
+ORD100509,2025-07-14,10052,Aarav Mehta,South,Bengaluru,Clothing,Men Clothing,T-Shirt,3,1184.32,5.0,UPI,347.07,97.3,3375.312,7,2025
+ORD100510,2025-12-08,10503,Aarav Patel,South,Chennai,Home & Kitchen,Kitchen Appliances,Air Fryer,1,5815.26,10.0,Card,192.31,1224.65,5233.734,12,2025
+ORD100511,2025-02-15,10149,Isha Patel,East,Ranchi,Clothing,Men Clothing,Jacket,2,4720.13,5.0,UPI,268.95,1083.06,8968.247,2,2025
+ORD100512,2025-04-23,10558,Ananya Sharma,West,Ahmedabad,Beauty,Haircare,Shampoo,2,344.23,0.0,COD,220.66,-13.04,688.46,4,2025
+ORD100513,2025-07-10,10560,Arjun Verma,South,Hyderabad,Clothing,Women Clothing,Kurta,1,1153.6,20.0,Card,254.06,-46.47,922.88,7,2025
+ORD100514,2025-11-26,10202,Meera Singh,South,Hyderabad,Clothing,Men Clothing,Jeans,1,2073.72,20.0,UPI,395.21,-94.38,1658.9759999999999,11,2025
+ORD100515,2025-12-27,10022,Isha Malhotra,South,Chennai,Home & Kitchen,Kitchen Appliances,Air Fryer,1,5913.26,10.0,COD,77.56,1382.48,5321.934,12,2025
+ORD100516,2025-06-19,10268,Meera Shah,East,Bhubaneswar,Beauty,Skincare,Face Cream,3,825.73,15.0,Card,420.51,-139.29,2105.6115,6,2025
+ORD100517,2025-08-18,10386,Aditya Mehta,North,Delhi,Sports,Fitness,Dumbbells,1,3407.93,10.0,UPI,238.96,716.76,3067.1369999999997,8,2025
+ORD100518,2025-03-23,10071,Kavya Malhotra,West,Pune,Home & Kitchen,Kitchen Appliances,Air Fryer,1,4659.15,0.0,Card,135.5,1246.65,4659.15,3,2025
+ORD100519,2025-08-01,10467,Ananya Gupta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,6520.79,15.0,UPI,342.67,5318.92,16628.014499999997,8,2025
+ORD100520,2025-07-22,10453,Arjun Joshi,North,Delhi,Home & Kitchen,Kitchen,Cookware Set,1,2353.18,15.0,Card,136.34,334.95,2000.2029999999997,7,2025
+ORD100521,2025-10-26,10163,Kavya Kumar,East,Bhubaneswar,Beauty,Fragrance,Perfume,2,2494.63,5.0,UPI,316.32,1228.73,4739.797,10,2025
+ORD100522,2025-10-15,10416,Arjun Shah,West,Pune,Electronics,Laptop,Laptop,2,77381.07,5.0,Card,190.64,44037.71,147024.033,10,2025
+ORD100523,2025-10-17,10534,Pooja Verma,North,Unknown,Clothing,Men Clothing,T-Shirt,3,1278.33,5.0,UPI,125.48,937.61,3643.2404999999994,10,2025
+ORD100524,2025-06-16,10299,Sanya Shah,East,Ranchi,Home & Kitchen,Kitchen,Cookware Set,1,2175.23,5.0,UPI,152.3,218.03,2066.4685,6,2025
+ORD100525,2025-07-11,10337,Sneha Sharma,North,Jaipur,Home & Kitchen,Home Decor,Table Lamp,1,1307.25,0.0,Net Banking,369.05,-28.52,1307.25,7,2025
+ORD100526,2025-05-12,10037,Priya Patel,North,Delhi,Clothing,Men Clothing,Jacket,2,2122.58,20.0,Card,90.0,525.7,3396.128,5,2025
+ORD100527,2025-11-17,10394,Vikram Singh,West,Ahmedabad,Beauty,Haircare,Hair Dryer,4,2084.72,15.0,Net Banking,334.47,2148.56,7088.047999999999,11,2025
+ORD100528,2025-04-15,10281,Nikhil Mehta,East,Patna,Electronics,Wearables,Smart Watch,1,11194.09,5.0,UPI,281.24,2095.81,10634.3855,4,2025
+ORD100529,2025-01-14,10442,Aditya Sharma,North,Chandigarh,Beauty,Haircare,Hair Dryer,2,2526.83,5.0,UPI,244.76,572.66,4800.977,1,2025
+ORD100530,2025-01-29,10101,Sanya Gupta,North,Lucknow,Clothing,Men Clothing,Jeans,1,2176.29,0.0,Card,261.98,226.14,2176.29,1,2025
+ORD100531,2025-04-20,10546,Aditya Shah,South,Kochi,Beauty,Skincare,Face Wash,3,530.33,15.0,UPI,197.36,205.1,1352.3415000000002,4,2025
+ORD100532,2025-05-25,10619,Aditya Verma,East,Kolkata,Electronics,Audio,Bluetooth Speaker,2,2154.01,0.0,UPI,225.03,926.74,4308.02,5,2025
+ORD100533,2025-07-16,10315,Aarav Verma,West,Ahmedabad,Sports,Fitness,Dumbbells,1,1218.05,10.0,COD,243.65,157.33,1096.245,7,2025
+ORD100534,2025-10-17,10215,Sanya Mehta,East,Bhubaneswar,Beauty,Skincare,Face Wash,5,779.46,0.0,COD,112.84,1151.76,3897.3,10,2025
+ORD100535,2025-02-22,10527,Ananya Sharma,East,Kolkata,Electronics,Laptop,Laptop,1,87082.14,5.0,Card,74.56,16941.26,82728.033,2,2025
+ORD100536,2025-11-26,10178,Kavya Patel,South,Kochi,Sports,Fitness,Yoga Mat,3,1168.79,5.0,COD,160.14,666.12,3331.0514999999996,11,2025
+ORD100537,2025-06-28,10275,Simran Sharma,South,Kochi,Electronics,Smartphone,Mobile Phone,1,26829.18,10.0,UPI,412.03,4783.97,24146.262000000002,6,2025
+ORD100538,2025-06-18,10426,Simran Sharma,North,Chandigarh,Beauty,Haircare,Shampoo,1,943.62,5.0,UPI,93.96,185.16,896.439,6,2025
+ORD100539,2025-11-11,10456,Priya Mehta,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Air Fryer,2,4753.46,0.0,COD,141.55,1574.63,9506.92,11,2025
+ORD100540,2025-02-07,10270,Karan Malhotra,North,Jaipur,Home & Kitchen,Kitchen Appliances,Air Fryer,1,8972.89,5.0,Card,244.49,1937.44,8524.245499999999,2,2025
+ORD100541,2025-06-19,10104,Aditya Gupta,West,Pune,Clothing,Men Clothing,Jeans,3,2058.78,5.0,Card,390.71,879.57,5867.523,6,2025
+ORD100542,2025-05-22,10228,Vikram Malhotra,West,Surat,Electronics,Smartphone,Mobile Phone,3,31042.79,5.0,Net Banking,114.24,28551.26,88471.9515,5,2025
+ORD100543,2025-04-04,10047,Aarav Patel,South,Hyderabad,Beauty,Skincare,Face Cream,4,358.16,0.0,Card,288.53,241.14,1432.64,4,2025
+ORD100544,2025-04-16,10614,Priya Sharma,South,Kochi,Electronics,Laptop,Laptop,1,64220.06,0.0,Net Banking,229.57,18876.71,64220.06,4,2025
+ORD100545,2025-07-20,10570,Simran Malhotra,West,Pune,Beauty,Haircare,Hair Dryer,3,2682.52,0.0,Card,350.58,2421.88,8047.5599999999995,7,2025
+ORD100546,2025-02-12,10224,Priya Malhotra,North,Jaipur,Sports,Cricket,Cricket Bat,2,1241.16,15.0,UPI,257.12,173.11,2109.972,2,2025
+ORD100547,2025-01-15,10332,Aarav Sharma,West,Ahmedabad,Clothing,Men Clothing,T-Shirt,3,864.01,10.0,Net Banking,387.18,247.99,2332.8269999999998,1,2025
+ORD100548,2025-03-16,10246,Simran Joshi,North,Chandigarh,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4205.53,5.0,UPI,312.36,677.42,3995.2534999999993,3,2025
+ORD100549,2025-05-13,10343,Ananya Kumar,West,Mumbai,Beauty,Haircare,Shampoo,2,723.64,0.0,UPI,427.7,31.69,1447.28,5,2025
+ORD100550,2025-12-27,10495,Sanya Singh,North,Chandigarh,Electronics,Wearables,Smart Watch,2,9204.71,15.0,UPI,307.77,4043.64,15648.006999999998,12,2025
+ORD100551,2025-04-21,10271,Vivaan Patel,South,Hyderabad,Clothing,Footwear,Sneakers,1,2813.23,0.0,UPI,368.48,495.98,2813.23,4,2025
+ORD100552,2025-11-03,10013,Vikram Malhotra,North,Jaipur,Electronics,Smartphone,Mobile Phone,4,24160.48,15.0,UPI,390.68,15864.44,82145.632,11,2025
+ORD100553,2025-06-01,10417,Rohan Verma,South,Hyderabad,Electronics,Wearables,Smart Watch,1,8833.73,5.0,Card,276.44,1939.98,8392.0435,6,2025
+ORD100554,2025-12-06,10575,Nikhil Sharma,West,Pune,Sports,Fitness,Dumbbells,1,3363.26,10.0,UPI,421.76,666.83,3026.934,12,2025
+ORD100555,2025-10-08,10209,Vivaan Singh,West,Surat,Electronics,Smartphone,Mobile Phone,2,40394.58,5.0,Card,144.57,19770.18,76749.702,10,2025
+ORD100556,2025-07-05,10346,Karan Gupta,West,Pune,Electronics,Smartphone,Mobile Phone,2,18409.7,5.0,Card,296.19,8902.66,34978.43,7,2025
+ORD100557,2025-12-21,10074,Simran Joshi,South,Kochi,Clothing,Women Clothing,Kurta,2,724.14,0.0,Net Banking,123.01,123.98,1448.28,12,2025
+ORD100558,2025-12-03,10346,Karan Gupta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,3660.15,5.0,Card,155.03,1136.5,3477.1425,12,2025
+ORD100559,2025-03-14,10297,Aditya Mehta,East,Patna,Home & Kitchen,Kitchen Appliances,Air Fryer,4,7980.32,0.0,UPI,278.84,4916.39,31921.28,3,2025
+ORD100560,2025-11-26,10053,Rahul Gupta,North,Chandigarh,Electronics,Wearables,Smart Watch,1,5471.04,5.0,Card,251.78,413.21,5197.487999999999,11,2025
+ORD100561,2025-08-01,10299,Sanya Shah,West,Mumbai,Sports,Cricket,Cricket Bat,2,6466.89,15.0,UPI,320.88,2222.04,10993.713,8,2025
+ORD100562,2025-08-06,10442,Aditya Sharma,West,Mumbai,Clothing,Women Clothing,Kurta,2,826.83,5.0,UPI,426.95,54.56,1570.977,8,2025
+ORD100563,2025-12-31,10313,Karan Patel,East,Bhubaneswar,Clothing,Men Clothing,Jeans,2,2338.11,0.0,Net Banking,85.68,749.42,4676.22,12,2025
+ORD100564,2025-10-15,10353,Vikram Malhotra,South,Kochi,Home & Kitchen,Home Decor,Table Lamp,3,887.13,25.0,COD,143.55,187.96,1996.0425,10,2025
+ORD100565,2025-12-20,10468,Priya Malhotra,East,Patna,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,6390.44,10.0,Card,286.63,965.51,5751.396,12,2025
+ORD100566,2025-10-26,10013,Vikram Malhotra,North,Chandigarh,Electronics,Audio,Bluetooth Speaker,4,4145.76,15.0,UPI,229.94,1492.0,14095.584,10,2025
+ORD100567,2025-03-09,10273,Nikhil Shah,West,Surat,Clothing,Footwear,Sneakers,1,5076.35,15.0,UPI,417.33,557.54,4314.8975,3,2025
+ORD100568,2025-03-30,10539,Priya Mehta,South,Bengaluru,Electronics,Accessories,Wireless Earbuds,3,4078.68,15.0,COD,140.48,3204.52,10400.633999999998,3,2025
+ORD100569,2025-05-18,10359,Sanya Kumar,East,Bhubaneswar,Sports,Cricket,Cricket Bat,1,6507.48,5.0,Card,214.22,912.9,6182.105999999999,5,2025
+ORD100570,2025-02-17,10023,Vivaan Singh,South,Hyderabad,Clothing,Men Clothing,T-Shirt,1,1339.68,15.0,UPI,75.11,327.66,1138.728,2,2025
+ORD100571,2025-12-31,10380,Pooja Shah,North,Jaipur,Sports,Fitness,Dumbbells,5,2020.73,15.0,Card,269.18,2228.02,8588.102499999999,12,2025
+ORD100572,2025-11-25,10010,Vivaan Patel,East,Kolkata,Clothing,Men Clothing,Jacket,4,2787.48,0.0,Card,99.12,1952.95,11149.92,11,2025
+ORD100573,2025-10-07,10626,Nikhil Shah,West,Pune,Sports,Footwear,Running Shoes,1,1997.66,10.0,COD,98.42,205.01,1797.894,10,2025
+ORD100574,2025-07-06,10074,Simran Joshi,West,Mumbai,Beauty,Fragrance,Perfume,2,961.62,0.0,COD,216.68,385.99,1923.24,7,2025
+ORD100575,2025-11-21,10640,Karan Mehta,North,Chandigarh,Clothing,Footwear,Sneakers,1,2317.79,0.0,UPI,60.13,422.98,2317.79,11,2025
+ORD100576,2025-01-25,10038,Sanya Verma,South,Bengaluru,Beauty,Skincare,Face Wash,1,284.3,10.0,UPI,241.71,-180.73,255.87,1,2025
+ORD100577,2025-08-04,10069,Aditi Joshi,South,Hyderabad,Home & Kitchen,Kitchen,Cookware Set,1,2245.75,10.0,UPI,440.87,243.87,2021.175,8,2025
+ORD100578,2025-03-02,10145,Arjun Gupta,East,Kolkata,Sports,Fitness,Yoga Mat,4,552.76,20.0,COD,154.98,154.18,1768.832,3,2025
+ORD100579,2025-09-04,10139,Aarav Gupta,North,Chandigarh,Clothing,Men Clothing,T-Shirt,1,1135.36,25.0,Card,80.37,172.2,851.52,9,2025
+ORD100580,2025-03-02,10476,Aarav Kumar,West,Surat,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,6160.33,15.0,Card,129.26,1727.3,5236.2805,3,2025
+ORD100581,2025-11-13,10181,Ananya Singh,East,Ranchi,Beauty,Haircare,Hair Dryer,1,1585.14,0.0,UPI,304.78,77.65,1585.14,11,2025
+ORD100582,2025-11-27,10493,Aarav Shah,West,Surat,Beauty,Skincare,Face Wash,1,472.97,5.0,COD,425.07,-292.8,449.3215,11,2025
+ORD100583,2025-05-02,10147,Sneha Patel,North,Lucknow,Electronics,Audio,Bluetooth Speaker,1,6243.66,10.0,UPI,143.25,1035.45,5619.294,5,2025
+ORD100584,2025-07-08,10649,Sneha Mehta,South,Chennai,Clothing,Footwear,Sneakers,1,4715.1,10.0,UPI,207.47,1075.93,4243.59,7,2025
+ORD100585,2025-01-07,10275,Simran Sharma,South,Kochi,Clothing,Men Clothing,Jacket,1,3008.44,0.0,Net Banking,265.68,339.82,3008.44,1,2025
+ORD100586,2025-09-11,10417,Rohan Verma,South,Bengaluru,Sports,Team Sports,Football,2,1344.82,0.0,COD,255.36,572.14,2689.64,9,2025
+ORD100587,2025-04-17,10134,Arjun Sharma,North,Jaipur,Electronics,Laptop,Laptop,1,47952.03,10.0,Card,199.9,12119.69,43156.827,4,2025
+ORD100588,2025-11-07,10090,Aarav Gupta,North,Lucknow,Clothing,Men Clothing,T-Shirt,1,967.75,5.0,Card,392.86,-114.94,919.3625,11,2025
+ORD100589,2025-01-28,10068,Vivaan Malhotra,North,Lucknow,Home & Kitchen,Home Decor,Table Lamp,1,1544.52,5.0,UPI,160.05,144.31,1467.2939999999999,1,2025
+ORD100590,2025-02-28,10186,Neha Gupta,East,Bhubaneswar,Electronics,Audio,Bluetooth Speaker,1,7359.83,0.0,UPI,147.43,2405.5,7359.83,2,2025
+ORD100591,2025-06-25,10417,Rohan Verma,East,Ranchi,Clothing,Men Clothing,Jeans,2,2114.85,5.0,Card,78.83,887.68,4018.2149999999997,6,2025
+ORD100592,2025-09-04,10541,Neha Malhotra,South,Hyderabad,Home & Kitchen,Home Furnishing,Bedsheet,2,1368.94,0.0,UPI,231.37,547.58,2737.88,9,2025
+ORD100593,2025-02-24,10333,Priya Verma,West,Pune,Sports,Fitness,Yoga Mat,3,1407.63,5.0,UPI,159.56,1343.99,4011.7455,2,2025
+ORD100594,2025-03-15,10472,Aarav Patel,East,Kolkata,Clothing,Men Clothing,Jeans,2,1016.02,0.0,UPI,334.7,394.65,2032.04,3,2025
+ORD100595,2025-03-10,10248,Vikram Singh,West,Mumbai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,4,6476.93,20.0,COD,321.22,6637.23,20726.176000000003,3,2025
+ORD100596,2025-05-05,10113,Ananya Malhotra,South,Kochi,Electronics,Smartphone,Mobile Phone,2,32657.71,15.0,UPI,84.51,12974.86,55518.106999999996,5,2025
+ORD100597,2025-10-16,10161,Vikram Shah,West,Surat,Electronics,Laptop,Laptop,1,55096.61,10.0,Net Banking,353.25,12194.21,49586.949,10,2025
+ORD100598,2025-04-25,10643,Karan Malhotra,South,Chennai,Electronics,Laptop,Laptop,3,74600.5,20.0,Net Banking,361.54,33999.58,179041.2,4,2025
+ORD100599,2025-10-30,10601,Vikram Mehta,South,Bengaluru,Home & Kitchen,Home Decor,Table Lamp,1,1521.09,10.0,UPI,112.21,113.74,1368.981,10,2025
+ORD100600,2025-08-26,10275,Simran Sharma,West,Mumbai,Electronics,Laptop,Laptop,1,78678.29,25.0,Card,130.14,7843.57,59008.7175,8,2025
+ORD100601,2025-08-16,10440,Isha Shah,East,Patna,Sports,Cricket,Cricket Bat,3,4278.03,5.0,Card,257.88,3636.47,12192.3855,8,2025
+ORD100602,2025-03-12,10037,Priya Patel,East,Ranchi,Home & Kitchen,Home Furnishing,Bedsheet,3,1550.58,20.0,Net Banking,53.17,566.94,3721.392,3,2025
+ORD100603,2025-03-21,10010,Vivaan Patel,North,Jaipur,Sports,Fitness,Yoga Mat,1,719.18,10.0,COD,414.99,-287.76,647.262,3,2025
+ORD100604,2025-10-10,10457,Priya Gupta,East,Kolkata,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,5538.08,5.0,COD,249.18,3546.38,10522.351999999999,10,2025
+ORD100605,2025-05-16,10339,Vikram Mehta,North,Jaipur,Electronics,Laptop,Laptop,1,89884.03,5.0,Card,104.21,19462.06,85389.82849999999,5,2025
+ORD100606,2025-11-30,10647,Aditya Patel,West,Pune,Beauty,Skincare,Face Wash,1,307.3,20.0,Card,133.02,-68.26,245.84000000000003,11,2025
+ORD100607,2025-09-26,10345,Karan Verma,South,Bengaluru,Sports,Team Sports,Football,3,1235.62,0.0,Card,245.64,535.92,3706.8599999999997,9,2025
+ORD100608,2025-12-13,10039,Pooja Patel,West,Mumbai,Clothing,Footwear,Sneakers,2,4333.53,5.0,Net Banking,310.29,2724.65,8233.706999999999,12,2025
+ORD100609,2025-05-18,10566,Rahul Patel,South,Bengaluru,Electronics,Accessories,Wireless Earbuds,2,2464.22,5.0,UPI,99.18,841.08,4682.017999999999,5,2025
+ORD100610,2025-06-27,10258,Sanya Joshi,East,Ranchi,Clothing,Men Clothing,Jacket,1,1756.36,15.0,COD,346.39,-57.13,1492.906,6,2025
+ORD100611,2025-03-22,10069,Aditi Joshi,East,Kolkata,Electronics,Audio,Bluetooth Speaker,1,5961.57,0.0,COD,381.03,1240.86,5961.57,3,2025
+ORD100612,2025-06-03,10210,Neha Malhotra,West,Surat,Home & Kitchen,Home Furnishing,Bedsheet,4,1593.19,5.0,UPI,420.39,1608.73,6054.122,6,2025
+ORD100613,2025-12-25,10542,Nikhil Verma,East,Patna,Clothing,Footwear,Sneakers,1,2511.47,10.0,COD,269.2,155.81,2260.323,12,2025
+ORD100614,2025-12-31,10627,Vikram Mehta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,4047.91,5.0,Net Banking,345.33,1288.04,7691.0289999999995,12,2025
+ORD100615,2025-07-30,10566,Rahul Patel,South,Kochi,Beauty,Fragrance,Perfume,1,1094.35,5.0,Card,147.38,90.4,1039.6325,7,2025
+ORD100616,2025-07-08,10365,Nikhil Gupta,North,Jaipur,Electronics,Laptop,Laptop,5,69932.63,20.0,UPI,344.26,40274.52,279730.52,7,2025
+ORD100617,2025-04-17,10183,Pooja Gupta,North,Lucknow,Clothing,Men Clothing,T-Shirt,3,597.61,20.0,Card,173.46,45.41,1434.2640000000001,4,2025
+ORD100618,2025-09-27,10072,Ananya Sharma,East,Bhubaneswar,Electronics,Wearables,Smart Watch,1,8904.88,0.0,COD,445.69,2064.41,8904.88,9,2025
+ORD100619,2025-09-06,10420,Vikram Shah,South,Kochi,Home & Kitchen,Kitchen Appliances,Air Fryer,2,8799.81,20.0,Card,267.31,2631.45,14079.696,9,2025
+ORD100620,2025-01-15,10592,Vivaan Joshi,West,Pune,Sports,Footwear,Running Shoes,1,4224.12,20.0,COD,442.68,377.69,3379.2960000000003,1,2025
+ORD100621,2025-11-17,10022,Isha Malhotra,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,1,7527.21,0.0,COD,294.83,1098.49,7527.21,11,2025
+ORD100622,2025-06-21,10281,Nikhil Mehta,South,Chennai,Clothing,Men Clothing,Jacket,1,4806.63,5.0,UPI,418.17,1288.07,4566.2985,6,2025
+ORD100623,2025-08-22,10260,Neha Malhotra,East,Patna,Electronics,Smartphone,Mobile Phone,2,37632.54,0.0,Net Banking,99.1,23930.71,75265.08,8,2025
+ORD100624,2025-08-22,10425,Arjun Gupta,South,Kochi,Beauty,Haircare,Hair Dryer,1,1288.25,0.0,COD,388.92,14.55,1288.25,8,2025
+ORD100625,2025-08-13,10402,Sneha Gupta,North,Delhi,Clothing,Women Clothing,Kurta,2,1352.52,10.0,Card,304.38,576.2,2434.536,8,2025
+ORD100626,2025-09-02,10566,Rahul Patel,East,Bhubaneswar,Clothing,Men Clothing,Jeans,3,2859.17,0.0,Card,194.8,2160.96,8577.51,9,2025
+ORD100627,2025-01-01,10175,Vikram Singh,North,Jaipur,Electronics,Audio,Bluetooth Speaker,1,7416.27,15.0,Card,202.68,1805.04,6303.8295,1,2025
+ORD100628,2025-11-03,10256,Simran Patel,West,Ahmedabad,Clothing,Footwear,Sneakers,3,1939.96,20.0,UPI,301.22,1165.29,4655.904,11,2025
+ORD100629,2025-07-02,10234,Karan Shah,West,Ahmedabad,Clothing,Men Clothing,Jeans,1,1272.74,0.0,UPI,113.21,367.39,1272.74,7,2025
+ORD100630,2025-05-26,10202,Meera Singh,East,Bhubaneswar,Clothing,Men Clothing,Jacket,5,2542.14,10.0,COD,344.65,3024.53,11439.63,5,2025
+ORD100631,2025-01-04,10368,Rohan Sharma,East,Patna,Home & Kitchen,Kitchen Appliances,Air Fryer,1,6203.93,15.0,UPI,245.29,985.03,5273.3405,1,2025
+ORD100632,2025-04-11,10146,Vikram Sharma,East,Patna,Electronics,Accessories,Wireless Earbuds,1,1771.88,10.0,COD,215.44,187.12,1594.6920000000002,4,2025
+ORD100633,2025-11-04,10533,Aarav Gupta,West,Mumbai,Sports,Footwear,Running Shoes,1,3163.13,15.0,COD,231.03,759.44,2688.6605,11,2025
+ORD100634,2025-08-23,10303,Priya Malhotra,South,Kochi,Beauty,Skincare,Face Cream,2,1178.93,5.0,Card,285.79,117.55,2239.967,8,2025
+ORD100635,2025-11-23,10481,Rahul Singh,South,Bengaluru,Electronics,Wearables,Smart Watch,2,4195.28,0.0,Net Banking,139.48,1187.32,8390.56,11,2025
+ORD100636,2025-12-22,10142,Priya Verma,West,Ahmedabad,Electronics,Wearables,Smart Watch,3,8168.87,5.0,UPI,81.19,5680.07,23281.2795,12,2025
+ORD100637,2025-08-24,10105,Simran Mehta,East,Bhubaneswar,Sports,Cricket,Cricket Bat,5,6952.98,15.0,Card,175.21,9736.99,29550.164999999994,8,2025
+ORD100638,2025-07-27,10255,Sneha Joshi,North,Jaipur,Electronics,Accessories,Wireless Earbuds,2,4359.98,0.0,UPI,399.13,2200.44,8719.96,7,2025
+ORD100639,2025-02-24,10133,Arjun Sharma,North,Lucknow,Sports,Footwear,Running Shoes,1,1937.76,5.0,COD,442.71,-48.09,1840.8719999999998,2,2025
+ORD100640,2025-11-25,10561,Vivaan Sharma,North,Jaipur,Electronics,Audio,Bluetooth Speaker,3,6336.57,10.0,UPI,118.62,3320.99,17108.739,11,2025
+ORD100641,2025-12-15,10191,Aarav Malhotra,North,Lucknow,Clothing,Footwear,Sneakers,2,5127.2,15.0,Card,125.94,2565.26,8716.24,12,2025
+ORD100642,2025-07-15,10336,Aditya Verma,South,Bengaluru,Sports,Team Sports,Football,1,1416.9,10.0,UPI,175.04,-19.05,1275.21,7,2025
+ORD100643,2025-03-29,10514,Vivaan Mehta,North,Jaipur,Clothing,Men Clothing,Jacket,2,1697.69,10.0,COD,197.51,548.87,3055.842,3,2025
+ORD100644,2025-01-21,10492,Karan Joshi,South,Kochi,Clothing,Men Clothing,Jeans,1,1499.71,5.0,Card,220.86,44.51,1424.7245,1,2025
+ORD100645,2025-08-31,10466,Rohan Gupta,North,Lucknow,Electronics,Accessories,Wireless Earbuds,1,1615.26,15.0,UPI,143.98,72.5,1372.971,8,2025
+ORD100646,2025-09-07,10192,Aarav Verma,South,Kochi,Electronics,Smartphone,Mobile Phone,1,37036.71,5.0,UPI,327.16,12757.9,35184.8745,9,2025
+ORD100647,2025-02-26,10025,Sneha Shah,West,Ahmedabad,Clothing,Women Clothing,Kurta,5,1947.7,15.0,Card,171.25,2469.63,8277.725,2,2025
+ORD100648,2025-01-04,10180,Sneha Patel,East,Ranchi,Beauty,Skincare,Face Cream,4,503.71,25.0,UPI,232.07,211.18,1511.1299999999999,1,2025
+ORD100649,2025-05-05,10578,Aditi Joshi,South,Chennai,Electronics,Accessories,Wireless Earbuds,1,2273.5,10.0,COD,253.81,28.42,2046.15,5,2025
+ORD100650,2025-10-19,10626,Nikhil Shah,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,4,30094.48,10.0,Card,387.16,34311.73,108340.128,10,2025
+ORD100651,2025-11-27,10262,Rahul Gupta,North,Delhi,Clothing,Footwear,Sneakers,1,5636.47,5.0,COD,77.65,1612.45,5354.6465,11,2025
+ORD100652,2025-04-25,10455,Karan Shah,West,Surat,Clothing,Women Clothing,Kurta,2,1055.45,10.0,Card,82.69,250.75,1899.8100000000002,4,2025
+ORD100653,2025-06-16,10066,Aditi Mehta,North,Chandigarh,Clothing,Women Clothing,Kurta,1,2188.25,10.0,COD,445.52,-44.9,1969.425,6,2025
+ORD100654,2025-08-06,10635,Sanya Mehta,West,Surat,Electronics,Audio,Bluetooth Speaker,3,2000.4,10.0,Card,265.68,1119.28,5401.080000000001,8,2025
+ORD100655,2025-09-22,10253,Pooja Patel,West,Pune,Electronics,Wearables,Smart Watch,2,6339.41,15.0,Card,199.17,3794.64,10776.997,9,2025
+ORD100656,2025-07-06,10440,Isha Shah,East,Kolkata,Electronics,Accessories,Wireless Earbuds,1,2158.56,10.0,COD,73.32,188.58,1942.704,7,2025
+ORD100657,2025-06-20,10582,Rahul Kumar,West,Surat,Clothing,Men Clothing,Jeans,2,2144.11,5.0,Card,333.23,221.57,4073.809,6,2025
+ORD100658,2025-12-21,10318,Vikram Sharma,North,Chandigarh,Electronics,Accessories,Wireless Earbuds,5,3553.52,10.0,UPI,130.93,3204.26,15990.839999999998,12,2025
+ORD100659,2025-12-07,10491,Aditi Shah,West,Mumbai,Electronics,Accessories,Wireless Earbuds,1,4499.53,5.0,UPI,124.0,1121.97,4274.5535,12,2025
+ORD100660,2025-01-10,10122,Simran Shah,West,Surat,Electronics,Audio,Bluetooth Speaker,1,2638.13,10.0,UPI,126.91,558.81,2374.317,1,2025
+ORD100661,2025-02-04,10480,Pooja Shah,West,Mumbai,Electronics,Accessories,Wireless Earbuds,4,1621.5,5.0,COD,212.8,611.76,6161.7,2,2025
+ORD100662,2025-06-14,10080,Pooja Kumar,East,Patna,Electronics,Wearables,Smart Watch,4,9450.24,5.0,UPI,319.23,4189.38,35910.912,6,2025
+ORD100663,2025-02-04,10365,Nikhil Gupta,West,Mumbai,Beauty,Haircare,Shampoo,1,451.43,10.0,Net Banking,349.81,-240.15,406.28700000000003,2,2025
+ORD100664,2025-09-13,10605,Rahul Shah,North,Lucknow,Clothing,Men Clothing,T-Shirt,1,1002.82,10.0,COD,294.23,12.91,902.538,9,2025
+ORD100665,2025-02-23,10318,Vikram Sharma,West,Pune,Home & Kitchen,Kitchen Appliances,Air Fryer,2,5839.44,0.0,UPI,194.12,1638.78,11678.88,2,2025
+ORD100666,2025-06-03,10420,Vikram Shah,West,Pune,Electronics,Wearables,Smart Watch,1,4216.3,0.0,UPI,118.27,938.34,4216.3,6,2025
+ORD100667,2025-03-15,10211,Nikhil Malhotra,East,Ranchi,Electronics,Wearables,Smart Watch,2,5968.39,10.0,Card,173.84,3606.98,10743.102,3,2025
+ORD100668,2025-07-30,10330,Meera Sharma,North,Chandigarh,Sports,Footwear,Running Shoes,1,2392.66,10.0,UPI,124.82,679.39,2153.394,7,2025
+ORD100669,2025-07-23,10637,Ananya Patel,West,Pune,Home & Kitchen,Home Furnishing,Bedsheet,4,1877.33,20.0,Card,213.52,843.92,6007.456,7,2025
+ORD100670,2025-06-27,10566,Rahul Patel,North,Delhi,Beauty,Skincare,Face Cream,3,1245.93,5.0,COD,120.24,1191.87,3550.9004999999997,6,2025
+ORD100671,2025-06-19,10343,Ananya Kumar,North,Chandigarh,Sports,Team Sports,Football,5,1331.94,15.0,Net Banking,420.54,1169.18,5660.745000000001,6,2025
+ORD100672,2025-10-07,10487,Priya Kumar,North,Chandigarh,Beauty,Fragrance,Perfume,1,2211.93,0.0,COD,82.9,238.26,2211.93,10,2025
+ORD100673,2025-09-02,10398,Pooja Singh,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,2,6672.01,5.0,Net Banking,234.28,3058.13,12676.819,9,2025
+ORD100674,2025-09-04,10464,Nikhil Mehta,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,1,7254.82,0.0,COD,396.23,2175.64,7254.82,9,2025
+ORD100675,2025-09-13,10586,Vivaan Sharma,South,Kochi,Electronics,Smartphone,Mobile Phone,3,40501.2,5.0,COD,227.6,27794.97,115428.41999999998,9,2025
+ORD100676,2025-05-14,10592,Vivaan Joshi,West,Surat,Electronics,Wearables,Smart Watch,2,9187.18,10.0,Net Banking,392.45,3961.78,16536.924000000003,5,2025
+ORD100677,2025-04-09,10466,Rohan Gupta,North,Delhi,Clothing,Men Clothing,T-Shirt,2,723.14,5.0,Card,97.45,302.95,1373.966,4,2025
+ORD100678,2025-01-22,10092,Sneha Malhotra,South,Kochi,Home & Kitchen,Kitchen,Cookware Set,5,3199.62,10.0,UPI,284.53,4851.28,14398.289999999999,1,2025
+ORD100679,2025-10-31,10221,Kavya Patel,West,Surat,Electronics,Accessories,Wireless Earbuds,4,3096.34,20.0,Card,256.12,2338.21,9908.288,10,2025
+ORD100680,2025-02-07,10492,Karan Joshi,North,Jaipur,Clothing,Men Clothing,Jeans,2,1688.15,25.0,COD,349.74,-16.41,2532.2250000000004,2,2025
+ORD100681,2025-08-12,10131,Vivaan Kumar,West,Surat,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,3641.39,0.0,UPI,84.74,2097.11,7282.78,8,2025
+ORD100682,2025-09-12,10205,Ananya Singh,North,Delhi,Electronics,Smartphone,Mobile Phone,2,19248.97,5.0,Card,206.37,11867.22,36573.043,9,2025
+ORD100683,2025-04-15,10557,Ananya Malhotra,South,Hyderabad,Home & Kitchen,Home Furnishing,Bedsheet,2,1094.12,10.0,UPI,443.68,146.1,1969.416,4,2025
+ORD100684,2025-08-31,10383,Vivaan Malhotra,South,Chennai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,6752.43,0.0,Card,190.43,1581.79,13504.86,8,2025
+ORD100685,2025-09-27,10503,Aarav Patel,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,5,3636.98,5.0,Card,153.87,6342.31,17275.655,9,2025
+ORD100686,2025-04-03,10232,Isha Mehta,North,Chandigarh,Electronics,Wearables,Smart Watch,2,7464.44,15.0,UPI,194.62,3010.75,12689.547999999999,4,2025
+ORD100687,2025-06-21,10347,Vivaan Singh,North,Lucknow,Sports,Fitness,Dumbbells,1,4056.15,0.0,Net Banking,66.3,632.16,4056.15,6,2025
+ORD100688,2025-09-01,10257,Arjun Patel,West,Mumbai,Sports,Team Sports,Football,1,1054.51,0.0,UPI,395.03,-146.24,1054.51,9,2025
+ORD100689,2025-07-06,10635,Sanya Mehta,East,Ranchi,Sports,Fitness,Dumbbells,3,1465.39,5.0,Net Banking,417.63,209.41,4176.3615,7,2025
+ORD100690,2025-02-17,10236,Arjun Malhotra,South,Hyderabad,Home & Kitchen,Home Decor,Table Lamp,1,1570.11,5.0,UPI,98.37,278.75,1491.6045,2,2025
+ORD100691,2025-01-08,10490,Meera Malhotra,West,Mumbai,Clothing,Men Clothing,Jeans,2,2562.71,0.0,Card,412.01,1319.26,5125.42,1,2025
+ORD100692,2025-04-02,10431,Aditi Gupta,East,Kolkata,Home & Kitchen,Kitchen Appliances,Air Fryer,1,9269.16,5.0,COD,276.06,1526.56,8805.702,4,2025
+ORD100693,2025-02-21,10550,Aarav Shah,West,Ahmedabad,Home & Kitchen,Kitchen,Cookware Set,3,5351.98,0.0,Net Banking,433.04,4175.94,16055.939999999999,2,2025
+ORD100694,2025-01-15,10464,Nikhil Mehta,North,Jaipur,Clothing,Men Clothing,Jacket,1,2508.71,5.0,Card,206.14,101.29,2383.2745,1,2025
+ORD100695,2025-07-16,10260,Neha Malhotra,West,Surat,Clothing,Footwear,Sneakers,1,2648.75,20.0,Card,103.38,592.4,2119.0,7,2025
+ORD100696,2025-07-31,10620,Rahul Gupta,South,Chennai,Electronics,Accessories,Wireless Earbuds,1,1802.82,5.0,UPI,37.83,254.68,1712.6789999999999,7,2025
+ORD100697,2025-06-24,10015,Sneha Mehta,North,Chandigarh,Beauty,Haircare,Hair Dryer,1,1362.58,10.0,Card,305.29,157.95,1226.322,6,2025
+ORD100698,2025-10-09,10387,Meera Verma,West,Mumbai,Clothing,Men Clothing,T-Shirt,2,1228.09,15.0,COD,234.84,216.19,2087.7529999999997,10,2025
+ORD100699,2025-02-16,10617,Neha Joshi,North,Lucknow,Home & Kitchen,Kitchen,Cookware Set,1,3578.87,10.0,Net Banking,195.68,206.64,3220.983,2,2025
+ORD100700,2025-03-01,10253,Pooja Patel,West,Mumbai,Electronics,Audio,Bluetooth Speaker,1,4915.8,15.0,UPI,283.89,1002.96,4178.43,3,2025
+ORD100701,2025-06-15,10278,Arjun Kumar,West,Ahmedabad,Clothing,Men Clothing,Jeans,1,1578.39,15.0,COD,221.95,76.3,1341.6315,6,2025
+ORD100702,2025-01-13,10132,Aditya Joshi,East,Patna,Clothing,Footwear,Sneakers,2,3884.88,5.0,Net Banking,277.21,1745.17,7381.272,1,2025
+ORD100703,2025-03-19,10044,Kavya Gupta,East,Ranchi,Clothing,Men Clothing,Jacket,1,3042.68,5.0,COD,195.82,186.12,2890.546,3,2025
+ORD100704,2025-09-21,10243,Aditi Mehta,East,Patna,Clothing,Women Clothing,Kurta,5,723.54,0.0,Card,40.7,1274.2,3617.7,9,2025
+ORD100705,2025-05-15,10579,Ananya Joshi,North,Jaipur,Clothing,Men Clothing,Jeans,1,1999.41,10.0,UPI,197.51,63.15,1799.469,5,2025
+ORD100706,2025-01-28,10306,Vikram Joshi,West,Ahmedabad,Electronics,Smartphone,Mobile Phone,1,35510.23,5.0,Card,249.98,12354.5,33734.7185,1,2025
+ORD100707,2025-03-31,10342,Kavya Gupta,West,Pune,Electronics,Laptop,Laptop,5,71526.19,5.0,Card,419.72,55510.4,339749.40249999997,3,2025
+ORD100708,2025-04-01,10165,Neha Mehta,South,Bengaluru,Home & Kitchen,Kitchen,Cookware Set,3,4631.05,0.0,Card,242.55,2446.09,13893.150000000001,4,2025
+ORD100709,2025-06-14,10044,Kavya Gupta,West,Ahmedabad,Sports,Fitness,Yoga Mat,4,1570.76,10.0,COD,335.2,427.76,5654.736,6,2025
+ORD100710,2025-01-13,10188,Nikhil Malhotra,West,Ahmedabad,Clothing,Men Clothing,Jacket,1,4322.41,10.0,Net Banking,148.31,843.78,3890.169,1,2025
+ORD100711,2025-10-18,10623,Rahul Sharma,South,Hyderabad,Electronics,Audio,Bluetooth Speaker,1,4477.43,0.0,Card,241.99,1285.34,4477.43,10,2025
+ORD100712,2025-06-21,10514,Vivaan Mehta,North,Jaipur,Sports,Team Sports,Football,1,826.86,0.0,Net Banking,388.94,-124.29,826.86,6,2025
+ORD100713,2025-12-14,10158,Karan Kumar,South,Bengaluru,Clothing,Footwear,Sneakers,1,2845.5,10.0,UPI,41.05,758.31,2560.9500000000003,12,2025
+ORD100714,2025-12-08,10566,Rahul Patel,East,Patna,Electronics,Accessories,Wireless Earbuds,1,4801.38,0.0,Net Banking,126.87,732.83,4801.38,12,2025
+ORD100715,2025-02-22,10538,Arjun Sharma,South,Chennai,Beauty,Skincare,Face Cream,2,979.73,5.0,Card,337.54,327.34,1861.4869999999999,2,2025
+ORD100716,2025-09-13,10224,Priya Malhotra,East,Kolkata,Sports,Cricket,Cricket Bat,2,3540.58,0.0,Card,83.15,1730.18,7081.16,9,2025
+ORD100717,2025-04-20,10374,Pooja Joshi,West,Surat,Clothing,Men Clothing,Jeans,3,1564.0,0.0,Card,95.24,874.5,4692.0,4,2025
+ORD100718,2025-02-02,10289,Rohan Malhotra,East,Unknown,Beauty,Skincare,Face Cream,2,1003.42,5.0,Card,173.75,509.14,1906.4979999999998,2,2025
+ORD100719,2025-10-15,10203,Rahul Malhotra,West,Surat,Sports,Cricket,Cricket Bat,1,3470.43,5.0,UPI,202.49,432.8,3296.9084999999995,10,2025
+ORD100720,2025-04-14,10373,Aditi Joshi,East,Patna,Home & Kitchen,Home Decor,Table Lamp,4,788.49,10.0,COD,131.61,300.32,2838.5640000000003,4,2025
+ORD100721,2025-05-01,10254,Rahul Gupta,North,Chandigarh,Electronics,Laptop,Laptop,2,47758.45,10.0,Card,90.55,12007.26,85965.20999999999,5,2025
+ORD100722,2025-08-08,10447,Aditya Sharma,South,Kochi,Electronics,Accessories,Wireless Earbuds,1,2926.07,0.0,COD,359.25,125.64,2926.07,8,2025
+ORD100723,2025-06-06,10028,Arjun Verma,West,Mumbai,Clothing,Women Clothing,Kurta,1,2350.78,0.0,Card,31.83,296.32,2350.78,6,2025
+ORD100724,2025-04-23,10334,Priya Mehta,North,Jaipur,Beauty,Haircare,Hair Dryer,4,3345.9,20.0,Card,179.61,3868.76,10706.880000000001,4,2025
+ORD100725,2025-04-05,10478,Aditi Shah,North,Delhi,Clothing,Men Clothing,Jacket,3,2543.68,10.0,Card,51.79,875.51,6867.936,4,2025
+ORD100726,2025-09-08,10638,Ananya Joshi,East,Ranchi,Clothing,Footwear,Sneakers,1,3326.94,10.0,COD,318.7,732.25,2994.246,9,2025
+ORD100727,2025-04-14,10640,Karan Mehta,North,Chandigarh,Home & Kitchen,Kitchen Appliances,Air Fryer,3,4436.68,25.0,Card,338.69,3167.92,9982.53,4,2025
+ORD100728,2025-09-07,10166,Aditya Verma,West,Ahmedabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,3238.83,0.0,Net Banking,195.36,1883.13,6477.66,9,2025
+ORD100729,2025-06-29,10254,Rahul Gupta,North,Jaipur,Electronics,Laptop,Laptop,1,85209.06,5.0,UPI,224.19,22326.7,80948.60699999999,6,2025
+ORD100730,2025-06-28,10439,Isha Sharma,West,Pune,Beauty,Haircare,Hair Dryer,3,3327.02,0.0,Card,145.31,1508.91,9981.06,6,2025
+ORD100731,2025-08-14,10580,Kavya Singh,North,Jaipur,Beauty,Haircare,Hair Dryer,2,3128.71,10.0,COD,141.13,1238.23,5631.678,8,2025
+ORD100732,2025-04-23,10125,Priya Singh,South,Chennai,Sports,Fitness,Yoga Mat,2,1457.16,10.0,UPI,78.91,511.02,2622.8880000000004,4,2025
+ORD100733,2025-04-10,10489,Pooja Malhotra,South,Chennai,Electronics,Smartphone,Mobile Phone,2,36559.06,5.0,UPI,349.08,12074.35,69462.21399999999,4,2025
+ORD100734,2025-06-21,10590,Neha Kumar,South,Hyderabad,Electronics,Wearables,Smart Watch,2,7369.53,5.0,Card,315.52,2971.2,14002.106999999998,6,2025
+ORD100735,2025-09-30,10621,Rohan Verma,East,Patna,Clothing,Footwear,Sneakers,1,4163.81,0.0,UPI,135.34,700.24,4163.81,9,2025
+ORD100736,2025-01-20,10505,Aarav Kumar,West,Pune,Clothing,Men Clothing,T-Shirt,1,530.19,15.0,Net Banking,222.48,-128.5,450.66150000000005,1,2025
+ORD100737,2025-12-19,10518,Rohan Patel,West,Pune,Electronics,Accessories,Wireless Earbuds,2,2311.65,10.0,COD,77.4,926.58,4160.97,12,2025
+ORD100738,2025-09-20,10062,Ananya Sharma,North,Jaipur,Clothing,Men Clothing,Jacket,1,1645.25,5.0,UPI,265.35,319.75,1562.9875,9,2025
+ORD100739,2025-01-10,10396,Aditya Joshi,East,Bhubaneswar,Electronics,Smartphone,Mobile Phone,5,21733.16,5.0,Card,205.16,21206.54,103232.51,1,2025
+ORD100740,2025-02-03,10026,Pooja Gupta,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,4,3092.44,0.0,COD,448.81,3310.63,12369.76,2,2025
+ORD100741,2025-07-11,10053,Rahul Gupta,South,Kochi,Electronics,Accessories,Wireless Earbuds,3,4000.59,0.0,COD,145.97,1511.53,12001.77,7,2025
+ORD100742,2025-06-14,10413,Isha Mehta,South,Hyderabad,Sports,Team Sports,Football,1,1358.15,15.0,COD,249.77,175.37,1154.4275,6,2025
+ORD100743,2025-08-15,10370,Sneha Malhotra,West,Mumbai,Clothing,Footwear,Sneakers,3,3183.28,0.0,Card,441.56,2626.53,9549.84,8,2025
+ORD100744,2025-06-01,10394,Vikram Singh,East,Ranchi,Electronics,Audio,Bluetooth Speaker,3,2542.91,5.0,Net Banking,372.01,1402.75,7247.293499999999,6,2025
+ORD100745,2025-10-25,10167,Aditi Malhotra,West,Pune,Beauty,Fragrance,Perfume,1,1922.95,20.0,COD,211.78,175.58,1538.3600000000001,10,2025
+ORD100746,2025-11-17,10624,Vikram Malhotra,South,Chennai,Clothing,Women Clothing,Kurta,2,1712.52,5.0,Card,261.26,763.19,3253.788,11,2025
+ORD100747,2025-06-15,10160,Vivaan Malhotra,South,Chennai,Home & Kitchen,Home Decor,Table Lamp,5,1448.41,10.0,COD,429.25,1632.99,6517.845,6,2025
+ORD100748,2025-04-07,10174,Nikhil Joshi,West,Ahmedabad,Home & Kitchen,Kitchen Appliances,Air Fryer,3,6588.01,15.0,UPI,424.28,3627.38,16799.425499999998,4,2025
+ORD100749,2025-12-27,10607,Arjun Singh,East,Bhubaneswar,Clothing,Women Clothing,Kurta,1,2201.44,15.0,UPI,296.42,16.52,1871.224,12,2025
+ORD100750,2025-09-18,10559,Nikhil Gupta,East,Ranchi,Electronics,Laptop,Laptop,1,55803.13,10.0,UPI,421.99,14307.7,50222.816999999995,9,2025
+ORD100751,2025-04-17,10379,Aditya Singh,North,Jaipur,Beauty,Skincare,Face Wash,1,279.24,5.0,Card,42.72,4.93,265.278,4,2025
+ORD100752,2025-05-16,10307,Aarav Patel,East,Unknown,Electronics,Laptop,Laptop,1,47150.99,0.0,UPI,106.1,9573.74,47150.99,5,2025
+ORD100753,2025-02-16,10089,Rahul Sharma,South,Kochi,Home & Kitchen,Home Decor,Table Lamp,2,1698.27,15.0,Card,116.53,358.69,2887.0589999999997,2,2025
+ORD100754,2025-12-17,10586,Vivaan Sharma,East,Ranchi,Home & Kitchen,Kitchen Appliances,Mixer Grinder,3,3067.25,15.0,Card,199.83,2442.96,7821.4875,12,2025
+ORD100755,2025-01-10,10325,Rahul Patel,West,Pune,Beauty,Skincare,Face Cream,4,377.18,5.0,UPI,168.35,176.23,1433.2839999999999,1,2025
+ORD100756,2025-12-21,10490,Meera Malhotra,West,Surat,Beauty,Skincare,Face Cream,1,649.66,15.0,Card,240.61,-105.55,552.211,12,2025
+ORD100757,2025-01-03,10259,Ananya Patel,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Air Fryer,3,4952.93,0.0,COD,94.71,3136.51,14858.79,1,2025
+ORD100758,2025-12-08,10013,Vikram Malhotra,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Air Fryer,2,8075.58,10.0,Net Banking,235.46,3586.52,14536.044,12,2025
+ORD100759,2025-10-06,10636,Vikram Mehta,North,Delhi,Beauty,Skincare,Face Cream,1,664.99,15.0,UPI,131.72,58.23,565.2415,10,2025
+ORD100760,2025-09-16,10015,Sneha Mehta,West,Pune,Electronics,Audio,Bluetooth Speaker,1,2907.71,15.0,COD,267.96,56.06,2471.5535,9,2025
+ORD100761,2025-01-16,10391,Ananya Joshi,South,Chennai,Clothing,Footwear,Sneakers,1,4821.77,5.0,UPI,257.3,1455.11,4580.681500000001,1,2025
+ORD100762,2025-05-01,10318,Vikram Sharma,North,Delhi,Clothing,Footwear,Sneakers,4,5331.88,10.0,Card,226.29,3941.16,19194.768,5,2025
+ORD100763,2025-12-01,10277,Aditi Singh,West,Mumbai,Home & Kitchen,Kitchen Appliances,Air Fryer,2,7594.48,0.0,Card,67.16,5600.45,15188.96,12,2025
+ORD100764,2025-10-09,10096,Vikram Kumar,West,Mumbai,Beauty,Haircare,Hair Dryer,2,3201.67,5.0,UPI,175.99,1008.28,6083.173,10,2025
+ORD100765,2025-11-15,10235,Arjun Joshi,East,Bhubaneswar,Home & Kitchen,Home Decor,Table Lamp,1,1867.36,10.0,UPI,401.56,-32.19,1680.624,11,2025
+ORD100766,2025-11-02,10263,Kavya Verma,South,Hyderabad,Electronics,Accessories,Wireless Earbuds,1,4276.76,10.0,COD,215.3,530.33,3849.0840000000003,11,2025
+ORD100767,2025-03-11,10117,Sanya Patel,South,Bengaluru,Home & Kitchen,Kitchen,Cookware Set,1,3736.07,10.0,Card,384.24,227.55,3362.463,3,2025
+ORD100768,2025-06-30,10057,Pooja Gupta,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4329.81,10.0,UPI,375.33,805.97,3896.8290000000006,6,2025
+ORD100769,2025-10-21,10025,Sneha Shah,West,Mumbai,Beauty,Skincare,Face Cream,2,360.04,0.0,COD,369.79,-142.09,720.08,10,2025
+ORD100770,2025-11-29,10104,Aditya Gupta,East,Ranchi,Beauty,Haircare,Shampoo,3,743.73,10.0,Card,417.5,315.95,2008.0710000000001,11,2025
+ORD100771,2025-01-07,10071,Kavya Malhotra,North,Jaipur,Clothing,Men Clothing,T-Shirt,4,692.57,5.0,Card,428.63,-111.87,2631.766,1,2025
+ORD100772,2025-01-04,10638,Ananya Joshi,North,Jaipur,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,2601.56,10.0,UPI,265.16,1147.93,4682.808,1,2025
+ORD100773,2025-12-09,10309,Rohan Verma,North,Chandigarh,Electronics,Smartphone,Mobile Phone,2,22249.22,10.0,COD,76.37,10271.04,40048.596000000005,12,2025
+ORD100774,2025-11-08,10133,Arjun Sharma,North,Jaipur,Beauty,Haircare,Hair Dryer,2,2457.5,5.0,Net Banking,356.42,1071.41,4669.25,11,2025
+ORD100775,2025-02-26,10444,Meera Patel,West,Pune,Electronics,Audio,Bluetooth Speaker,2,7996.88,5.0,Card,322.5,4800.89,15194.072,2,2025
+ORD100776,2025-12-06,10279,Nikhil Kumar,North,Lucknow,Electronics,Laptop,Laptop,1,72059.26,10.0,UPI,93.38,11184.86,64853.333999999995,12,2025
+ORD100777,2025-09-10,10120,Aditya Gupta,West,Pune,Electronics,Accessories,Wireless Earbuds,1,2644.74,15.0,Card,173.52,281.12,2248.0289999999995,9,2025
+ORD100778,2025-01-09,10132,Aditya Joshi,North,Delhi,Clothing,Men Clothing,Jeans,2,2443.15,5.0,COD,163.07,725.76,4641.985,1,2025
+ORD100779,2025-07-27,10389,Nikhil Joshi,North,Delhi,Electronics,Accessories,Wireless Earbuds,1,1495.79,5.0,Card,311.82,168.97,1421.0004999999999,7,2025
+ORD100780,2025-01-16,10199,Rahul Kumar,North,Lucknow,Sports,Fitness,Yoga Mat,2,1328.96,5.0,COD,101.12,312.18,2525.024,1,2025
+ORD100781,2025-10-22,10619,Aditya Verma,East,Kolkata,Clothing,Men Clothing,Jeans,2,2231.22,0.0,Net Banking,441.77,621.1,4462.44,10,2025
+ORD100782,2025-04-12,10577,Priya Verma,West,Ahmedabad,Electronics,Laptop,Laptop,2,47773.88,20.0,UPI,157.98,12541.87,76438.208,4,2025
+ORD100783,2025-04-26,10465,Nikhil Kumar,North,Lucknow,Clothing,Men Clothing,Jeans,1,2220.79,20.0,Card,61.39,400.93,1776.632,4,2025
+ORD100784,2025-10-17,10569,Sneha Gupta,West,Surat,Electronics,Smartphone,Mobile Phone,1,43202.16,5.0,COD,205.72,10685.92,41042.052,10,2025
+ORD100785,2025-06-13,10221,Kavya Patel,East,Patna,Home & Kitchen,Home Furnishing,Bedsheet,1,1261.14,5.0,UPI,75.09,334.82,1198.083,6,2025
+ORD100786,2025-03-06,10047,Aarav Patel,North,Chandigarh,Beauty,Fragrance,Perfume,4,3146.76,10.0,Card,377.23,3612.62,11328.336000000001,3,2025
+ORD100787,2025-07-31,10591,Rohan Shah,East,Kolkata,Beauty,Haircare,Shampoo,1,921.63,10.0,UPI,172.92,8.39,829.467,7,2025
+ORD100788,2025-02-24,10523,Vikram Singh,West,Surat,Clothing,Men Clothing,Jeans,1,1102.67,5.0,UPI,331.53,-135.78,1047.5365,2,2025
+ORD100789,2025-08-01,10171,Meera Gupta,North,Chandigarh,Sports,Team Sports,Football,1,1047.48,0.0,Card,221.11,-32.0,1047.48,8,2025
+ORD100790,2025-08-03,10237,Rahul Joshi,East,Bhubaneswar,Electronics,Laptop,Laptop,1,67399.05,5.0,UPI,197.37,23814.5,64029.097499999996,8,2025
+ORD100791,2025-12-01,10389,Nikhil Joshi,West,Mumbai,Electronics,Audio,Bluetooth Speaker,3,4859.76,0.0,COD,323.88,4282.73,14579.28,12,2025
+ORD100792,2025-03-03,10357,Vivaan Gupta,West,Ahmedabad,Sports,Cricket,Cricket Bat,1,2158.0,20.0,Card,147.08,297.57,1726.4,3,2025
+ORD100793,2025-11-20,10337,Sneha Sharma,West,Mumbai,Clothing,Women Clothing,Kurta,1,984.83,10.0,UPI,309.22,-38.36,886.3470000000001,11,2025
+ORD100794,2025-10-07,10178,Kavya Patel,North,Jaipur,Sports,Cricket,Cricket Bat,1,5073.96,0.0,Card,98.14,1280.7,5073.96,10,2025
+ORD100795,2025-03-17,10353,Vikram Malhotra,West,Mumbai,Home & Kitchen,Home Decor,Table Lamp,1,1104.8,10.0,Card,426.88,-99.6,994.3199999999999,3,2025
+ORD100796,2025-08-21,10036,Meera Mehta,East,Bhubaneswar,Electronics,Smartphone,Mobile Phone,2,21187.47,0.0,Card,273.14,11502.78,42374.94,8,2025
+ORD100797,2025-10-09,10507,Pooja Patel,East,Bhubaneswar,Home & Kitchen,Home Decor,Table Lamp,2,1464.99,0.0,Card,276.62,473.79,2929.98,10,2025
+ORD100798,2025-01-13,10276,Ananya Joshi,South,Bengaluru,Electronics,Smartphone,Mobile Phone,5,30483.6,5.0,UPI,34.23,44643.57,144797.1,1,2025
+ORD100799,2025-08-01,10334,Priya Mehta,North,Jaipur,Clothing,Men Clothing,Jeans,1,2800.47,10.0,UPI,198.35,623.92,2520.423,8,2025
+ORD100800,2025-03-27,10142,Priya Verma,North,Lucknow,Home & Kitchen,Home Furnishing,Bedsheet,5,2389.11,15.0,Card,89.18,3193.97,10153.7175,3,2025
+ORD100801,2025-12-23,10178,Kavya Patel,East,Ranchi,Electronics,Audio,Bluetooth Speaker,1,6350.15,0.0,Card,363.06,1831.0,6350.15,12,2025
+ORD100802,2025-09-09,10378,Priya Sharma,East,Ranchi,Home & Kitchen,Home Decor,Table Lamp,3,1068.07,0.0,UPI,88.12,506.19,3204.21,9,2025
+ORD100803,2025-03-21,10530,Nikhil Sharma,East,Bhubaneswar,Beauty,Fragrance,Perfume,2,858.74,5.0,Card,33.92,572.1,1631.606,3,2025
+ORD100804,2025-11-30,10182,Rohan Singh,West,Mumbai,Beauty,Haircare,Shampoo,1,332.43,20.0,UPI,74.72,-7.67,265.944,11,2025
+ORD100805,2025-11-14,10458,Rohan Sharma,West,Surat,Sports,Team Sports,Football,5,756.62,10.0,Net Banking,91.7,342.68,3404.79,11,2025
+ORD100806,2025-03-13,10355,Rahul Verma,West,Pune,Clothing,Footwear,Sneakers,3,3222.96,0.0,Card,363.41,2142.17,9668.880000000001,3,2025
+ORD100807,2025-11-10,10209,Vivaan Singh,East,Patna,Electronics,Wearables,Smart Watch,2,2996.33,0.0,Card,301.79,1923.92,5992.66,11,2025
+ORD100808,2025-11-18,10480,Pooja Shah,North,Delhi,Electronics,Audio,Bluetooth Speaker,1,4826.2,10.0,COD,422.3,858.47,4343.58,11,2025
+ORD100809,2025-08-05,10626,Nikhil Shah,North,Delhi,Beauty,Skincare,Face Cream,2,1247.61,10.0,Card,444.28,97.53,2245.698,8,2025
+ORD100810,2025-04-16,10640,Karan Mehta,North,Chandigarh,Electronics,Accessories,Wireless Earbuds,3,4106.57,0.0,Card,145.37,2458.43,12319.71,4,2025
+ORD100811,2025-01-18,10116,Vivaan Sharma,West,Mumbai,Home & Kitchen,Home Furnishing,Bedsheet,2,1356.21,5.0,UPI,134.65,362.96,2576.799,1,2025
+ORD100812,2025-03-27,10400,Vivaan Shah,East,Bhubaneswar,Electronics,Audio,Bluetooth Speaker,1,7977.99,15.0,Card,375.81,1001.08,6781.291499999999,3,2025
+ORD100813,2025-12-08,10071,Kavya Malhotra,West,Mumbai,Beauty,Fragrance,Perfume,2,3154.89,15.0,Net Banking,395.13,968.97,5363.312999999999,12,2025
+ORD100814,2025-09-19,10505,Aarav Kumar,South,Hyderabad,Electronics,Audio,Bluetooth Speaker,3,6096.43,0.0,Card,112.94,2505.95,18289.29,9,2025
+ORD100815,2025-10-15,10083,Simran Mehta,North,Lucknow,Electronics,Smartphone,Mobile Phone,1,25063.87,10.0,Card,357.0,3907.6,22557.483,10,2025
+ORD100816,2025-05-21,10592,Vivaan Joshi,East,Ranchi,Home & Kitchen,Home Decor,Table Lamp,4,2146.99,0.0,UPI,331.16,2744.1,8587.96,5,2025
+ORD100817,2025-08-09,10077,Isha Patel,West,Surat,Home & Kitchen,Kitchen,Cookware Set,2,5289.87,0.0,UPI,186.66,3424.36,10579.74,8,2025
+ORD100818,2025-11-06,10569,Sneha Gupta,East,Kolkata,Clothing,Women Clothing,Kurta,2,1743.68,5.0,UPI,83.6,525.66,3312.992,11,2025
+ORD100819,2025-09-09,10273,Nikhil Shah,East,Bhubaneswar,Sports,Footwear,Running Shoes,1,3622.53,5.0,COD,284.08,474.19,3441.4035,9,2025
+ORD100820,2025-01-01,10623,Rahul Sharma,East,Patna,Home & Kitchen,Kitchen Appliances,Air Fryer,3,9307.48,15.0,UPI,125.53,8874.15,23734.073999999997,1,2025
+ORD100821,2025-03-21,10557,Ananya Malhotra,South,Hyderabad,Beauty,Skincare,Face Wash,3,649.53,20.0,UPI,35.12,289.21,1558.872,3,2025
+ORD100822,2025-10-11,10034,Neha Singh,South,Hyderabad,Clothing,Men Clothing,Jacket,2,3492.03,20.0,Card,178.51,786.63,5587.2480000000005,10,2025
+ORD100823,2025-11-04,10297,Aditya Mehta,South,Hyderabad,Home & Kitchen,Home Decor,Table Lamp,5,2116.0,15.0,COD,30.08,2539.83,8993.0,11,2025
+ORD100824,2025-03-16,10626,Nikhil Shah,West,Pune,Electronics,Audio,Bluetooth Speaker,2,6955.91,20.0,COD,384.04,2484.86,11129.456,3,2025
+ORD100825,2025-12-14,10423,Nikhil Patel,South,Chennai,Sports,Team Sports,Football,2,1739.12,10.0,UPI,231.27,408.57,3130.4159999999997,12,2025
+ORD100826,2025-01-29,10042,Ananya Joshi,South,Hyderabad,Clothing,Men Clothing,T-Shirt,4,1318.53,0.0,COD,212.9,1448.11,5274.12,1,2025
+ORD100827,2025-05-03,10014,Sanya Gupta,West,Surat,Clothing,Footwear,Sneakers,4,3131.71,20.0,UPI,52.67,1767.51,10021.472000000002,5,2025
+ORD100828,2025-10-14,10267,Rohan Mehta,West,Mumbai,Sports,Team Sports,Football,1,509.04,0.0,UPI,139.29,30.71,509.04,10,2025
+ORD100829,2025-12-27,10511,Isha Gupta,North,Lucknow,Home & Kitchen,Kitchen Appliances,Air Fryer,1,7265.97,0.0,UPI,241.95,676.12,7265.97,12,2025
+ORD100830,2025-04-17,10595,Meera Verma,East,Ranchi,Home & Kitchen,Kitchen,Cookware Set,1,5033.97,15.0,Card,447.15,1165.95,4278.8745,4,2025
+ORD100831,2025-07-19,10302,Arjun Malhotra,South,Hyderabad,Beauty,Fragrance,Perfume,1,881.43,10.0,COD,401.65,-244.49,793.2869999999999,7,2025
+ORD100832,2025-04-19,10378,Priya Sharma,East,Ranchi,Clothing,Men Clothing,Jeans,1,2642.4,20.0,Card,335.66,400.87,2113.92,4,2025
+ORD100833,2025-08-02,10272,Rahul Kumar,East,Patna,Electronics,Audio,Bluetooth Speaker,3,6406.03,20.0,COD,445.96,4628.16,15374.472000000002,8,2025
+ORD100834,2025-05-11,10263,Kavya Verma,North,Lucknow,Sports,Footwear,Running Shoes,1,5617.06,0.0,UPI,331.98,682.45,5617.06,5,2025
+ORD100835,2025-07-27,10276,Ananya Joshi,South,Chennai,Home & Kitchen,Kitchen Appliances,Air Fryer,1,4549.21,5.0,COD,377.72,834.38,4321.7495,7,2025
+ORD100836,2025-01-23,10116,Vivaan Sharma,East,Kolkata,Clothing,Men Clothing,Jacket,2,4934.96,5.0,COD,123.49,2802.78,9376.423999999999,1,2025
+ORD100837,2025-12-09,10222,Sneha Gupta,East,Patna,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,5312.59,5.0,Card,343.74,372.22,5046.9605,12,2025
+ORD100838,2025-10-22,10464,Nikhil Mehta,West,Surat,Electronics,Smartphone,Mobile Phone,2,18410.75,15.0,UPI,381.68,11385.02,31298.274999999998,10,2025
+ORD100839,2025-12-22,10375,Pooja Shah,East,Ranchi,Sports,Fitness,Yoga Mat,1,1132.38,10.0,COD,315.03,54.97,1019.1420000000002,12,2025
+ORD100840,2025-12-15,10172,Pooja Verma,South,Bengaluru,Clothing,Footwear,Sneakers,1,5555.25,20.0,COD,384.93,748.94,4444.2,12,2025
+ORD100841,2025-01-28,10072,Ananya Sharma,North,Delhi,Electronics,Wearables,Smart Watch,1,4676.61,0.0,Net Banking,380.24,723.82,4676.61,1,2025
+ORD100842,2025-02-21,10177,Pooja Kumar,East,Ranchi,Clothing,Women Clothing,Kurta,1,1501.86,15.0,Card,38.9,370.69,1276.581,2,2025
+ORD100843,2025-06-27,10527,Ananya Sharma,East,Bhubaneswar,Electronics,Audio,Bluetooth Speaker,2,4709.8,5.0,Card,202.59,1944.8,8948.62,6,2025
+ORD100844,2025-02-05,10047,Aarav Patel,South,Chennai,Home & Kitchen,Kitchen,Cookware Set,1,3576.0,0.0,UPI,248.41,478.25,3576.0,2,2025
+ORD100845,2025-03-26,10501,Isha Kumar,North,Delhi,Sports,Fitness,Dumbbells,2,1979.36,10.0,Card,118.96,446.5,3562.848,3,2025
+ORD100846,2025-08-27,10231,Vivaan Gupta,South,Kochi,Electronics,Accessories,Wireless Earbuds,1,3591.55,25.0,UPI,79.84,544.28,2693.6625000000004,8,2025
+ORD100847,2025-01-29,10161,Vikram Shah,West,Ahmedabad,Home & Kitchen,Home Decor,Table Lamp,1,1922.1,10.0,Net Banking,139.37,509.69,1729.8899999999999,1,2025
+ORD100848,2025-10-03,10108,Ananya Verma,East,Kolkata,Home & Kitchen,Kitchen Appliances,Air Fryer,2,5648.91,15.0,Card,365.82,1833.67,9603.146999999999,10,2025
+ORD100849,2025-04-16,10391,Ananya Joshi,West,Pune,Clothing,Men Clothing,T-Shirt,1,923.08,5.0,UPI,436.13,-139.4,876.926,4,2025
+ORD100850,2025-03-26,10498,Neha Sharma,West,Mumbai,Beauty,Haircare,Shampoo,1,336.44,5.0,Net Banking,34.94,37.66,319.618,3,2025
+ORD100851,2025-01-13,10356,Rohan Patel,East,Patna,Electronics,Smartphone,Mobile Phone,2,36065.16,20.0,COD,47.63,14812.28,57704.25600000001,1,2025
+ORD100852,2025-05-13,10442,Aditya Sharma,South,Chennai,Clothing,Men Clothing,Jacket,2,1644.26,10.0,UPI,283.57,225.18,2959.668,5,2025
+ORD100853,2025-03-18,10026,Pooja Gupta,East,Bhubaneswar,Clothing,Men Clothing,T-Shirt,5,1184.54,0.0,Net Banking,310.47,1848.78,5922.7,3,2025
+ORD100854,2025-02-22,10450,Rahul Gupta,East,Patna,Clothing,Men Clothing,Jacket,5,4559.36,5.0,UPI,385.16,2713.5,21656.96,2,2025
+ORD100855,2025-03-19,10317,Kavya Patel,West,Ahmedabad,Clothing,Men Clothing,Jeans,1,1093.08,0.0,Card,205.3,125.51,1093.08,3,2025
+ORD100856,2025-09-02,10108,Ananya Verma,West,Surat,Electronics,Accessories,Wireless Earbuds,2,1925.08,10.0,UPI,431.36,859.6,3465.144,9,2025
+ORD100857,2025-09-01,10416,Arjun Shah,North,Jaipur,Electronics,Smartphone,Mobile Phone,3,37225.71,10.0,UPI,321.48,33523.29,100509.417,9,2025
+ORD100858,2025-12-09,10596,Kavya Sharma,West,Pune,Sports,Footwear,Running Shoes,3,2331.49,10.0,UPI,326.01,584.75,6295.022999999999,12,2025
+ORD100859,2025-07-12,10068,Vivaan Malhotra,South,Kochi,Electronics,Laptop,Laptop,2,49809.75,15.0,Card,60.39,14808.18,84676.575,7,2025
+ORD100860,2025-06-10,10291,Sanya Kumar,South,Chennai,Electronics,Accessories,Wireless Earbuds,1,2644.92,15.0,UPI,282.65,217.25,2248.182,6,2025
+ORD100861,2025-04-09,10559,Nikhil Gupta,South,Bengaluru,Home & Kitchen,Kitchen,Cookware Set,1,3954.89,15.0,COD,361.2,297.39,3361.6564999999996,4,2025
+ORD100862,2025-05-06,10368,Rohan Sharma,South,Bengaluru,Clothing,Women Clothing,Kurta,1,1257.18,10.0,UPI,238.8,-46.94,1131.462,5,2025
+ORD100863,2025-09-06,10169,Arjun Singh,East,Ranchi,Electronics,Laptop,Laptop,2,67618.79,10.0,UPI,147.06,41077.2,121713.82199999999,9,2025
+ORD100864,2025-05-04,10023,Vivaan Singh,North,Chandigarh,Clothing,Men Clothing,Jeans,2,2220.36,0.0,COD,359.79,1053.68,4440.72,5,2025
+ORD100865,2025-06-03,10540,Ananya Gupta,South,Kochi,Electronics,Audio,Bluetooth Speaker,1,5785.06,10.0,UPI,231.5,737.48,5206.554,6,2025
+ORD100866,2025-12-25,10043,Aarav Shah,North,Unknown,Beauty,Skincare,Face Cream,1,1305.27,0.0,UPI,299.55,36.29,1305.27,12,2025
+ORD100867,2025-01-26,10423,Nikhil Patel,West,Pune,Home & Kitchen,Home Furnishing,Bedsheet,2,1254.41,10.0,COD,388.25,-101.36,2257.938,1,2025
+ORD100868,2025-01-25,10632,Sneha Malhotra,South,Hyderabad,Electronics,Smartphone,Mobile Phone,1,34204.91,5.0,COD,167.45,9732.64,32494.664500000003,1,2025
+ORD100869,2025-07-10,10649,Sneha Mehta,South,Chennai,Clothing,Men Clothing,T-Shirt,2,977.78,25.0,Net Banking,97.92,318.75,1466.67,7,2025
+ORD100870,2025-02-19,10290,Sneha Patel,South,Bengaluru,Electronics,Accessories,Wireless Earbuds,2,4394.1,10.0,UPI,223.94,909.55,7909.380000000001,2,2025
+ORD100871,2025-01-07,10147,Sneha Patel,South,Hyderabad,Clothing,Men Clothing,Jacket,3,2356.76,0.0,COD,34.18,929.86,7070.280000000001,1,2025
+ORD100872,2025-07-31,10500,Nikhil Shah,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,2,3901.53,5.0,Card,343.81,1581.57,7412.907,7,2025
+ORD100873,2025-03-01,10569,Sneha Gupta,East,Bhubaneswar,Electronics,Accessories,Wireless Earbuds,3,3933.0,20.0,Card,58.22,2907.39,9439.2,3,2025
+ORD100874,2025-08-13,10167,Aditi Malhotra,West,Mumbai,Clothing,Men Clothing,T-Shirt,2,1082.31,10.0,COD,326.49,143.23,1948.158,8,2025
+ORD100875,2025-04-09,10030,Vivaan Kumar,East,Bhubaneswar,Electronics,Audio,Bluetooth Speaker,2,2240.24,20.0,UPI,344.33,310.59,3584.384,4,2025
+ORD100876,2025-05-25,10021,Meera Verma,West,Surat,Clothing,Men Clothing,Jacket,1,4858.5,10.0,COD,376.63,1209.48,4372.650000000001,5,2025
+ORD100877,2025-01-23,10255,Sneha Joshi,North,Delhi,Sports,Team Sports,Football,2,774.64,5.0,Card,226.55,284.03,1471.8159999999998,1,2025
+ORD100878,2025-12-18,10223,Aarav Sharma,East,Ranchi,Clothing,Women Clothing,Kurta,1,715.9,0.0,Net Banking,248.88,-162.46,715.9,12,2025
+ORD100879,2025-05-22,10474,Vivaan Malhotra,East,Patna,Clothing,Men Clothing,Jeans,2,1383.98,0.0,UPI,218.69,363.32,2767.96,5,2025
+ORD100880,2025-03-12,10428,Sneha Sharma,West,Pune,Beauty,Skincare,Face Wash,4,205.92,10.0,Card,97.64,122.18,741.312,3,2025
+ORD100881,2025-12-23,10179,Aarav Shah,North,Jaipur,Electronics,Wearables,Smart Watch,1,4913.2,15.0,COD,260.05,665.03,4176.219999999999,12,2025
+ORD100882,2025-07-12,10498,Neha Sharma,North,Lucknow,Home & Kitchen,Kitchen Appliances,Air Fryer,4,6124.42,0.0,Card,395.9,4146.88,24497.68,7,2025
+ORD100883,2025-04-11,10347,Vivaan Singh,West,Mumbai,Sports,Team Sports,Football,2,1541.31,5.0,UPI,412.72,-10.39,2928.4889999999996,4,2025
+ORD100884,2025-09-20,10271,Vivaan Patel,East,Bhubaneswar,Electronics,Wearables,Smart Watch,2,10462.51,10.0,UPI,250.37,4188.05,18832.518,9,2025
+ORD100885,2025-12-14,10244,Aditya Joshi,West,Mumbai,Clothing,Men Clothing,Jeans,2,2864.2,10.0,COD,100.52,1296.22,5155.5599999999995,12,2025
+ORD100886,2025-11-28,10553,Meera Singh,East,Kolkata,Sports,Footwear,Running Shoes,3,5968.88,10.0,Net Banking,377.32,2208.47,16115.976,11,2025
+ORD100887,2025-01-24,10234,Karan Shah,East,Kolkata,Home & Kitchen,Kitchen,Cookware Set,2,4172.24,5.0,UPI,400.46,1695.96,7927.255999999999,1,2025
+ORD100888,2025-04-28,10248,Vikram Singh,East,Kolkata,Home & Kitchen,Kitchen Appliances,Air Fryer,2,4144.76,20.0,UPI,115.93,2091.12,6631.616000000001,4,2025
+ORD100889,2025-10-23,10300,Rohan Shah,North,Jaipur,Clothing,Men Clothing,Jacket,1,3165.74,20.0,UPI,337.29,335.73,2532.592,10,2025
+ORD100890,2025-11-12,10256,Simran Patel,South,Chennai,Electronics,Audio,Bluetooth Speaker,3,2223.76,20.0,UPI,400.75,504.07,5337.024000000001,11,2025
+ORD100891,2025-02-05,10516,Vikram Gupta,West,Surat,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,3245.87,25.0,UPI,277.47,779.64,4868.805,2,2025
+ORD100892,2025-12-13,10431,Aditi Gupta,East,Kolkata,Electronics,Laptop,Laptop,3,51131.34,20.0,UPI,178.32,16137.04,122715.216,12,2025
+ORD100893,2025-04-16,10193,Sanya Joshi,East,Patna,Electronics,Laptop,Laptop,2,84951.82,10.0,Card,186.44,39801.71,152913.276,4,2025
+ORD100894,2025-10-26,10407,Aditi Kumar,North,Lucknow,Home & Kitchen,Home Decor,Table Lamp,3,2241.82,5.0,COD,90.95,1519.51,6389.187000000001,10,2025
+ORD100895,2025-08-09,10312,Vivaan Malhotra,South,Hyderabad,Beauty,Haircare,Shampoo,2,316.61,15.0,UPI,246.51,-78.57,538.237,8,2025
+ORD100896,2025-10-13,10464,Nikhil Mehta,West,Pune,Home & Kitchen,Home Decor,Table Lamp,1,1209.96,10.0,UPI,108.13,41.08,1088.9640000000002,10,2025
+ORD100897,2025-03-22,10380,Pooja Shah,West,Surat,Electronics,Accessories,Wireless Earbuds,2,2543.49,5.0,Card,228.43,730.55,4832.630999999999,3,2025
+ORD100898,2025-01-20,10272,Rahul Kumar,South,Kochi,Sports,Fitness,Dumbbells,3,1809.87,20.0,Card,415.13,437.28,4343.688,1,2025
+ORD100899,2025-02-28,10084,Vivaan Gupta,West,Pune,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,4049.97,15.0,UPI,374.12,2008.2,6884.949,2,2025
+ORD100900,2025-03-11,10625,Vikram Shah,North,Delhi,Home & Kitchen,Kitchen,Cookware Set,2,5778.11,10.0,Card,56.84,3446.51,10400.598,3,2025
+ORD100901,2025-10-08,10506,Nikhil Shah,South,Hyderabad,Home & Kitchen,Home Decor,Table Lamp,1,2199.78,10.0,Card,403.69,-11.85,1979.8020000000001,10,2025
+ORD100902,2025-11-03,10530,Nikhil Sharma,North,Lucknow,Home & Kitchen,Kitchen,Cookware Set,4,2340.02,10.0,Card,40.77,1134.94,8424.072,11,2025
+ORD100903,2025-01-03,10399,Pooja Kumar,West,Mumbai,Sports,Fitness,Dumbbells,5,3195.81,15.0,UPI,268.12,3486.89,13582.1925,1,2025
+ORD100904,2025-08-29,10634,Pooja Malhotra,West,Surat,Beauty,Skincare,Face Wash,1,277.29,15.0,Card,403.42,-371.33,235.69650000000001,8,2025
+ORD100905,2025-08-20,10459,Pooja Sharma,North,Chandigarh,Clothing,Footwear,Sneakers,2,3005.86,0.0,COD,244.53,1169.67,6011.72,8,2025
+ORD100906,2025-07-21,10017,Aditya Patel,South,Kochi,Clothing,Men Clothing,T-Shirt,1,1466.48,0.0,COD,250.54,166.17,1466.48,7,2025
+ORD100907,2025-03-10,10522,Vikram Mehta,North,Lucknow,Sports,Footwear,Running Shoes,1,3688.85,10.0,UPI,421.51,516.78,3319.965,3,2025
+ORD100908,2025-06-21,10472,Aarav Patel,North,Lucknow,Clothing,Men Clothing,Jacket,3,3756.94,0.0,COD,137.9,3631.6,11270.82,6,2025
+ORD100909,2025-12-27,10033,Sneha Verma,West,Ahmedabad,Clothing,Men Clothing,Jacket,1,2255.78,0.0,UPI,246.04,265.85,2255.78,12,2025
+ORD100910,2025-10-24,10005,Kavya Shah,West,Surat,Clothing,Men Clothing,Jacket,2,2950.82,15.0,UPI,32.4,1024.34,5016.394,10,2025
+ORD100911,2025-12-04,10236,Arjun Malhotra,North,Jaipur,Electronics,Accessories,Wireless Earbuds,1,1509.66,10.0,Card,437.81,-161.2,1358.6940000000002,12,2025
+ORD100912,2025-02-04,10370,Sneha Malhotra,North,Lucknow,Beauty,Skincare,Face Wash,4,683.01,0.0,UPI,43.45,783.96,2732.04,2,2025
+ORD100913,2025-08-28,10220,Aarav Gupta,East,Ranchi,Clothing,Men Clothing,Jeans,1,1040.56,10.0,Card,160.64,117.31,936.504,8,2025
+ORD100914,2025-05-02,10419,Pooja Kumar,South,Hyderabad,Beauty,Fragrance,Perfume,1,3998.95,0.0,COD,123.83,1311.71,3998.95,5,2025
+ORD100915,2025-08-16,10554,Simran Patel,West,Surat,Sports,Fitness,Dumbbells,2,2579.15,15.0,COD,418.99,815.26,4384.555,8,2025
+ORD100916,2025-09-04,10330,Meera Sharma,North,Chandigarh,Home & Kitchen,Kitchen,Cookware Set,1,3528.53,0.0,Net Banking,31.12,489.73,3528.53,9,2025
+ORD100917,2025-11-22,10420,Vikram Shah,West,Surat,Clothing,Men Clothing,Jeans,3,2122.24,5.0,Card,319.75,553.73,6048.383999999999,11,2025
+ORD100918,2025-12-13,10627,Vikram Mehta,North,Chandigarh,Beauty,Haircare,Hair Dryer,2,1437.37,10.0,COD,347.13,129.53,2587.266,12,2025
+ORD100919,2025-04-02,10313,Karan Patel,East,Patna,Home & Kitchen,Home Furnishing,Bedsheet,2,1561.33,0.0,Card,89.05,391.47,3122.66,4,2025
+ORD100920,2025-12-08,10349,Pooja Mehta,East,Bhubaneswar,Clothing,Men Clothing,Jacket,5,2387.84,15.0,Net Banking,311.57,1087.59,10148.32,12,2025
+ORD100921,2025-04-23,10372,Vikram Malhotra,South,Hyderabad,Sports,Footwear,Running Shoes,2,3733.37,10.0,UPI,227.05,874.42,6720.066,4,2025
+ORD100922,2025-10-09,10621,Rohan Verma,North,Jaipur,Electronics,Accessories,Wireless Earbuds,3,4235.33,20.0,Card,136.94,1283.3,10164.792000000001,10,2025
+ORD100923,2025-04-15,10120,Aditya Gupta,West,Ahmedabad,Sports,Fitness,Dumbbells,1,3852.11,0.0,Card,200.66,1096.05,3852.11,4,2025
+ORD100924,2025-11-26,10210,Neha Malhotra,North,Delhi,Home & Kitchen,Home Decor,Table Lamp,2,1460.13,5.0,UPI,75.42,797.31,2774.2470000000003,11,2025
+ORD100925,2025-08-30,10527,Ananya Sharma,South,Bengaluru,Beauty,Haircare,Hair Dryer,1,1204.65,5.0,UPI,261.85,66.69,1144.4175,8,2025
+ORD100926,2025-12-05,10290,Sneha Patel,West,Pune,Electronics,Wearables,Smart Watch,1,3747.57,15.0,Net Banking,168.41,725.99,3185.4345,12,2025
+ORD100927,2025-09-16,10488,Rohan Shah,East,Patna,Clothing,Footwear,Sneakers,2,3691.64,10.0,Net Banking,363.71,2092.24,6644.952,9,2025
+ORD100928,2025-01-08,10622,Sneha Gupta,South,Hyderabad,Home & Kitchen,Kitchen,Cookware Set,1,2050.79,25.0,UPI,49.34,393.96,1538.0925,1,2025
+ORD100929,2025-11-26,10387,Meera Verma,West,Ahmedabad,Electronics,Accessories,Wireless Earbuds,4,3173.88,5.0,COD,430.29,2825.02,12060.744,11,2025
+ORD100930,2025-12-22,10485,Kavya Patel,North,Lucknow,Sports,Fitness,Dumbbells,4,2473.08,10.0,UPI,403.33,1494.67,8903.088,12,2025
+ORD100931,2025-10-17,10342,Kavya Gupta,East,Ranchi,Clothing,Men Clothing,T-Shirt,1,756.37,10.0,Card,98.14,105.68,680.7330000000001,10,2025
+ORD100932,2025-04-23,10151,Aditya Sharma,West,Surat,Clothing,Men Clothing,Jeans,1,1168.58,10.0,UPI,97.18,298.58,1051.722,4,2025
+ORD100933,2025-06-21,10299,Sanya Shah,West,Mumbai,Electronics,Wearables,Smart Watch,2,4776.15,10.0,UPI,347.89,2812.57,8597.07,6,2025
+ORD100934,2025-06-17,10202,Meera Singh,West,Surat,Electronics,Wearables,Smart Watch,1,8013.16,0.0,UPI,292.89,1883.64,8013.16,6,2025
+ORD100935,2025-08-22,10494,Kavya Singh,East,Patna,Sports,Cricket,Cricket Bat,2,3359.43,5.0,UPI,103.37,1782.11,6382.9169999999995,8,2025
+ORD100936,2025-06-01,10008,Vivaan Shah,North,Lucknow,Beauty,Haircare,Shampoo,5,381.6,10.0,UPI,298.84,82.41,1717.2,6,2025
+ORD100937,2025-02-16,10198,Sanya Gupta,North,Lucknow,Electronics,Smartphone,Mobile Phone,3,26831.47,5.0,Net Banking,125.4,21186.49,76469.6895,2,2025
+ORD100938,2025-07-17,10031,Neha Singh,East,Bhubaneswar,Sports,Fitness,Dumbbells,3,1913.32,0.0,Card,89.45,1031.56,5739.96,7,2025
+ORD100939,2025-09-30,10113,Ananya Malhotra,East,Kolkata,Beauty,Haircare,Hair Dryer,1,2068.56,20.0,UPI,209.41,375.57,1654.848,9,2025
+ORD100940,2025-04-12,10200,Meera Patel,East,Ranchi,Clothing,Men Clothing,Jeans,1,1880.29,15.0,Card,76.45,270.03,1598.2465,4,2025
+ORD100941,2025-03-23,10214,Sanya Shah,North,Jaipur,Clothing,Women Clothing,Kurta,2,734.77,10.0,Card,174.21,98.54,1322.586,3,2025
+ORD100942,2025-06-15,10046,Aditya Gupta,North,Chandigarh,Clothing,Footwear,Sneakers,2,4815.04,20.0,Net Banking,167.97,851.76,7704.064,6,2025
+ORD100943,2025-04-25,10030,Vivaan Kumar,North,Lucknow,Beauty,Haircare,Hair Dryer,3,2364.65,5.0,UPI,279.39,1916.98,6739.2525000000005,4,2025
+ORD100944,2025-05-24,10122,Simran Shah,South,Bengaluru,Sports,Fitness,Dumbbells,2,1455.05,0.0,UPI,148.29,500.36,2910.1,5,2025
+ORD100945,2025-10-03,10302,Arjun Malhotra,West,Pune,Electronics,Laptop,Laptop,4,73517.94,0.0,UPI,288.35,107834.89,294071.76,10,2025
+ORD100946,2025-08-20,10066,Aditi Mehta,East,Patna,Home & Kitchen,Home Decor,Table Lamp,1,2235.66,5.0,UPI,380.4,256.16,2123.877,8,2025
+ORD100947,2025-08-31,10498,Neha Sharma,South,Chennai,Clothing,Men Clothing,Jacket,1,1678.96,20.0,UPI,327.56,159.12,1343.1680000000001,8,2025
+ORD100948,2025-04-14,10283,Simran Shah,North,Jaipur,Electronics,Laptop,Laptop,3,77904.62,10.0,UPI,298.77,37403.1,210342.474,4,2025
+ORD100949,2025-08-21,10361,Arjun Shah,West,Ahmedabad,Electronics,Audio,Bluetooth Speaker,2,5740.85,0.0,COD,58.71,1837.34,11481.7,8,2025
+ORD100950,2025-06-05,10145,Arjun Gupta,South,Kochi,Sports,Fitness,Dumbbells,2,2250.63,0.0,COD,199.48,1044.57,4501.26,6,2025
+ORD100951,2025-06-28,10212,Aarav Shah,North,Chandigarh,Home & Kitchen,Home Furnishing,Bedsheet,4,2397.99,0.0,UPI,392.32,2273.11,9591.96,6,2025
+ORD100952,2025-08-03,10456,Priya Mehta,North,Lucknow,Clothing,Women Clothing,Kurta,1,2359.77,15.0,Card,353.06,185.49,2005.8045,8,2025
+ORD100953,2025-06-10,10038,Sanya Verma,West,Pune,Beauty,Fragrance,Perfume,2,1612.42,0.0,UPI,272.66,898.17,3224.84,6,2025
+ORD100954,2025-06-12,10046,Aditya Gupta,South,Kochi,Sports,Fitness,Yoga Mat,2,796.14,0.0,Card,347.31,7.26,1592.28,6,2025
+ORD100955,2025-09-11,10228,Vikram Malhotra,West,Mumbai,Clothing,Footwear,Sneakers,5,3508.89,0.0,UPI,304.06,3570.8,17544.45,9,2025
+ORD100956,2025-12-09,10131,Vivaan Kumar,West,Surat,Electronics,Laptop,Laptop,1,69546.97,0.0,Card,400.1,18411.68,69546.97,12,2025
+ORD100957,2025-01-10,10297,Aditya Mehta,West,Mumbai,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4375.19,0.0,UPI,204.68,1110.51,4375.19,1,2025
+ORD100958,2025-09-16,10341,Meera Verma,West,Ahmedabad,Home & Kitchen,Kitchen,Cookware Set,2,2892.49,20.0,Card,379.16,940.22,4627.9839999999995,9,2025
+ORD100959,2025-07-09,10229,Priya Malhotra,North,Lucknow,Home & Kitchen,Home Decor,Table Lamp,1,1829.28,25.0,Card,373.35,-33.14,1371.96,7,2025
+ORD100960,2025-08-07,10576,Meera Joshi,East,Bhubaneswar,Clothing,Footwear,Sneakers,1,3057.26,20.0,Card,262.76,218.1,2445.8080000000004,8,2025
+ORD100961,2025-10-12,10434,Neha Patel,South,Kochi,Electronics,Audio,Bluetooth Speaker,1,3520.79,10.0,Card,302.21,601.77,3168.7110000000002,10,2025
+ORD100962,2025-10-11,10167,Aditi Malhotra,North,Lucknow,Sports,Fitness,Yoga Mat,1,1010.19,5.0,Net Banking,317.0,-17.81,959.6805,10,2025
+ORD100963,2025-08-08,10116,Vivaan Sharma,East,Bhubaneswar,Beauty,Haircare,Shampoo,5,689.77,10.0,UPI,286.14,307.38,3103.965,8,2025
+ORD100964,2025-01-15,10220,Aarav Gupta,South,Kochi,Electronics,Wearables,Smart Watch,2,7979.23,0.0,Card,174.24,4226.55,15958.46,1,2025
+ORD100965,2025-07-04,10151,Aditya Sharma,West,Mumbai,Home & Kitchen,Home Decor,Table Lamp,1,2116.52,10.0,Card,52.4,474.04,1904.868,7,2025
+ORD100966,2025-05-23,10363,Aditya Gupta,South,Kochi,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,4945.9,15.0,COD,97.37,1128.99,4204.014999999999,5,2025
+ORD100967,2025-09-04,10166,Aditya Verma,South,Hyderabad,Electronics,Laptop,Laptop,1,78301.62,10.0,UPI,89.25,13693.26,70471.458,9,2025
+ORD100968,2025-08-20,10378,Priya Sharma,West,Surat,Home & Kitchen,Kitchen Appliances,Air Fryer,1,7247.35,25.0,UPI,70.01,1826.74,5435.512500000001,8,2025
+ORD100969,2025-08-30,10620,Rahul Gupta,West,Mumbai,Clothing,Men Clothing,Jeans,2,2487.18,5.0,Card,72.83,1633.15,4725.642,8,2025
+ORD100970,2025-07-15,10339,Vikram Mehta,East,Ranchi,Clothing,Footwear,Sneakers,2,5803.35,0.0,COD,371.14,1989.97,11606.7,7,2025
+ORD100971,2025-12-18,10072,Ananya Sharma,East,Patna,Electronics,Audio,Bluetooth Speaker,3,4367.23,5.0,COD,211.45,1902.3,12446.605499999998,12,2025
+ORD100972,2025-07-18,10058,Aarav Patel,South,Hyderabad,Home & Kitchen,Home Decor,Table Lamp,3,1359.39,0.0,Net Banking,83.67,460.91,4078.17,7,2025
+ORD100973,2025-03-31,10542,Nikhil Verma,East,Bhubaneswar,Beauty,Skincare,Face Cream,4,1158.13,10.0,Card,203.96,1332.06,4169.268000000001,3,2025
+ORD100974,2025-05-30,10365,Nikhil Gupta,West,Surat,Clothing,Footwear,Sneakers,1,3036.15,15.0,COD,246.29,646.66,2580.7275,5,2025
+ORD100975,2025-06-11,10107,Aarav Shah,North,Jaipur,Sports,Fitness,Yoga Mat,2,1658.64,10.0,Net Banking,83.97,982.44,2985.552,6,2025
+ORD100976,2025-12-21,10217,Simran Shah,West,Surat,Electronics,Audio,Bluetooth Speaker,1,7558.58,5.0,Card,323.81,1857.15,7180.651,12,2025
+ORD100977,2025-05-18,10558,Ananya Sharma,West,Mumbai,Electronics,Laptop,Laptop,3,66850.48,5.0,Card,420.16,26863.72,190523.868,5,2025
+ORD100978,2025-10-21,10509,Isha Malhotra,West,Ahmedabad,Home & Kitchen,Home Decor,Table Lamp,3,2204.77,0.0,COD,241.95,748.63,6614.3099999999995,10,2025
+ORD100979,2025-09-09,10420,Vikram Shah,West,Pune,Electronics,Laptop,Laptop,1,56346.4,5.0,Card,429.48,9304.88,53529.08,9,2025
+ORD100980,2025-08-21,10373,Aditi Joshi,South,Bengaluru,Sports,Cricket,Cricket Bat,1,6178.47,25.0,Card,363.96,455.06,4633.8525,8,2025
+ORD100981,2025-09-27,10643,Karan Malhotra,South,Hyderabad,Home & Kitchen,Kitchen Appliances,Mixer Grinder,1,3150.14,0.0,Net Banking,45.5,971.53,3150.14,9,2025
+ORD100982,2025-12-17,10637,Ananya Patel,South,Bengaluru,Home & Kitchen,Kitchen Appliances,Mixer Grinder,2,3720.3,20.0,Card,54.69,1078.61,5952.4800000000005,12,2025
+ORD100983,2025-06-01,10332,Aarav Sharma,South,Kochi,Home & Kitchen,Home Decor,Table Lamp,4,1170.03,5.0,Card,419.41,228.12,4446.114,6,2025
+ORD100984,2025-03-28,10255,Sneha Joshi,North,Lucknow,Clothing,Men Clothing,Jeans,1,2272.08,20.0,Net Banking,187.6,220.02,1817.664,3,2025
+ORD100985,2025-11-27,10624,Vikram Malhotra,West,Mumbai,Home & Kitchen,Kitchen Appliances,Air Fryer,1,6117.9,0.0,Card,136.15,1693.31,6117.9,11,2025
+ORD100986,2025-10-01,10180,Sneha Patel,North,Delhi,Beauty,Skincare,Face Cream,5,532.06,15.0,Card,141.08,641.78,2261.2549999999997,10,2025
+ORD100987,2025-10-02,10021,Meera Verma,East,Patna,Clothing,Footwear,Sneakers,2,4418.41,10.0,COD,152.9,2202.77,7953.138,10,2025
+ORD100988,2025-06-17,10257,Arjun Patel,South,Bengaluru,Clothing,Men Clothing,Jacket,1,1519.58,0.0,UPI,78.0,288.72,1519.58,6,2025
+ORD100989,2025-07-20,10455,Karan Shah,West,Surat,Beauty,Skincare,Face Wash,2,686.12,15.0,Net Banking,243.88,-11.2,1166.404,7,2025
+ORD100990,2025-05-25,10592,Vivaan Joshi,North,Delhi,Beauty,Skincare,Face Wash,2,735.82,20.0,Card,365.37,-213.23,1177.3120000000001,5,2025
+ORD100991,2025-06-25,10517,Ananya Singh,North,Jaipur,Sports,Cricket,Cricket Bat,1,3427.87,0.0,UPI,439.62,235.17,3427.87,6,2025
+ORD100992,2025-11-16,10176,Neha Kumar,West,Mumbai,Beauty,Skincare,Face Wash,1,453.82,15.0,Card,337.76,-250.09,385.74699999999996,11,2025
+ORD100993,2025-05-25,10196,Rahul Kumar,South,Kochi,Electronics,Laptop,Laptop,1,61363.25,5.0,Net Banking,447.82,19964.53,58295.087499999994,5,2025
+ORD100994,2025-03-11,10372,Vikram Malhotra,West,Mumbai,Home & Kitchen,Home Furnishing,Bedsheet,5,2387.64,0.0,UPI,131.02,2805.27,11938.199999999999,3,2025
+ORD100995,2025-11-04,10112,Neha Gupta,East,Kolkata,Beauty,Skincare,Face Cream,2,823.62,15.0,COD,152.0,256.39,1400.154,11,2025
+ORD100996,2025-04-16,10542,Nikhil Verma,West,Ahmedabad,Beauty,Haircare,Shampoo,5,1055.18,10.0,COD,296.29,466.53,4748.31,4,2025
+ORD100997,2025-12-01,10614,Priya Sharma,South,Kochi,Electronics,Smartphone,Mobile Phone,2,44515.08,0.0,Net Banking,371.91,26185.54,89030.16,12,2025
+ORD100998,2025-06-29,10378,Priya Sharma,West,Ahmedabad,Clothing,Footwear,Sneakers,2,2304.01,10.0,UPI,362.73,395.74,4147.218000000001,6,2025
+ORD100999,2025-02-01,10161,Vikram Shah,West,Mumbai,Home & Kitchen,Home Decor,Table Lamp,5,1783.58,15.0,COD,324.63,1143.99,7580.214999999999,2,2025
+ORD101000,2025-08-24,10279,Nikhil Kumar,South,Bengaluru,Clothing,Men Clothing,Jacket,1,4602.56,5.0,UPI,80.3,785.45,4372.432,8,2025
