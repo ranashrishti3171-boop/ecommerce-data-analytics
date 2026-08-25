@@ -143,17 +143,17 @@ Power BI file:
 
 ## 💡 Key Business Insights
 
-The key findings from the analysis include:
+The analysis identified the following key business findings:
 
-- **Best Performing Region:** [ADD YOUR RESULT]
-- **Best Performing Category:** [ADD YOUR RESULT]
-- **Top Product:** [ADD YOUR RESULT]
-- **Best Sales Month:** [ADD YOUR RESULT]
-- **Most Used Payment Mode:** [ADD YOUR RESULT]
-- **Repeat Customer Percentage:** [ADD YOUR RESULT]
-- **Highest Profit Category:** [ADD YOUR RESULT]
+- **Best Performing Region:** West
+- **Best Performing Category:** Electronics
+- **Top Product:** Laptop
+- **Best Sales Month:** April
+- **Most Used Payment Mode:** UPI
+- **Repeat Customer Percentage:** 55.75%
+- **Most Profitable Payment Mode:** UPI
 
-These findings can be used to identify high-performing products and regions and support business decision-making.
+These findings can help the business identify high-performing regions, products, categories, customer behavior, and payment preferences.
 
 ---
 
