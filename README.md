@@ -138,9 +138,14 @@ The dashboard focuses on:
 Power BI file:
 
 `powerbi/ecommerce_dashboard.pbix`
+The Power BI dashboard provides an interactive view of e-commerce sales,
+profitability, product performance, regional performance, and customer behavior.
+
+### Dashboard Preview
+
+![Power BI Dashboard](powerbi/dashboard_overview.jpg)
 
 ---
-
 ## 💡 Key Business Insights
 
 The analysis identified the following key business findings:
