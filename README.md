@@ -143,7 +143,7 @@ profitability, product performance, regional performance, and customer behavior.
 
 ### Dashboard Preview
 
-![Power BI Dashboard](powerbi/dashboard_overview.jpg)
+![Power BI Dashboard](powerbi/dashboard_overview.jpeg)
 
 ---
 ## 💡 Key Business Insights
@@ -183,7 +183,7 @@ ecommerce_project/
 │
 ├── powerbi/
 │   └── ecommerce_dashboard.pbix
-      -dashboard_overview.jpg
+      -dashboard_overview.jpeg
 │
 ├── .gitignore
 └── README.md
