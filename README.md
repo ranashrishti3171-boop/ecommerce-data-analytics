@@ -179,9 +179,11 @@ ecommerce_project/
 │
 ├── sql/
 │   └── ecommerce_analytics.sql
+      -SQL_Analysis_Report.pdf 
 │
 ├── powerbi/
 │   └── ecommerce_dashboard.pbix
+      -dashboard_overview.jpg
 │
 ├── .gitignore
 └── README.md
