@@ -143,7 +143,7 @@ profitability, product performance, regional performance, and customer behavior.
 
 ### Dashboard Preview
 
-![Power BI Dashboard](powerbi/dashboard_overview.jpeg)
+![Power BI Dashboard](power_bi/dashboard_overview.jpeg)
 
 ---
 ## 💡 Key Business Insights
